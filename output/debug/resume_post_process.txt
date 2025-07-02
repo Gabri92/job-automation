@@ -1,0 +1,51 @@
+I’m a Software Engineer with a Master’s degree in Mechatronic Engineering and 5 years of experience in software
+STRENGTHS
+Software development
+IoT Systems
+C#
+.NET
+WPF
+Python
+C \C++
+Matlab\Simulink
+Linux
+Shell Scripting
+Microsoft Azure
+Git
+Docker
+HTML
+CSS
+Javascript
+SQL
+OOP
+UML
+Paolino Bacci srl
+Date: November 2023 –
+• Designed and developed modular, multi-threaded applications using C# (WPF/Winforms), Python and C++ to
+control and monitor industrial machines.
+• Integrated Microsoft Azure IoT Hub for real-time data monitoring and analytics, implementing device connectiv-
+ity via X.509 certiﬁcates and managing remote commands through the device twin
+• Implemented unit tests in a TDD framework (xUnit) for C# applications, ensuring software reliability and main-
+Software & Robotics Engineer
+Date: July 2022 – May 2023
+• Developed industrial robotics software using C# and Python, including 3D kinematics, vision systems’ integra-
+tions, HMI, and communication protocols
+• Programmed, calibrated, and set up ABB and KUKA robots, ensuring eﬃciency in diverse manufacturing tasks
+Software & Robotics Engineer
+Superiore Sant’Anna - Biorobotics Institute
+Date: February 2020 – May 2022
+• Developed the control software of more than a prototype for diagnostic automation using C++ on Arduino boards
+and PLC Structured Text (ST)
+• Developed a prototypal network architecture to connect prototypes, collect and visualize data using MQTT, FastAPI
+Date: September 2024 – February 2025
+• Development of web application using the Django Framework (Python) to connect industrial devices and enable
+real-time data monitoring, streamlining operations and enhancing process visibility.
+M.Sc. in Mechatronic Engineering
+Politecnico di Torino
+Date: Jan 2017 – Dec 2019
+B.Sc. in Automation Engineering
+Università degli Studi di Napoli Federico II
+Date: Sep 2012 – Jan 2017
+Grado en Ingeniería Electrónica, Robótica y Mecatrónica - Erasmus Project
+Escuela Tecnica Superior de Sevilla
+Date: Sep 2014 – Jul 2015
