@@ -1,0 +1,345 @@
+Job 1:
+  job-company: DoiT
+  job-title: Sr. Software Engineer (GenAI-focused)
+  job-description: Location
+
+Our Senior Software Engineer will be an integral part of our Engineering teams in EMEA.
+
+This role is based remotely as a full-time employee in the UK, Ireland, Estonia, the Netherlands, Sweden, and Spain. We are also open to contractors in Eastern Europe and Portugal.
+
+
+
+Who We Are
+
+DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state, from planning to production.
+
+
+Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.
+
+With decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide.
+
+
+
+The Opportunity
+
+As a Senior Software Engineer, you will be working on improving the DoiT Cloud Intelligence product and implementing new features. You'll be collaborating with product managers, DevOps, and developers from other teams, and actively participating in product-making decisions.
+
+In this role, you will focus on building and optimizing solutions using AI and cloud technologies, with a strong emphasis on cost optimization and performance at scale. You'll be working on enhancing Ava, our AI Assistant, as well as a feature known as Diagram, which helps customers — primarily startups and tech companies — visualize and streamline their cloud infrastructure.
+
+You will play a key role in solving complex technical challenges, such as building scalable AI-based systems and integrating cloud intelligence into our platform
+
+
+
+Responsibilities
+
+Implementing features. From the proposal through spec and implementation to maintenance. You're expected to propose things that you think can be an excellent addition to the products
+Reviewing code. We believe in code reviews. And you will soon start reviewing pull requests as well!
+Improving the health of the codebase. We're mindful of accumulating technical debt. We dedicate one day per week to housekeeping
+Providing feedback. The team plans and discusses the upcoming work. We provide feedback to each other, trying to find challenges and unknowns as early as possible
+
+Qualifications
+
+5+ years of software development experience as a Full Stack Engineer
+A solid understanding of programming languages, ideally knowledge of TypeScript and Go, but if you don't, you will be willing to learn and fully embrace these languages
+Experience with Google Cloud or AWS in a production environment
+Experience in system design
+Embraces continuous development and learning
+Knowledge of software engineering practices
+Experience with Git/GitHub
+Excellent communication skills in English, both written and verbal
+Self-organized, Goal-oriented, self-motivated individual who is confident, thorough, and tenacious
+Ability to effectively operate with flexibility in a fast-paced, constantly evolving team environment
+A great sense of humor and enjoys having fun at work
+
+Bonus Points
+
+BA/BS degree or equivalent practical experience
+Experience with AI, embeddings, LangChain, LangGraph, agents, and MCP
+Experience with a vector database
+Experience with IaC (Terraform/Pulumi)
+
+
+
+Are you a Do'er?
+
+Be your truest self. Work on your terms. Make a difference.
+
+We are home to a global team of incredible talent who work remotely and have the flexibility to have a schedule that balances your work and home life. We embrace and support leveling up your skills professionally and personally.
+
+
+What does being a Do'er mean? We're all about being entrepreneurial, pursuing knowledge, and having fun! Click here to learn more about our core values.
+
+
+Sounds too good to be true? Check out our Glassdoor Page.
+
+We thought so too, but we're here and happy we hit that 'apply' button.
+
+
+Unlimited Vacation
+Flexible Working Options
+Health Insurance
+Parental Leave
+Employee Stock Option Plan
+Home Office Allowance
+Professional Development Stipend
+Peer Recognition Program
+
+
+
+Many Do'ers, One Team
+
+DoiT unites as Many Do'ers, One Team, where diversity is more than a goal—it's our strength. We actively cultivate an inclusive, equitable workplace, recognizing that each unique perspective enhances our innovation. By celebrating differences, we create an environment where every individual feels valued, contributing to our collective success.
+
+#LI-RemoteMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=104&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_e8f792a0&cb=1751525842146&jobListingId=1009799417601&jrtk=5-yul1-0-1iv7h6mvk2gdn000-f15258047610e449
+  score: 53.84
+----------------------------------------
+Job 2:
+  job-company: Autodesk
+  job-title: Software Development Engineer
+  job-description: Job Requisition ID #
+25WD89722
+As we transition from a world of files to that of products powered by cloud data services, we’re building our core underlying cloud fabric and kernel that is comprised of massively scalable, always-on, globally-deployed cloud services that underpin our customer facing systems. In order to provide a seamless cloud data experience for our customers we’re building a platform that bridges existing products and solutions with our cloud data platform.
+We are seeking a highly proficient principal software engineer to help in building our client-side data platform. The successful candidate should have a strong sense of ownership and be able to drive projects through completion. They should be well versed in building highly optimised SDKs and components that can be used in cross-platform environments.
+Responsibilities
+Work on a scrum team of about 7 – 10 team members
+Demonstrate impact and influence across teams outside of the direct organization
+Contribute significantly to large-scale, intricate projects involving multiple engineers and cross-functional teams
+Spearhead solutions for uncertain milestones, from requirement clarification and scope planning to ensuring delivery
+Influence cross-functional teams and contribute to large-scale projects
+Be a role model for working in the production codebase for Autodesk Platform Services (C# / .Net Framework & Core) to deliver high-quality, secure, and stable code
+Develop, troubleshoot, test, and debug C# .Net components
+Engage directly with customers to provide technical support for complex issues
+Be a technical leader who influences technical decisions across multiple teams
+Write technical design documents, participate in design and code reviews within the team, across teams, develop estimates for tasks, and document code
+Work with an extended team of software developers, QAs, and Product Managers and Architects in the US and other worldwide engineering sites
+Participate in Agile ceremonies such as sprint planning, daily scrum meetings, backlog grooming, sprint reviews, and sprint retrospectives
+Act as a Product owner for the team; balancing requirements from different sources like PM, Architectural roadmap, and service/component improvement
+Lead team initiatives and drive key business outcomes
+Navigate uncertain milestones from concept to successful delivery
+Lead technical discussions and incident resolutions
+Mentor team members and foster a culture of knowledge-sharing
+Act as a Subject Matter Expert, make significant contributions to design
+Utilize expertise in .Net and C#, along with a strong grasp of key design principles
+Design solutions with a focus on performance, scalability, resiliency, and cost
+Minimum Qualifications
+Proven experience as a software engineer, with a focus on .Net and C# in Windows Desktop environment
+Excellent knowledge of software and application design and architecture.
+Experience in code review following all best practices
+Knowledge of test-driven development.
+Mastery in software engineering tools, including Git/GitHub & Jenkins & experience with build and deployment processes.
+#LI-MM1
+Learn More
+About Autodesk
+Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
+We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
+When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
+Salary transparency
+Salary is one part of Autodesk’s competitive compensation package. Offers are based on the candidate’s experience and geographic location. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package.
+Diversity & Belonging
+
+We take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/diversity-and-belonging
+Are you an existing contractor or consultant with Autodesk?
+Please search for open jobs and apply internally (not on this external site).Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=112&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_208f13b4&cb=1751525842152&jobListingId=1009799249742&jrtk=5-yul1-0-1iv7h6mvk2gdn000-bdf8ae3351ecd726
+  score: 47.39
+----------------------------------------
+Job 3:
+  job-company: Merck Group
+  job-title: Senior DevOps Engineer
+  job-description: Work Your Magic with us!
+
+Ready to explore, break barriers, and discover more? We know you’ve got big plans – so do we! Our colleagues across the globe love innovating with science and technology to enrich people’s lives with our solutions in Healthcare, Life Science, and Electronics. Together, we dream big and are passionate about caring for our rich mix of people, customers, patients, and planet. That's why we are always looking for curious minds that see themselves imagining the unimaginable with us.
+
+United As One for Patients, our purpose in Healthcare is to help create, improve and prolong lives. We develop medicines, intelligent devices and innovative technologies in therapeutic areas such as Oncology, Neurology and Fertility. Our teams work together across 6 continents with passion and relentless curiosity in order to help patients at every stage of life. Joining our Healthcare team is becoming part of a diverse, inclusive and flexible working culture, presenting great opportunities for personal development and career advancement across the globe.
+
+Your Role: As a Senior DevOps Engineer with a strong background in Azure, you will join the Data & AI Solutions - Engineering team in our Healthcare R&D business. Your expertise will enhance cloud-based platforms in our D&A Landscape using AWS Cloud Services and Azure AD, supporting our R&D efforts in drug discovery and development.
+
+You will bridge software development, quality assurance, and IT operations, ensuring our platform is reliable, scalable, and automated. Your expertise will contribute to accelerate deployment cycles and minimize downtime. Key responsibilities include deploying new releases, maintaining Azure AD for identity management, and collaborating with cross-functional teams to advocate for DevOps best practices and guide architectural decisions.
+
+Join a multicultural team working in agile methodologies with high autonomy. The role requires office presence at our Spain location.
+
+Who You Are:
+University degree in Computer Science, Engineering, or a related field
+5+ years of experience applying DevOps in solution development & delivery
+Proficiency in Azure DevOps incl. project configurations, repositories, pipelines, and environments
+Proficiency in Azure AD incl. apps registration, and authentication flows (OBO, Client Credentials)
+Good understanding of AWS services and cloud system design
+Strong experience in observability practices, including logging, monitoring, and tracing using tools like Prometheus, Grafana, ELK Stack, or AWS-native solutions.
+Proficiency in Infrastructure as Code (IaC) using Terraform and AWS CloudFormation for automated and repeatable cloud infrastructure deployments.
+Experience with configuration management tools such as Ansible for automating service provisioning, configuration and management.
+Knowledge of security best practices in DevOps, including secrets management, role-based access control (RBAC), and compliance frameworks
+Strong scripting and automation skills using Python for developing of automations and integration workflows
+Willingness to work in a multinational environment and cross-functional teams distributed between US, Europe (mostly, Germany) and India
+Sense of accountability and ownership, fast learner
+Fluency in English & excellent communication skills for technical and non-technical stakeholders
+
+If you are curious and ambitious to take up this challenge, apply today and be in the driver seat implementing our Data and Analytics landscape. Your contribution will make a lasting impact on our customers and our organization and elevating Data & Analytics to the next level!
+
+What we offer: We are curious minds that come from a broad range of backgrounds, perspectives, and life experiences. We celebrate all dimensions of diversity and believe that it drives excellence and innovation, strengthening our ability to lead in science and technology. We are committed to creating access and opportunities for all to develop and grow at your own pace. Join us in building a culture of inclusion and belonging that impacts millions and empowers everyone to work their magic and champion human progress!
+
+
+
+Apply now and become a part of our diverse team!Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_7ed036e9&cb=1751525842145&jobListingId=1009800033346&jrtk=5-yul1-0-1iv7h6mvk2gdn000-83951ea11ed8e1e4
+  score: 47.36
+----------------------------------------
+Job 4:
+  job-company: Modus Create
+  job-title: Senior DevOps Engineer (GitHub Migration)
+  job-description: Join Our DevOps Engineering Team at Modus Create!
+
+We are seeking a Senior DevOps Engineer with extensive experience with enterprise GitHub and GitLab (and extra points for Perforce (P4)), to collaborate with cross-functional teams and drive strategic consulting and full lifecycle product development. You will play a pivotal role in designing, executing, and supporting complex migration projects, ensuring seamless transition and adoption of GitHub at scale.
+
+About You
+
+Experience: Senior with 7+ years of experience as a DevOps Engineer with a proven track record in designing, deploying, and maintaining cloud-based infrastructure in AWS or Azure.
+Enterprise-Scale GitHub Migration:Demonstrated experience leading or executing large-scale migrations from GitLab and Perforce (P4) to GitHub.Deep understanding of migration planning, tooling, risk mitigation, and post-migration support.
+Version Control: Extensive experience using Git and GitHub for source control and development workflows.
+CI/CD: Strong experience with CI/CD pipelines and automation of software delivery processes.
+GitHub Migration: Experience in GitHub migration processes and a GitHub certification is highly desirable.
+Strong skills and experience in cloud infrastructure, including:
+Infrastructure-as-Code (IaC)
+Virtualization and containerization
+Monitoring and automation
+Strong communication skills to collaborate effectively with various teams and explain technical concepts to non-technical stakeholders.
+Excellent problem-solving abilities to tackle complex issues and think strategically.
+Adaptability to learn new tools and methodologies in the ever-evolving tech landscape.
+Collaboration and teamwork skills for working smoothly with development, operations, and IT teams.
+Attention to detail to ensure system stability and high-quality deliverables by identifying potential issues early.
+Independent Work and Ownership: Manage multiple tasks with minimal direction, continually improving processes. Mentor others inside Modus and our clients team.
+Project familiarity: GitHub experience especially on projects that tackled migrations. Extensive experience using Git and GitHub for source control and development is to be expected.
+Bonus Points For:
+GitHub certification.
+AWS/Azure certification.
+GitHub migration experience.
+You'll Love:
+Mentoring and coaching both clients and Modus teammates from the comfort of home.
+Deep diving into customer needs and translating them into actionable requirements.
+Exploring new tech and continuously learning—because software is always evolving!
+Sharing your knowledge and participating actively in the community.
+Team Collaboration:
+Overlap with some EST hours daily is expected.
+Reliable high-speed internet is a must!
+Team Culture:
+
+At Modus, a fast-growing, remote-first company, you'll experience various exciting projects! Here's a taste of what you might do:
+
+Giving back: Be an active participant through opportunities such as blog posts, open source contributions, and event speaking.
+Travel & connections: Meet fantastic people during our remote meet-ups! It's all about collaboration and fun! Global environment and diversity at its best.
+Teaching and learning: Work in active teams on internal and external projects, staying up-to-date with the latest technologies.
+Being a self starter: Autonomy and proactivity are the key to succeed at Modus.
+Client interaction: Represent Modus and our values while connecting directly with our clients, some of the world's biggest brands.
+Growth: Enjoy comprehensive learning benefits, with access to over 12,000 courses. Your growth is our priority!
+About us:
+
+Founded in 2011, Modus is a global, fully remote team of world-class technologists who thrive in a collaborative, innovative environment. We were fully remote before it was cool! We support organizations on their digital transformation journey through strategic consulting and full lifecycle product development, partnering with industry leaders including Atlassian, GitHub and AWS. Recognized as one of the Inc. 5000 Fastest Growing Private Companies for nine years and a top remote work company by FlexJobs, we have helped some of the world's largest brands deliver powerful digital experiences.
+
+We combine boutique expertise with enterprise-scale capabilities. As a GitHub partner with a world-class team, we help organizations innovate and solve complex challenges for Fortune 500 companies and beyond, we want to hear from you.
+
+Perks of working with us:
+Remote work with flexible working hours.
+Modus Global Office Program: for when you want to get out of your home, we offer on-demand access to private offices, meeting rooms, co-working spaces and business lounges in locations in over 120 countries.
+Employee Referral Program.
+Client Referral Program.
+Travel according to client or team needs.
+The chance to work side-by-side with thought leaders in emerging tech.
+Access to more than 12,000 courses with a licensed Coursera account.
+Possibility to obtain paid certification/courses if they align with company goals and are relevant to the employee's role.
+
+Additional benefits might apply contingent on your location.
+
+
+
+By joining our team, you'll be part of a winning squad that plays to each other's strengths and celebrates every success together. Apply now and show us you've got what it takes to take your consulting skills to the next level with Modus Create!Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=109&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_66c47fcf&cb=1751525842150&jobListingId=1009799417452&jrtk=5-yul1-0-1iv7h6mvk2gdn000-703bd8750088a1a2
+  score: 45.52
+----------------------------------------
+Job 5:
+  job-company: Criteo
+  job-title: Senior Software Engineer
+  job-description: What You'll Do:
+The Global Automation team develops and runs a wide range of first-class solutions that empower Criteo’s commercial and operations teams to maximize their business impact.
+We build scalable, reliable, and interoperable systems, that constantly need to adapt to business priorities and evolutions. And we build the applications, APIs and UIs to supply first-class service to our users.
+As a Senior Software Engineer, you will be a key contributor in crafting high-impact solutions, working within a cross-functional team of skilled engineers. Your work will involve designing and developing APIs, ETL pipelines, and frameworks that give commercial stakeholders secure, reliable, and performant access to data and insights.
+You will own the development of frontend features while contributing to backend functionality when needed. You’ll collaborate closely with Product Managers, UX Designers, and fellow engineers to build end-to-end solutions with a clear focus on usability, performance, and maintainability.
+Key responsibilities
+Own frontend development tasks from concept through delivery, using modern frameworks (Angular preferred).
+Contribute to backend development by building or integrating APIs, data flows, and server-side logic.
+Participate in architecture discussions and contribute to the technical roadmap.
+Ensure code quality and reliability through comprehensive testing, code reviews, and best practices.
+Collaborate with Product Managers, UX Designers, and internal stakeholders to deliver user-centric, high-value features.
+Mentor junior developers and share knowledge to uplift team capabilities.
+Who You Are:
+BS in Software Engineering or related field, with 5+ years of professional experience in software development, with a strong focus on frontend technologies.
+Thrive in a collaborative team environment, and actively mentor and support your peers, sharing knowledge and helping others overcome technical challenges.
+Bring a collaborative mindset, communicating effectively with both technical and non-technical stakeholders.
+Have a strong grasp of software engineering principles, system design, and algorithms, and you write clean, maintainable, and well-tested code.
+Have a solid grasp of backend concepts and are comfortable working with APIs, databases, and server-side development, preferably in Python.
+Have expertise in modern frontend frameworks such as Angular (preferred), React, or Vue.js and solid understanding of core web technologies, including HTML, CSS, and JavaScript.
+We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!
+We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!
+Who We Are:
+Criteo is the global commerce media company that enables marketers and media owners to deliver richer consumer experiences and drive better commerce outcomes through its industry leading Commerce Media Platform.
+At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 3,600 Criteos collaborates to develop an open and inclusive environment. We seek to ensure that all of our workers are treated equally, and we do not tolerate discrimination based on race, gender identity, gender, sexual orientation, color, national origin, religion, age, disability, political opinion, pregnancy, migrant status, ethnicity, marital or family status, or other protected characteristics at all stages of the employment lifecycle including how we attract and recruit, through promotions, pay decisions, benefits, career progression and development. We aim to ensure employment decisions and actions are based solely on business-related considerations and not on protected characteristics. As outlined in our Code of Business Conduct and Ethics, we strictly forbid any kind of discrimination, harassment, mistreatment or bullying towards colleagues, clients, suppliers, stakeholders, shareholders, or any visitors of Criteo. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising encouraging discovery, innovation and choice in an open internet.
+Why Join Us:
+At Criteo, we take pride in being a caring culture and are committed to providing our employees with valuable benefits that support their physical, emotional and financial wellbeing, their interests and the important life events. We aim to create a place where people can grow and learn from each other while having a meaningful impact. We want to set you up for success in your job, and an important part of that includes comprehensive perks & benefits. Benefits may vary depending on the country where you work and the nature of your employment with Criteo. When determining compensation, we carefully consider a wide range of job-related factors, including experience, knowledge, skills, education, and location. These factors can cause your compensation to vary.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=127&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_020d15e2&cb=1751525842155&jobListingId=1009795582166&jrtk=5-yul1-0-1iv7h6mvk2gdn000-d8b690d4999574f5
+  score: 45.27
+----------------------------------------
+Job 6:
+  job-company: Yokoy
+  job-title: Senior DevOps Engineer
+  job-description: At Yokoy, our vision is simple: empower companies to save money on every dollar they spend. We’re shaping a future where businesses handle their finances efficiently, securely, and compliantly - minimizing manual effort through the power of AI and automation. Backed by world-class investors, trusted by hundreds of global customers, and driven by a team of over 250 exceptional minds, we’re on a mission to revolutionize the way companies manage their spending. But that’s not everything: recently, Yokoy has been acquired by TravelPerk, the hypergrowth global business travel platform, bringing together two best-in-class platforms that are transforming the way companies operate.
+
+Are you excited about working in a fast-paced environment alongside a passionate and ambitious team? Join us on our mission to revolutionize the travel and spend management industry! We’re looking for a Senior DevOps Engineer to help us reach our goals.
+
+
+
+As a Senior DevOps Engineer at Yokoy, you will work on maintaining and further developing the Yokoy software (SaaS) by building and testing new features, advancing the technology for scalability and ensuring reliability with a specific focus on security. Yokoy is based on the newest technology available on the market, which makes your work extremely exciting. The Engineer role is a crucial position for us as Yokoy is growing fast on a global scale, which requires a product that can keep up with the speed without compromising on quality.
+\uD83E\uDDD1\uD83C\uDFFD‍\uD83D\uDCBB What you’ll do:
+With the understanding of the needs of stakeholders within an Agile DevOps framework, you build and set up new development tools and infrastructure with emphasis on security
+You work on ways to automate and improve development and release processes using industry standard tools for Containerised Environments.
+You test and examine infrastructure and code to ensure high levels of security & low levels of risk
+You ensure that systems are scaled correctly (right-sizing) and automated
+You proactively identify technical problems and develop software and infrastructure updates and ‘fixes’
+You work closely with software developers and software engineers to ensure that development follows established processes and works as intended within a secure and scalable framework
+You will be involved in project management decisions and plan out your own projects
+You will assist and mentor junior members within the team️ What you’ll need:
+A bachelor’s or master’s degree (University/University of Applied Sciences) in an IT security or engineering discipline (Computer Science, IT Security, Cyber Security, Math or Physics) or equivalent experience.
+You have at least 4 years of infrastructure experience.
+You are experienced with cloud infrastructure (GCP preferred; Azure/AWS additional is a plus).
+You are knowledgeable in programming or scripting languages and/or IaaS & CI/CD tooling.
+You enjoy working in a team and communicating with others.
+You are able to take ownership of risk evaluation, and you have a pragmatic approach to risk mitigation.
+You have strong problem-solving skills and an attention to detail (Application behaviour, Networking, Security, Identity and Access Management).
+You are aware of DevOps and Agile principles and methodologies of overcoming security weaknesses within these frameworks.
+Ideally, you have experience within Finance/Highly Regulated environments.
+You are fluent in English. German and other languages are a plus.
+\uD83D\uDE80 What you’ll get:
+Ownership & Impact: From day one, you’ll have the autonomy to own your work and make a real difference.
+Flat Hierarchies: Collaborate closely with our leadership team in an open and approachable environment.
+Dynamic Environment: Work in a fast-paced setting where you can quickly see and learn from the impact of your contributions.
+Flexibility: We focus on outcomes, not hours – work when you’re most productive.
+Hybrid Work Model: We value in-person collaboration and meet in the office three days a week.
+Competitive Package: Enjoy a flexible and attractive compensation package, with the potential to share in our success.
+Remote Work: Work from anywhere for up to 20 days per year.
+Wellbeing: Choose between private healthcare or a gym allowance (location-dependent), plus access to therapy and coaching support.
+Giving Back: Take 16 paid hours annually to volunteer for a cause that matters to you.
+Language Learning: Join in-person English or Spanish classes at our Barcelona office.
+Parental Leave: Benefit from 12 to 16 weeks of paid leave, depending on your location and eligibility.
+We are keen to get to know you. Apply with your CV and/or LinkedIn profile and a few words on why you would like to join Yokoy. We look forward to your application!
+
+What’s going to happen next: we aim to get back to you regarding your application within 8 business days. Our interview process tends to take around 4 weeks to complete. If you need more flexibility or are on a tighter schedule, don’t be afraid to let us know.
+If after reading our job ad you figure that this isn’t the right fit for you, feel free to share it with a friend or colleague who might be interested.
+
+This is important to us: Yokoy is an equal opportunity employer, and we value diversity. We welcome people from all backgrounds who are looking to make the future simple with us. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability.
+
+Yokoy provides a leading all-in-one solution to automate spend management for midsize and enterprise companies through artificial intelligence (AI). We bring together expense management, invoice processing and the administration of intelligence corporate cards on a single, intuitive platform. As TravelPerk acquired Yokoy recently, the offering will be extended to an end-to-end platform for travel and expenses.
+
+Established in 2019 in Zurich, Switzerland, Yokoy is trusted by leaders at over 700 of the world’s most forward-thinking companies to help them transform how they spend, by transforming how their people spend their time. Designed to sit at the heart of the modern finance tech stack, Yokoy connects with the leading ERP systems, invoicing platforms, travel booking tools, and other enterprise finance tools to power end-to-end automation and provide complete visibility across the enterprise. Yokoy is backed by leading investors including California-based Sequoia Capital, New York-based Left Lane Capital and London-based Balderton Capital. Currently, Yokoy counts more than 250 employees based in seven locations globally. Yokoy is ISO 9001, ISO 14001 and ISO 27001 certified. Yokoy will be integrated into TravelPerk in the coming months, resulting in a new service offering including an end-to-end Travel and Spend Management platform.
+
+https://yokoy.io/Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=113&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_e7a7bbc5&cb=1751525842153&jobListingId=1009799011610&jrtk=5-yul1-0-1iv7h6mvk2gdn000-9a505f7c336234f8
+  score: 43.05
+----------------------------------------

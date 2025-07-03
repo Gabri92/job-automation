@@ -1,213 +1,795 @@
 Job 1:
-  job-company: Capgemini Engineering
-  job-title: Junior Embedded Software Engineer
-  job-description: Embedded Engineering
+  job-company: ING Bank
+  job-title: Senior Software Engineer
+  job-description: REQ-10097089
+11/06/2025
+IT Engineering
+Amsterdam, Nederland
+5.212,06 - 8.387,68
+ING Bank
 
-Uren: 40 uur
-Werkplek: Eindhoven, Utrecht, Zwolle, Hengelo
-Ervaring: 0-1 jaar afgestudeerd HBO/Universiteit
-Als grootste Engineering werkgever van Nederland biedt Capgemini Engineering jou de ideale eerste stap in je carrière. Als junior Embedded Software Engineer ga je snel aan de slag op een van de projecten voor onze hightech klanten. Bij Capgemini word je meteen betrokken bij het gehele embedded software ontwikkelproces van hightech equipment voor onze opdrachtgevers. Door middel van trainingen en 'learning on the job' kun je jezelf op een aangename en natuurlijke manier verder ontwikkelen, en voordat je het weet, ben je een professional in OO-technieken, C++, Python en Linux.
-Jouw mogelijkheden als Junior Embedded Software Engineer bij Capgemini Engineering
-Afhankelijk van je interesses en doelen, high level of baremetal SW ontwikkeling, ga je als junior Embedded SW Engineer aan de slag op een van onze projectteams. Je programmeert in C++, C en Python, meestal in grootschalige codebases die op Linux of Windows draaien. Deze teams werken op een van onze kantoren, bij klanten, of een combinatie van beide. Je krijgt vanaf het begin al aanzienlijke verantwoordelijkheden, maar je kunt altijd rekenen op de ondersteuning van je collega's binnen het team. Uiteraard kan je gebruik maken van het enorme trainingsaanbod van Capgemini Engineering!
-Je thuisbasis bij Capgemini Engineering
-Je wordt onderdeel van een van de units in de Practice Embedded Software Engineering. Die Practice bestaat uit 175 SW professionals, van junior tot senior, van expert tot architect, van programmeur tot Product Owner. Dagdagelijks sta jij in contact met het (multidisciplinaire) SCRUM-team waarop je als Junior Embedded SW Engineer bent ingezet. Zodoende kan je je aan je meer ervaren collega’s optrekken. Naast het uitvoeren van jouw opdracht kan je je ook op andere manieren inzetten voor Capgemini, zoals kennisdeling, recruitment en de feestcommissie. Hierin heb jij alle vrijheid en kan jij jezelf verder ontwikkelen in een fijne en bescheiden omgeving op een manier die bij jou past. De onderlinge omgang is vriendelijk en informeel en er is altijd ruimte voor vriendschappen, activiteiten en plezier.
-Benefits
-Direct een vast contract.
-Een salaris van € 3.720,- bruto, inclusief mobiliteitsvergoeding van €750,- & 8% vakantiegeld (op basis van 40 uur).
-Bij goed functioneren kan je daarbij na 11, 19 en 25 maanden een salarisstap maken. Let op: hier kunnen geen rechten aan worden ontleend.
-Onbeperkt trainingen volgen bij onze Academy.
-26 vakantiedagen. Zin in een extra veel vrije tijd? Koop dan dagen bij.
-Capgemini draagt bij aan jouw pensioen. Daarnaast heb je ook de vrijheid om hier zelf nog extra aan bij te dragen.
-Werken waar je maar wilt met onze connectiviteits- en thuiswerkvergoeding.
-Een snelle laptop en een simkaart die je ook privé mag gebruiken.
-Een leaseauto, NS-businesscard of uitbetaling van je reiskostenvergoeding.
-Waarom past deze vacature bij jou?
-Als teamlid ben je open voor het ontdekken van nieuwe technische omgevingen en het samenwerken in professionele projectteams. Je bent van onschatbare waarde bij het begrijpen en vervullen van de wensen van klanten door technische oplossingen te ontwikkelen. Bovendien neem je actief deel aan zowel het ontwerp als de implementatie van software samen met je team. Je brengt een frisse kijk en creativiteit in om bestaande methoden en processen te verbeteren. Kwaliteit van de code staat hoog in je vaandel, en je draagt hieraan bij door middel van geautomatiseerde tests. Dit alles gebeurt in een inclusief en multidisciplinair team binnen een Agile/Scrum omgeving.
-Daarnaast heb je:
-Bachelor- of Masteropleiding in Embedded Systems, Computer Science, ICT Technology of vergelijkbare studie.
-Kennis van Object Oriented methodes, in de programmeertalen C, C++ en Python.
-Ervaring in het gebruik en ontwikkeling van software voor Linux/Unix en Real Time Operating Systems.
-Nieuwe frisse blik op de problemen waar onze klanten mee te maken hebben.
-Je bent aangetrokken tot het werken in een Agile omgeving.
-Goede beheersing van de Nederlandse en Engelse taal. Hiermee bedoelen wij minimaal een B2 niveau en dat je passend met zowel de klant als jouw collega’s in gesprek kan gaan.
-Je hebt een sterke interesse in de High Tech wereld.
-Je bent in bezit van rijbewijs B.
-Werken bij Capgemini Engineering
-Kom je werken bij Capgemini Engineering, dan maak je deel uit van een diverse en dynamische groep wetenschappers, ingenieurs en technologen. Bij ons benut je je vaardigheden optimaal, gesteund door 55.000 collega’s verspreid over de hele wereld en ondersteund door geavanceerde technologieën en de laatste kennis. Binnen een hecht team van gemotiveerde specialisten werk je aan baanbrekende projecten voor internationale klanten. Zo help je de grootste innovators ter wereld bij het ontwikkelen van de producten en diensten van de toekomst.
-Wil jij echt een verschil maken? Sluit je dan bij ons aan. Breng je ambitie en nieuwsgierigheid mee en bouw bij Capgemini aan de toekomst die jij voor ogen hebt.
-Om de veiligheid en integriteit binnen onze organisatie te borgen, maakt een backgroundcheck onderdeel uit van het onboardingsproces.
-  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=125&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_02f589c0&cb=1750149758872&jobListingId=1009773832236&jrtk=5-yul1-0-1itugrvg2m90r800-13a4fcba0878357a
-  score: 4.83
+Join our Enterprise Content & Automation Tribe as a Senior Engineer and lead the development of the GADS product. You'll focus on building and enhancing the repository component, enabling content ingestion via APIs, Kafka, and FB, while managing permissions, bulk deletions, and legacy archive migrations. Collaborate with the Product Trinity and team to deliver a scalable, high-performance platform that transforms content management.
+The team
+As a Senior Engineer, you will take a leading role in developing the Global Archiving and Discovery Services (GADS) product within the Enterprise Content & Automation Tribe. Your primary responsibility will be the development of the repository component, which stores both structured and unstructured content in S3 through various ingestion interfaces, including APIs, Kafka, and FB. In addition to content ingestion, you will drive critical developments such as managing content permissions, enabling bulk content deletion, and migrating content from legacy archives to GADS. Collaborating closely with the Product Trinity and the team, you will play a key role in enhancing the platform's scalability, performance, and overall user eperience.
+Roles and responsibilities
+You will be part of a diverse and dynamic team, bringing together various nationalities and skill levels. As a Senior Engineer, you will serve as the primary point of contact for all development-related topics within the platform. You take initiative, drive results, and mentor junior engineers to grow and ecel. In this role, you will leverage your epertise to design, build, and enhance GADS, a platform that demands high availability and handles significant load. Ensuring reliability and availability will be critical to the platform's success.
+How to succeed
+We hire smart people like you for your potential. Our biggest epectation is that you’ll stay curious. Keep learning. Take on responsibility. In return, we’ll back you to develop into an even more awesome version of yourself.
+We are looking for the following skills and eperience:
+Eperience with Java 11 or above
+Eperience with Apache Kafka and containerization technology
+Eperience with Amazon S3 SDK
+Eperience with handling concurrency in high load application
+Strong architectural and problem solving skills
+Ecellent communication skills, can communicate in both business and technical language
+Mentoring/guiding more junior engineers
+Nice to have:
+Eperience with OnePAM models within ING
+Eperience with Spring WebFlu/Project Reactor
+Rewards and benefits
+We want to make sure that it’s possible for you to strike the right balance between your career and your private life. You can find out more about our employment conditions at Benefits in the Netherlands
+The benefits of working with us at ING include:
+A salary between: €5.485 - €8.828
+24-27 vacation days depending on contract
+Pension scheme
+13th month salary
+Individual Savings Contribution (BIS), 3.5% of your gross annual salary
+8% Holiday payment
+Hybrid working to blend home working for focus and office working for collaboration and co-creation
+Personal growth and challenging work with endless possibilities
+An informal working environment with innovative colleagues
+Stand-by shifts
+GADS platform is used by many critical business processes within ING therefore GADS has to be available and functional 24/7. Employees needs to act quickly during unforeseen circumstances, such as calamities or incidents. For these (groups) of employees ING have set up a Stand-by regulation. To compensate for the inconvenience of being available at this time, a Stand-by compensation is awarded.
+If you are designated by your lead for stand-by shifts to be available for incidents outside of your regular working hours, a Stand-by compensation is awarded.
+About us
+With 60,000 employees and operations in approimately 40 countries, there is no shortage of opportunities for people with initiative who want to help people take a step ahead in life and in business. Do you want to work at the cutting edge of what’s possible and at the same time ensure you work with integrity and hold the customer’s interests at heart? Do you want to be surrounded by progressive, inspiring, diverse and supportive colleagues? Then there is no better place to invest your talents than at ING. Join us. Apply today.
+Questions?
+Contact the recruiter attached to the advertisement for more information. Want to apply directly? Please upload your CV and motivation letter
+Please note, multiple interview steps involving various business stakeholders will be part of the selection process.
+
+
+Your place of work
+Eplore the area
+Questions? Just ask
+
+Orhan Sari
+
+Bij ING willen we het beste uit mensen halen. Daarom hebben we een inclusieve cultuur waarin iedereen de kans krijgt om te groeien en een verschil te maken voor onze klanten en de samenleving. Diversiteit, gelijkheid en inclusie staan bij ons altijd voorop. We behan iedereen eerlijk, ongeacht leeftijd, geslacht, genderidentiteit, culturele achtergrond, ervaring, geloof, ras, etniciteit, beperking, gezinssituatie, seksuele geaardheid, sociale afkomst of wat dan ook. Heb je hulp nodig of kunnen we iets voor je doen tijdens je sollicitatie of gesprek? Neem dan contact op met de recruiter die bij de vacature vermeld staat. We werken graag samen met jou om het proces eerlijk en toegankelijk te maken. Lees hier meer over hoe wij staan voor diversiteit, inclusie en erbij horen.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=111&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_9e291f0e&cb=1750149758870&jobListingId=1009776374005&jrtk=5-yul1-0-1itugrvg2m90r800-e28a6705ce3439a5
+  score: 35.35
 ----------------------------------------
 Job 2:
-  job-company: Haystack People
-  job-title: Senior Software Engineer Amsterdam | Python, Django & Azure | Fundtech Scale-up
-  job-description: Bedrijfsprofiel
+  job-company: ServiceNow
+  job-title: Software Engineer
+  job-description: Company Description
 
-Assetcare is een fundtech scale-up uit Amsterdam die in een paar jaar tijd is gegroeid van 4 naar 30 mensen — en klaarstaat om door te groeien naar 100+ in de komende 3 tot 5 jaar. Het team bouwt aan een modern platform voor fondsadministratie, investor reporting en compliance, waarmee institutionele beleggers zoals ASN Bank, Atradius en het Philips Pensioenfonds volledig digitaal kunnen werken.
-Wat Assetcare uniek maakt: alles wordt in-house ontwikkeld, zonder legacy of logge externe leveranciers. De technologie is modern, schaalbaar en volledig herleidbaar. Geen black box-software, maar open architectuur die wérkt.
-De cultuur? Inhoudelijk sterk, no-nonsense en mensgericht. Je werkt vanaf de 19e verdieping van de Mondriaantoren met uitzicht over de Amstel — samen met fund accountants, engineers en productcollega’s die bouwen aan echte oplossingen, niet alleen features.
+It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
 
-Functieomschrijving
+Job Description
 
-Als Fullstack Developer bij Assetcare werk je aan de kern van het platform: schaalbare backend-systemen, duidelijke interfaces en veilige koppelingen met banken en fondspartijen. Je bent betrokken bij het ontwerpen, bouwen en optimaliseren van systemen voor onder andere NAV-berekeningen, CDD, transactielogica en investor flows.
-Je werkt in een multidisciplinair team met veel ruimte voor technische inbreng.
-Voorbeelden van je werk:
+What you get to do in this role:
+Our team is dedicated to empowering organisations through innovative data visualisation and analytics. As the custodians of dashboards and the visualisation designers within a comprehensive Platform Analytics product, we strive to deliver intuitive and insightful tools that enable users to make informed decisions quickly and confidently. Our mission is to transform complex data into clear, impactful visuals that facilitate understanding and drive strategic action. Through collaboration, creativity, and a relentless focus on user needs, we aim to enhance the overall data experience and support our stakeholders in unlocking the full potential of their data.
 
-– Ontwikkelen van Python-backends met o.a. Django of FastAPI
+What You’ll Do in This Role:
+Develop high-quality, scalable, and reusable frontend code, ensuring best practices in architecture, performance, and accessibility.
+Collaborate closely with designers, product managers, and backend engineers to deliver intuitive and user-friendly interfaces that enhance the overall product experience.
+Contribute to the frontend architecture and design systems, championing modern web technologies and best practices.
+Support backend development when required, working with Java to build scalable APIs and services.
+Take ownership of features from ideation through implementation, testing, and delivery.
 
-– Bouwen van API’s en integraties met externe databronnen
 
-– Meedenken over datastructuren, authenticatie en permission-layers
+Qualifications
 
-– Frontend-ontwikkeling in Vue.js voor dashboards en gebruikersflows
+To be successful in this role you have:
+3+ years of professional experience in software development with a primary focus on frontend engineering.
+Expertise in modern frontend technologies, including React, Angular, or Vue.js.
+Strong understanding of JavaScript/TypeScript, CSS-in-JS libraries, state management (e.g., Redux, MobX), and component-driven architecture.
+Experience with building responsive, accessible, and performance-optimized web applications.
+Familiarity with frontend modern testing frameworks
+Knowledge of backend technologies, mostly Java, and willingness to contribute to backend work when needed.
+Solid understanding of RESTful APIs, microservices, and basic database concepts (SQL/NoSQL).
+Strong problem-solving skills with a keen eye for design and user experience.
 
-– Optimaliseren van bestaande modules voor schaalbaarheid en performance
+Nice-to-Have:
+Practical experience in designing and building AI-powered solutions, such as implementing machine learning models, integrating AI APIs (e.g., OpenAI, Google AI, or AWS AI services), or creating intelligent features for web applications.
+Familiarity with AI/ML concepts like natural language processing (NLP), computer vision, or recommendation systems.
+Experience with design systems or building reusable component libraries.
+Hands-on experience with containerization and deployment using Docker and Kubernetes.
 
-– Samenwerken met fund administrators om technische flows af te stemmen op financiële processen
-Security, testbaarheid en datakwaliteit staan hierbij centraal. Je hebt impact op het product en bent medeverantwoordelijk voor hoe het platform zich ontwikkelt.
+Additional Information
 
-Ervaring en achtergrond
-
-Je bent een fullstack engineer met stevige backend-ervaring, die ook zijn weg weet in de frontend. Je denkt mee, bouwt zelfstandig en overziet het geheel.
-Must-haves:
-
-– 4+ jaar ervaring als software engineer
-
-– Sterke Python-kennis (FastAPI of Django)
-
-– Frontend-ervaring met Vue.js, React of vergelijkbaar
-
-– Ervaring met werken in een cloudomgeving (bij voorkeur Azure)
-
-– Begrip van API-design, testbaarheid en softwarearchitectuur
-
-– Nuchtere, pragmatische instelling met gevoel voor eigenaarschap
-Nice to haves:
-
-– Ervaring met Docker, CI/CD en Terraform
-
-– Affiniteit met finance of data-heavy omgevingen
-
-– Interesse in security, auditbaarheid en schaalbare architectuur
-Je hoeft niet alle hokjes aan te vinken, zolang je nieuwsgierig, leergierig en technisch scherp bent.
-
-Wat wij bieden
-Een aantrekkelijk basissalaris van tenminste € 5.500 per maand op basis van 40 uur (hoger salaris mogelijk afhankelijk van ervaring en profiel);
-Vakantietoeslag van 8% per jaar over het salaris;
-Deelname aan ons bonussysteem: maximale bonus van 2 maandsalarissen, waarvan 1 op basis van je eigen prestaties en 1 op basis van een omzetdoel op bedrijfsniveau;
-Mogelijkheid om je competenties en kennis verder te ontwikkelen met een trainingsbudget van € 2.000 per jaar;
-Betaalde lunch op kantoor;
-25 vakantiedagen op basis van een 40-urige werkweek;
-Pensioenregeling die voor tweederde voor rekening van werkgever is;
-Maximale reiskostenvergoeding op basis van tweede klas openbaar vervoer;
-Een unieke mogelijkheid om in het hart van de financiële sector te werken aan innovatieve producten;
-Een snelgroeiende organisatie waar je veel eigen verantwoordelijkheid krijgt en de ruimte om je ideeën te delen en uit te werken;
-Een open werkcultuur met een platte organisatiestructuur;
-Een jaarlijks bedrijfsuitje naar het buitenland.
-Solliciteren?
-
-Deze rol is alleen beschikbaar voor kandidaten die al in Nederland wonen. Visumsponsoring is niet mogelijk.
-Stuur je CV naar Desley Gontha via d.gontha@haystackpeople.nl of bel direct via +31 6 28965652. We vertellen je graag meer over het team, de werkwijze en de impact die je hier kunt maken.
-  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=112&ao=1110586&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_74dbdbc0&cb=1750149758871&jobListingId=1009776602620&cpc=F41FEAB56D215062&jrtk=5-yul1-0-1itugrvg2m90r800-0b439c6857d23765---6NYlbfkN0BO2noXIfST3-_-JoxQtt8U3JMypg5kFLixO-ytpxQ7SMQ0MlGSpC_6N2KgJV9IGa18wJtHoaX1K0vGOAwFqq_usKIcccwWqH7Mr9AjZ3yFjI4cxiWatYtv2xNweKAHZt2nxO-r2jrsVdH7EmzbZr-BPu3XmXxoCfGvyFWt3Mw8BomFAVNgXdMaWFfBW14W6Y_C7Wga18NPQUfFnjjMNh1HtnYW3bA8pGpiy0HfvoeqF0u8WnjVWG0LTjXEmTun6D4gEjqUUyjmIyj0j3VXvg3IkIXWNw93gWmD4tiBfmv_gnETH28N6c2A_9yttSugzAir2Oomn3HcJ25tlwPsqodkBHDGMLHAWq2X0XbOOZkrCaJButi0gWmPbluuEET8JrMapO6tHdFbe6kHAQ562NuVA4Xse7aN522fJAsBi4LmDwWo2wMASDiaMZokeYiYt-v6fvOPgY5d6HlhfvfSnoSWbAw2IfXRPtPLWfoSwkYX9V6TJ0JIsPXm9FK87p0B7J5tuDwqW0dW6wFkeVtq_gVb1NlNQii2hdEl1emwF9EBxdGVyzqoGtNNcHPxFIv76VgZK_CMb8rW_vRPfItpAPKLI9keI5BRfE7g2hFWMVQ_8vuIogeaGF_1Jrt1rGS10Lin4qU4YyGLWxNju2gBSdKd3odSRQ_W_isSP8wyfojUplKNMQMmQpOqpmVFN6XzVoLFi29fJjRCKQGLy4XA3h0-9H4wSSc5l3tTr5fstns2Tqt1WZ-hyQbif4LY8qkQWSpWevDbqLEJErQrtIZEklJJrnfFG_uZ0o9NUHxI5pO9OUPy6PsN26SJdfj2x1zbRcj9gfZTtQh48YrHAtMsCwus8d9UOKrzSrY%3D
-  score: 4.71
+Work Personas
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here.
+Equal Opportunity Employer
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+Accommodations
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+Export Control Regulations
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
+From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=107&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_9cb25df6&cb=1750149758870&jobListingId=1009777523640&jrtk=5-yul1-0-1itugrvg2m90r800-17de3589b4c0847a
+  score: 32.58
 ----------------------------------------
 Job 3:
-  job-company: Yacht
-  job-title: Junior PLC Software Engineer bij Yunex Traffic
-  job-description: Bedrijfsomschrijving
+  job-company: DA VINCI DERIVATIVES
+  job-title: Graduate C++ Software Engineer
+  job-description: As a Software Engineer at Da Vinci, you’ll work closely with a team of highly skilled traders and quant researchers. You will have direct, immediate, and large-scale impact on the company, whether you focus on our trading algorithms or the architecture of our technology’s core components.
 
-Yunex Traffic is een toonaangevende technologische onderneming met ruim 230 medewerkers in Nederland en wereldwijd zo’n 3000 collega’s. Wij zijn gespecialiseerd in het ontwikkelen, realiseren en onderhouden van IT-platformen, automatiseringsoplossingen en systemen voor de aansturing van infrastructurele objecten zoals tunnels, bruggen, sluizen en (water)wegen.
+Da Vinci engineers are hired for their passion and knack for coding and solving technical challenges. They love to think outside the box and see their code in production only hours after the initial idea was born. All our software engineers take full ownership of projects directly relevant to the core business, seeing them through from idea to implementation to optimisation and maintenance. Combined with the fast feedback loops and multidisciplinary collaboration, this lays the groundwork for an intellectually stimulating and exciting day-to-day life in our engineering team.
 
+Da Vinci offers a dynamic work environment, where employees are given the freedom to come up with great ideas and the space to push these to completion. This is a once-in-a-lifetime opportunity to be part of a successful and fast-growing company.
 
+Responsibilities:
 
-Onze oplossingen dragen bij aan een veiligere, duurzamere en efficiëntere infrastructuur. Samen met opdrachtgevers zorgen wij voor succesvolle projecten door oog te hebben voor elkaars belangen en door innovatie centraal te stellen in alles wat we doen.
+As an all-round engineer, no days are the same. You’ll work with a variety of products and touch many different code components on a single project. Your main responsibility is to bring new features into production from beginning to end. Depending on the project this can entail many different things, but here are some examples of typical tasks you may encounter in a day:
 
-Functieomschrijving
+Understand and discuss requirements with team members, i.e. traders and researchers
+Design, implement, test and optimise trading algorithms and strategies ensuring our competitiveness in the market
+Continuously improve and guard the long-term architecture of our in-house developed trading system in terms of latency, accuracy, capacity, regulations etc.
+Work closely with Trading, Research and Trading Intelligence to innovate the way we do things, i.e. by automating and optimising workflows
+Manage various operational aspects to bring your projects to completion, such as deploy, monitor and tweak systems
+Investigate opportunities and solve problems and as they occur with a hands-on, pragmatic approach
 
-Als Junior PLC Software Engineer bij Yunex Traffic werk je aan toonaangevende infrastructurele projecten zoals tunnels, bruggen en sluizen. Denk aan projecten zoals de Verkeerscentrale Amsterdam, de Stockholm Bypass of de renovatie van bruggen en sluizen in Noord-Brabant. Binnen multidisciplinaire projectteams ben jij medeverantwoordelijk voor de realisatie van complexe automatiseringsoplossingen in de mobiliteitssector.
-Je bent betrokken bij het volledige traject: van ontwerp tot implementatie bij de klant. Je werkt aan het ontwerpen, ontwikkelen en testen van PLC-, SCADA- en/of simulatiesoftware, en denkt mee over de bijbehorende hardwarecomponenten. Ook ondersteun je bij de inbedrijfstelling op locatie en bied je nazorg.
-Je rapporteert aan de Solutions Manager Engineering en werkt nauw samen met collega’s binnen het engineeringsteam.
+Requirements:
 
-Functie-eisen
+A background in Computer Science or similar
+Highly skilled in C++
+Programming knowledge in Python is preferable but can otherwise be learned on the job
+Serious about code quality, taking full responsibility and accountability for your contributions
+Practical and results-driven attitude
+Good communication skills, with the ability to understand requirements and explain technical concepts to non-technical people
+Desire to work in a multidisciplinary team environment, including collaborating with traders and researchers on a daily basis
 
+Benefits:
 
-Afgeronde hbo- of wo-opleiding in Elektrotechniek, Industriële Automatisering of een vergelijkbare richting;
-0 tot 2 jaar relevante werkervaring binnen technische automatisering;
-Ervaring met Siemens PLC’s (TIA Portal of Step7);
-Basiskennis van machineveiligheid; CMSE-certificaat of bereidheid dit te behalen;
-Affiniteit met hardware- en netwerkcomponenten zoals Windows Server of VMware;
-Bekendheid met bedienings- en besturingssystemen, veiligheids-PLC’s en netwerken is een pré;
-Beheersing van de Nederlandse en Engelse taal.
+A comprehensive theoretical and practical training program provided by our dedicated in-house trainer
+Sign-on bonus of EUR 20k, base salary of EUR 100k
+Excellent variable pay and growth opportunities
+Outstanding performance is also rewarded with shareholding in the company
+A relocation package when moving from abroad, including a relocation budget, flight coverage, house-finding service and expat support
+Meals during work hours
+Social events and after-work drinks
+Reimbursement of travel costs
+Sponsored gym membership
+In-house game room (pool table, board games and console games)
 
+Teams:
 
+As a software engineer, you will be working in one of our four core business teams, divided by markets, collaborating with traders, quant researchers and trading systems engineers. Each team have their own unique challenges and projects, and the freedom to adjust their processes to best fit the team needs. As a crucial part of the team, you will shape the priorities and goals by bringing the valued perspective of an engineer. Although our teams are tight-knit and you’ll work closely with traders and researchers on all projects, we keep a transparent culture between teams and encourage as much communication and knowledge sharing across the company as possible.
 
-Arbeidsvoorwaarden
+Our trading system:
 
-Primaire arbeidsvoorwaarden:
+As a trading company, one of our proudest moments was going live with our very own trading system, developed from scratch by our excellent engineers. Melzi, named after Leonardo Da Vinci’s favourite student, was designed with our very own unique needs and priorities in mind. Since launching, our traders have been very excited to work with this custom-made and highly efficient system.
 
+Process:
 
+Coding challenge: This take-home assignment will give you a chance to understand the role further through similar tasks to the ones you’ll encounter on our trading floor. It allows us to assess your coding skills, as well as your approach to problem solving.
 
-Marktconform salaris afgestemd op jouw kennis en ervaring;
+HR Interview: In this conversation with one of our recruiters, you will learn more about Da Vinci and give us the opportunity to get to know you better. We will assess whether your soft skills and motivators fit our way of working.
 
+Technical Interview: During this conversation with one of our lead engineers you will get to geek out on your knowledge of computer science and C++ programming.
 
-
-13e maand (naar rato);
-
-
-
-8,33% vakantiegeld over 12 maandsalarissen.
-
-
-
-Secundaire arbeidsvoorwaarden:
-
-
-
-Pensioenregeling via Pensioen Plus;
-
-
-
-5% ploegentoeslag (indien van toepassing);
-
-
-
-€750 netto om je thuiswerkplek in te richten;
-
-
-
-25 vakantiedagen (o.b.v. fulltime dienstverband);
+Final Round: This is a combination of an in-dept technical interview where you will do some live coding, and a final HR interview. Whenever possible we will invite you to the office to feel the atmosphere and get to know the team you might see a lot more of in the future!
 
 
 
-Reiskostenvergoeding;
-
-
-
-Internet- en thuiswerkvergoeding;
-
-
-
-Verhuisvergoeding voor kandidaten van buiten Nederland.
-
-
-
-Dienstverband:
-
-Je wordt voor de duur van één jaar gedetacheerd via Yacht, met uitzicht op een vast dienstverband bij Yunex Traffic (onderdeel van Siemens).
-Contactgegevens
-
-Chi Kay Liang
-
-
-
-Telefoon: 06-16044843
-
-Email: chi.kay.liang@yacht.nl
-  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=110&ao=1110586&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_2ec27ca1&cb=1750149758870&jobListingId=1009776675611&cpc=32EE424DE2B657EB&jrtk=5-yul1-0-1itugrvg2m90r800-be4f60937d352621---6NYlbfkN0BF6JzrkiMWFKgL0sh2r8oPxEcj7Kb6HaEAzPqIiqiJ--yo49DvurOlxlb9xwI2QMeZ7dTKJKdp7kaK5RStIu9Y0VBZ-kIdkdhW8ULAtvkTtdZF7APdAWnFVOi5N5g6RcP0Kj3aHRpl1XpsoQEhNUUfseEJhjrTNbISvHXMxpOSQ5nieAVRLNOKzCRu7nW2V-lSp3Sr1AtFfTaVXdjJXmY5ryNJCfKoGSKDHryUR8TimrT5Egu0CXptf5lU7ef1jx4LRp3hIdlZnpKGB__sRFchiZGZMNBb4akRNDNtcrVxjIN6-HvBVy-ix8AmaQYb--ZLMJXvqvl2-02GzvMgvk9J6YSCCpUlhMNAh-QNV_XUIIKIlNA5cr-0FY7s3WBiF85muSNY6Ouk6YJl-DeHNOdCgTY6ZCkOrhddElfdv1DBniRZ0p7CNe87PItsisdRJFJcUF9krCTAKl8Pt3Za4fGAwF8vpBkjLRxIGwab7VW1C8RQcpiRkfLsyptIyaQU6cFVv3HBW0yah35HccMncJHhWJ1NDUHSaNXzPCVWo2rcBdoCE3GJ8Szgiunx2Z4Yn1TSEITDSzrUtafvVa1Ah-6V50a2Slkh48_SCDc9KenoKp0M_zZyUIWzMtmwl02ourceDSPQlcwIyLWYDCg-2ByvSjvUTGfOIuCi3Lj-wkc9k-yTgSsNfGVOSm4pldJgXSSGifjx9n22-sZGjX3tH-nca2wl-v4luclBl9X3MqWgTEMNA4jDKmo1kBuzKllxXmst3DY70pzSlZDV5QqARbYc3BsfbIVG3mcFMn8QLf4Z2LWRxhOMfw6R
-  score: 4.59
+Currently we are not offering opportunities to write a thesis. This may change in the future. Please visit our website periodically and follow us on social media to stay up to date.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=122&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_03f304e0&cb=1750149758872&jobListingId=1009773814572&jrtk=5-yul1-0-1itugrvg2m90r800-90da37e1943027ab
+  score: 32.32
 ----------------------------------------
 Job 4:
+  job-company: ServiceNow
+  job-title: Senior Software Engineer
+  job-description: Company Description
+
+It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
+
+Job Description
+
+Our team is dedicated to empowering organisations through innovative data visualisation and analytics. As the custodians of dashboards and the visualisation designers within a comprehensive Platform Analytics product, we strive to deliver intuitive and insightful tools that enable users to make informed decisions quickly and confidently. Our mission is to transform complex data into clear, impactful visuals that facilitate understanding and drive strategic action. Through collaboration, creativity, and a relentless focus on user needs, we aim to enhance the overall data experience and support our stakeholders in unlocking the full potential of their data.
+
+What You’ll Do in This Role:
+Lead the development of high-quality, scalable, and reusable frontend code, ensuring best practices in architecture, performance, and accessibility.
+Collaborate closely with designers, product managers, and backend engineers to deliver intuitive and user-friendly interfaces that enhance the overall product experience.
+Contribute to the frontend architecture and design systems, championing modern web technologies and best practices.
+Be the go-to expert for frontend engineering within the team, mentoring colleagues and advocating for high standards in UI/UX development.
+Support backend development when required, working with Java to build scalable APIs and services.
+Take ownership of features from ideation through implementation, testing, and delivery.
+
+
+Qualifications
+
+To be successful in this role you have:
+6+ years of professional experience in software development with a primary focus on frontend engineering.
+Expertise in modern frontend technologies, including React, Angular, or Vue.js.
+Strong understanding of JavaScript/TypeScript, CSS-in-JS libraries, state management (e.g., Redux, MobX), and component-driven architecture.
+Experience with building responsive, accessible, and performance-optimized web applications.
+Familiarity with frontend modern testing frameworks
+Knowledge of backend technologies, mostly Java, and willingness to contribute to backend work when needed.
+Solid understanding of RESTful APIs, microservices, and basic database concepts (SQL/NoSQL).
+Strong problem-solving skills with a keen eye for design and user experience.
+
+Nice-to-Have:
+Practical experience in designing and building AI-powered solutions, such as implementing machine learning models, integrating AI APIs (e.g., OpenAI, Google AI, or AWS AI services), or creating intelligent features for web applications.
+Familiarity with AI/ML concepts like natural language processing (NLP), computer vision, or recommendation systems.
+Experience with design systems or building reusable component libraries.
+Hands-on experience with containerization and deployment using Docker and Kubernetes.
+
+Additional Information
+
+Work Personas
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here.
+Equal Opportunity Employer
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+Accommodations
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+Export Control Regulations
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
+From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=108&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_8a968b25&cb=1750149758870&jobListingId=1009777525283&jrtk=5-yul1-0-1itugrvg2m90r800-1636a11542ae6177
+  score: 31.2
+----------------------------------------
+Job 5:
+  job-company: Booking.com
+  job-title: Software Engineer I - Backend
+  job-description: Your New Company
+
+At Booking.com, data drives our decisions. Technology is at our core. And innovation is everywhere. But our company is more than datasets, lines of code or A/B tests. We’re the thrill of the first night in a new place. The excitement of the next morning. The friends you make. The journeys you take. The sights you see. And the food you sample. Through our products, partners and people, we make it easier for everyone to experience the world.
+Role Description
+Our mission at Booking.com is to create visionary, innovative, and personalised travel experiences for millions of customers all over the world. Across our offices worldwide, we continue to innovate by solving some of the most complex challenges in travel and technology, and to plan for the exciting developments that lie ahead through strategic long-term investments into what we believe the future of travel can be.
+
+As a Software Engineer working on the backend, you have the opportunity to be responsible for the development, performance, and scaling of many areas - including our public website, as well as internal systems and infrastructure. You will work independently and will also be responsible for making technical decisions within a cross-functional team.
+
+We are hiring for this role across a number of key areas. For more insights about the different business units and the scope of their projects and goals, please visit this page.
+
+Relocation support cannot be provided for this role and therefore candidates must be currently based in the Netherlands in order to be considered.
+Key Responsibilities & Duties
+Important aspects of the job can include:
+
+
+Develop robust and scalable backend services.
+Collaborate with developers to create cohesive and functional code.
+Optimize applications for performance and scalability.
+Manage and maintain code repositories using Git.
+Develop and maintain containerized applications with Kubernetes.
+Write and maintain Perl scripts.
+Work with teams to integrate automated testing and deployment processes.
+Role Qualifications & Requirements
+We are looking for motivated Software Engineers who enjoy solving problems which could benefit Booking.com’s customers; who initiate solutions and discussions and who believe that any challenge can be scaled with the right mindset and tools.
+
+We have found that people who match the following requirements are the ones who thrive with us:
+
+
+1-3 years of software development experience; using one or more server side programming languages. Preferably Java, Perl, Python, Scala, C++ etc.
+Demonstrable experience with MySQL and PostgreSQL or similar relational databases.
+Bachelor in Mathematics, Software Engineering, Computer Science or equivalent is preferred.
+Strong knowledge of Git and branching strategies.
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills.
+Ability to work independently and as part of a team.
+Eagerness to learn new technologies and continuously improve.
+Previous experience with distributed systems is an advantage.
+Experience working on products that impact a large customer base is an advantage.
+
+Additional nice to have skills include:
+Proficiency in Java and frameworks like Spring and Hibernate.
+Experience with Kubernetes for container orchestration.
+Proficiency in Perl scripting is a plus.
+Experience with CI/CD tools (e.g., Jenkins, GitLab CI, CircleCI).
+Benefits & Perks: Global Impact, Personal Relevance
+Annual paid time off and generous paid leave scheme including: parental (22-weeks paid leave), grandparent, bereavement, and care leave.
+Hybrid working including flexible working arrangements, working from home furniture and ergonomic support, and up to 20 days per year working from abroad (home country).
+A beautiful sustainable HQ Campus in Amsterdam, that offers on-site meals, coffee, and snacks, multi-faith and breastfeeding rooms at the office.
+Commuting allowance and bike reimbursement scheme.
+Discounts & Wallet credits to spend on our products, upgrade to Booking.com Genius Level 3, and friends & family Booking.com discount vouchers.
+Free access to online learning platforms, development and mentorship programs.
+Global Employee Assistance Program, free Headspace membership.
+Diversity, Equity and Inclusion (DEI) at Booking.com:
+
+Diversity, Equity & Inclusion have been a core part of our company culture since day one. This ongoing journey starts with our very own employees, who represent over 140 nationalities and a wide range of ethnic and social backgrounds, genders and sexual orientations.
+
+Take it from our Chief People Officer, Paulo Pisano: “At Booking.com, the diversity of our people doesn’t just build an outstanding workplace, it also creates a better and more inclusive travel experience for everyone. Inclusion is at the heart of everything we do. It’s a place where you can make your mark and have a real impact in travel and tech.”
+
+We ensure that colleagues with disabilities are provided the adjustments and tools they need to participate in the job application and interview process, to perform crucial job functions, and to receive other benefits and privileges of employment.
+
+Application Process:
+
+
+Let’s go places together: How we Hire
+This role does not include relocation assistance and candidates must be currently residing in the Netherlands.
+
+Booking.com is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We strive to move well beyond traditional equal opportunity and work to create an environment that allows everyone to thrive.
+
+
+
+
+Key Skills
+
+Java
+Python
+Perl
+PHP
+Ruby
+C#
+Golang
+Node.js
+Microservices
+mySQL
+Kubernetes
+
+
+
+Pre-Employment Screening
+
+If your application is successful, your personal data may be used for a pre-employment screening check by a third party as permitted by applicable law. Depending on the vacancy and applicable law, a pre-employment screening may include employment history, education and other information (such as media information) that may be necessary for determining your qualifications and suitability for the position.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=129&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_401d0faa&cb=1750149758875&jobListingId=1009767881311&jrtk=5-yul1-0-1itugrvg2m90r800-74010dc20af64faa
+  score: 25.28
+----------------------------------------
+Job 6:
+  job-company: Agap2 - NL
+  job-title: Software Analysis Engineer
+  job-description: Amsterdam, Nederland Werknemer
+About us
+
+
+
+Agap2 is a European IT and Engineering Consultancy, active in 14 countries with over 9.500 employees. The company was founded in Portugal and since 2014 we have been based in the Netherlands with our Amsterdam office to provide our expertise to the Dutch market. Our employees are defined by the so-called “Agapian spirit”, which is summarized in 5 keywords: family, union, friendship, team spirit, and learning.
+
+
+
+Did you identify with what defines us? Then read on to find out more!
+
+
+
+The position
+
+
+
+As a Software Analysis Engineer at agap2, you take on the challenge within an international environment with a local focus. You will have the opportunity to work on various projects over the years, based on your experience and interests. Projects within industries such as Banking, Fintech, Telco, Retail, Sports, and Healthcare.
+
+While working at Agap2, you are expected to share your knowledge while also having the opportunity to learn new technologies. We believe that sharing knowledge is the key to personal development. Our talent management program is tailor-made to give you the opportunity to develop and grow in your career, the way you envision it. Because we work with various customers, you are also expected to be able to adapt to different environments.
+
+
+
+Key Responsibilities
+
+
+
+We are looking for a Software Analysis Engineer to join our Product Engineering Defense organization. This role is ideal for someone with a passion for software development, engineering simulation, and composite structures. You'll work within a multidisciplinary project team developing innovative composite components for the Defense Aerospace sector. If you are R&D-oriented, technically analytical, and enthusiastic about developing engineering tools, this could be the perfect opportunity for you.
+
+As part of our Global Technology Center – Missiles Laboratory, you’ll take ownership of our internally developed simulation software tool, used in conjunction with filament winding machines and structural analysis tools. You will play a central role in maintaining and expanding our digital engineering capability for design, analysis, and manufacturing simulation.
+
+
+
+Identify, analyze, and solve technical challenges across the design and manufacturing process.
+Develop, implement, and validate technical solutions and software tools aligned with customer and regulatory requirements.
+Continuously improve and expand, our internal software platform for filament winding design and simulation.
+Integrate and develop custom software interfaces and tools using:
+CATIA
+Python for linking with structural analysis tools like Abaqus
+Robot simulation platforms such as 3D RobotStudio, RoboDK, or Sinutrain
+C# and custom add-ins for machine control software
+Apply advanced tools for stress analysis and finite element modeling, including Abaqus, Patran/Nastran, and optionally Simcenter.
+Collaborate with cross-functional engineering teams to develop simulation-driven design and manufacturing solutions.
+Present and communicate technical work to engineering stakeholders, both internally and externally.
+
+
+
+What You Bring
+
+A completed Bachelor’s or Master’s degree in Aerospace Engineering, Mechanical Engineering, or a relevant software-related field.
+Strong experience in software development, particularly in engineering or manufacturing applications.
+Hands-on experience with finite element analysis (FEA) tools like Abaqus, Patran/Nastran; knowledge of Simcenter is a plus.
+Proficiency in programming/scripting languages such as VBA, Python, and C#.
+Familiarity with robotic simulation environments and machine tool programming.
+Ability to work independently on technical analyses and also contribute to peer reviews, validations, and approvals.
+Strong communication skills and the ability to convey complex technical ideas to a broad audience.
+
+
+
+What we offer
+
+
+
+Competitive Salary & Benefits: Including a laptop, mobile phone, full travel allowance and pension plan.
+Work-Life Balance: 25 vacation days, flexible working hours in a hybrid mode.
+Professional Growth: Weekly Dutch classes and a tailored talent management program with a financial budget to help you achieve your professional goals.
+Dynamic Culture: Diverse team activities from tech meetups to sports and social events.
+
+
+
+Is there still room for fun? Of course! The combination of fun and development is essential in our team. A small impression: our team consists of more than 10 nationalities, we play paddle and regularly organize tech meetups, happy hours drinks, and pub quizzes.
+
+At agap2 we defend equality and value diversity. We create a safe, diverse environment where opportunities are equal for all employees. All candidates with skills matching the position are welcome to join us!
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=118&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_bc931527&cb=1750149758871&jobListingId=1009775088634&jrtk=5-yul1-0-1itugrvg2m90r800-76a24215c2010023
+  score: 25.19
+----------------------------------------
+Job 7:
+  job-company: Ashby
+  job-title: Staff Software Engineer - Product Engineering, EMEA
+  job-description: Hi I’m Abhik, Ashby's Co-Founder and VP of Engineering. We’re looking for an ambitious full-stack engineer who is laser-focused on solving customer problems and making the right long-term investments to solve them not only today but in our future features and products.
+If you’ve seen this role posted before, it’s because we’re always looking for incredible engineering talent to help build the future of Ashby, as we more than double our business year over year. But we’re not just collecting resumes:
+So far we’ve hired 10 Product Engineers in 2025 (that’s a 20% increase in our total engineering headcount from this one role in the first 4 months!)
+We aim to respond to applicants within 3-4 days (often quicker)
+What Ashby gives you in return is the best of both early and growth-stage environments. The agency and no-nonsense of a seed startup: you write product specs, make product and design decisions, and build in an almost-no-meeting culture. While also the product-market fit and scale of a growth-stage startup: thousands of daily users who depend on your software and eagerly await your next feature.
+We have notable customers like Notion, Linear, Shopify, and Snowflake. Our growth and retention metrics are best-in-class among our peers: we have tens of millions in ARR, growing >100% year over year, very low churn, and many years of runway. We’ll share more details once we meet.
+About the Role and How We Work
+Our engineering culture strives to recreate the environments where we did our best work as ICs – where we had the ownership and agency to impact our users with creative and innovative software.
+I started my career building software for artists in the Visual Effects industry. It was a formative experience for me as a software engineer because success relied on my ability to be a product manager and designer. I talked to artists to understand their needs. I came up with ideas. I did industry research, designed interfaces, and prototyped ideas. I watched artists use what I built and decided what to tackle in the next iteration. No daily stand-ups, no t-shirt sizing, no planning meetings.
+I studied computer science to solve problems, not tickets, and this felt exactly like that. I not only felt creative and fulfilled but the agency and ownership we were given as engineers powered an incredible amount of innovation.
+Innovation came differently (or not at all) at technology startups beyond the seed stage, often through an engineer’s force of will and ability to push back against culture (rather than any encouragement from it). Engineering was narrowed to implementation and delivery, partly due to the influence of other departments and partly due to the influx of "Agile" processes like sprint planning. In those companies, I felt like a JIRA jockey.
+At Ashby, we’re building an environment that is optimistic about what engineers can own and achieve. An environment that embraces innovative engineers, and, frankly, often stays out of their way. As a Product Engineer, you’ll take ownership over a large portion of one of our products and own projects end-to-end (wearing hats traditionally worn by product and design). You’ll research competitors, write product specs, make wireframes, and more. To ground it with examples, product engineers at Ashby have:
+Designed and built automated interview scheduling. This feature automates scheduling by calculating possible times from a pool of interviewers and other constraints, and then presenting these times to the candidate for selection via our responsive web app. This solves the “Calendar Tetris” problem I talk about in "What We're Building."
+Built a generalized declarative filter architecture that allows users to create complex filters for any record with a consistent UI and compile it to SQL in our backend. Many user-facing features use it.
+Specced, designed, and implemented a feature that allows users to complete signing offers entirely within Ashby. This project involved talking to customers to understand their requirements, deciding what technologies to use, building a prototype, and working with other team members to integrate the final implementation into additional features.
+What We’re Building
+Talent teams aspire to build a hiring process that identifies great candidates, moves them quickly through the interview process, and provides an excellent experience for the candidate. To accomplish this, recruiters perform thousands of daily tasks to coordinate and relay information between candidates, interviewers, and hiring managers. Teams struggle to keep up!
+Scheduling a final round is an excellent example of our customers' challenges. A recruiter needs to collect availability from the candidate, identify potential interviewers, perform “Calendar Tetris” to find who is available to interview the candidate, schedule on the earliest date possible, and perform any last-minute adjustments as availability changes. They must perform this while considering the interview load on each individual and whether interviewers need to be trained and shadowing others.
+Ashby provides talent teams with intelligent and powerful software that provides insights into where they’re failing and automates or simplifies many of the tasks they’re underwater with. We put a lot of effort into designing products that are approachable to beginners but mastered and extended by power users. In many ways, spreadsheets set the bar here (and are what we often replace!).
+Why You Should or Shouldn’t Apply
+Software engineers come in many flavors, not all of which fit our model. Here are some things to help you decide if this fits you and what you’re looking for:
+You’re not afraid to tackle any part of a technology stack. You do what’s necessary to successfully deliver a feature, whether writing frontend or choosing new infrastructure. We’ll provide a supportive environment to do it successfully (e.g., design system, SRE team).
+You’ve tackled projects with a lot of product and technical ambiguity, and you thrive at the intersection of the two. We’re not building a simple CRUD app, and many of the challenges we tackle require you to use your knowledge of our customers to build powerful abstractions and flexibility in the system to solve a class of problems.
+You know how to strike the right balance between speed and quality. Ashby wasn’t built quickly. We took four years to launch publicly because convincing customers to switch required a high-quality product. However, time isn’t infinite, especially for a startup, so we still move with urgency—we’ve built the equivalent of three or more VC-backed startups with a very small team.
+You are ambitious and always looking to improve your skills. For most engineers, this role will give you more freedom and responsibilities than you’ve experienced in the past. To thrive (and level up), you’ll need to be open to feedback (and we give lots of it).
+You’re an excellent collaborator and communicator. Ownership and freedom don’t mean you work in a vacuum. You’ll need to vet your decisions with the appropriate stakeholders, keep them up to date when necessary, and work with other engineers to get your projects across the finish line. Clear and concise communication helps a lot here!
+You seek to create leverage in your work. The nature of software is that you can often automate or abstract what would be tedious, time-consuming work. Your impatience usually leads to new abstractions, tools to allow Support to debug before Engineering, new lint rules to prevent common bugs, etc.
+Put another way, you shouldn’t apply if:
+You need company-driven process and structure to get your projects across the finish line. Sprint planning and well-defined project management processes are things you need or look to others to lead. You’d rather focus on the technical details and challenges.
+You only want to do exciting work. We’re building a team of kind, collaborative folks. Customer issues and investigations are distributed across the team, including our high-level ICs.
+You can get lost in the details. Once you start implementation, it can be hard to take a step back and think about the project as a whole. You like everything to be planned upfront.
+You haven’t led or taken ownership of projects before. You’re used to working with tech leads and taking on tasks distributed by them.
+You want to mentor earlier-career engineers. We rely on engineers owning their projects, so we need engineers with that experience. This requires the team to be reasonably tenured. More than 90% of the team would be considered Senior or above in the industry today, so mentorship opportunities are very limited.
+To you, a tech lead, staff, or principal engineer is someone who spends most of their time project managing or doing architecture reviews. Our most tenured engineers spend most of their time building, and we often trust them with our most challenging problems. While they lead product and technical areas and help other engineers plan their most challenging work, it’s not a requirement, nor do engineers need their sign-off.
+Engineering Culture
+Our engineering culture is motivated by Benji’s (my co-founder and CEO) and my belief that a small talented team, given the right environment, can build high-quality software fast (and work regular hours!).
+Collaboration is Natural & Communication is Deliberate
+Our engineering team (and the team at large) consists of lifelong learners who are humble and kind (meet them here!). These attributes create an environment where collaboration happens naturally (we filter for it in interviews). We combine this with research, prototyping, and written proposals to see around corners and get feedback from the team across time zones. Focus time is something that we hold sacred, and, with thoughtful and deliberate communication, engineers are in <2h meetings per week (I wrote about it here).
+Increase Leverage, not Team Size
+We built Ashby with the quality, breadth, and depth that many customers would expect from much larger teams over larger time scales. We’ve done this through investment in:
+Great developer tooling. Our CI/CD takes ~10m, and we deploy at least 10x a day. Everyone on the team has contributed to developer experience
+Building blocks to create powerful and customizable products fast. At the core of Ashby is a set of common components (analytics modeling and query language, policy engine, workflow engine, design system) which we are constantly improving. Each improvement to a common component cascades throughout our app (short video below).
+Here’s an impromptu quote from Arjun in our company Slack of what it’s like to build a feature at Ashby:
+And a demo of one of these building blocks:
+Give Engineers Ownership & Agency
+We, as engineers, find clever ways to solve problems, which amplifies when we deeply understand the problem. Benji and I did our best work as engineers when we had a deep understanding of the end-user and the business and ownership over the solution. Our engineering culture reflects this experience: engineers own projects end-to-end, from speaking with users to writing product specs to UX design. These are skills that we often don’t get to practice as engineers, and, at Ashby, we provide mentorship to grow them and help from the team where you want it.
+Put Effort into Diversity
+Diverse teams drive innovation and better outcomes. Having seen my mother and partner build their careers as minority women in non-diverse fields, I want to make sure Ashby creates opportunities for the next generation of engineers from underrepresented groups.
+Today, 26% of engineers at Ashby are from underrepresented groups. It’s not great, and we are taking conscious steps to improve, like sourcing diverse candidates, providing generous paid family leave, no leetcode interviews, and more.
+Interview Process
+At Ashby, our team and interview process want to help you show your best self. We’ll dive into past projects and simulate working together via pair programming, writing tech specs collaboratively, and talking through decisions (no leetcode or whiteboard exercises). Our interview process is three rounds:
+15 to 30-minute introduction call
+A technical screen (60-minute in-person)
+A virtual on-site of 3 hours and 15 minutes (can be split across multiple days)
+Your hiring manager will be your main point of contact and prep you for interviews. You’ll meet 4 to 6 people in engineering (with ~15 minutes in each interview to ask them questions). If we don’t give an offer, we’ll provide feedback!
+Your First Two Months at Ashby
+We want an exceptional onboarding experience for every new hire. At Ashby, your dev environment sets up with a single script, you push your first change on day one, and we spend the rest of the time building your confidence in our codebase and practices culminating in the delivery of a prominent, impactful feature. We’ll pair you with a peer who’ll guide you through your first tasks and be someone you rely on, from answering questions to pair programming.
+Technology Stack
+I’m sharing our tech stack with the caveat that we don’t require previous experience in it (but a love of typed languages is helpful ): TypeScript (frontend & backend), Node.js, React, Apollo GraphQL, Postgres, Redis.
+Benefits
+Competitive salary and equity.
+10-year exercise window for stock options. You shouldn’t feel pressure to purchase stock options if you leave Ashby —do it when you feel financially comfortable.
+Unlimited PTO with four weeks recommended per year. Expect “Vacation?” in our one-on-one agenda until you start taking it .
+Twelve weeks of fully paid family leave in the US. We plan to expand this to employees in other countries as situations arise.
+Generous equipment, software, and office furniture budget. Get what you need to be happy and productive!
+$100/month education budget with more expensive items (like conferences) covered with manager approval.
+If you’re in the US, top-notch health insurance for you and your dependents with all premiums covered by us.
+Ashby’s success hinges on hiring great people and creating an environment where we can be happy, feel challenged, and do our best work. We’re being deliberate about building that environment from the ground up. I hope that excites you enough to apply.
+Ashby provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.
+Compensation Range: €95K - €150K
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=114&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_38d0de85&cb=1750149758871&jobListingId=1009776911108&jrtk=5-yul1-0-1itugrvg2m90r800-992443f3d7a172cb
+  score: 23.71
+----------------------------------------
+Job 8:
+  job-company: Warner Bros. Discovery
+  job-title: Software Engineer II
+  job-description: Welcome to Warner Bros. Discovery… the stuff dreams are made of.
+Who We Are…
+When we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what’s next…
+From brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.
+We are the now and the next. The power behind the people building the future. We are born from the spirit of innovation. We are created from the idea that people around the world want more, need more, deserve more. We are the home of the global digital revolution. We are CNN.
+To see what it’s like to work at CNN, follow @WBDLife on Instagram and X!
+Engineering & Implementation:
+Build and maintain features tightly integrated with our CMS platform for editors and product teams to configure, launch, and monitor A/B and multivariate tests
+Collaborate on APIs and services for experimentation integrations with frontend and backend systems
+Write clean, efficient software code with a focus on maintainability and performance
+Participate in regular testing, QA coverage analysis, and deployment processes to ensure production readiness
+Collaboration & Delivery:
+Partner closely with peer engineers to learn and build experimentation systems, from architectural design to iterative feature development to production release
+Partner with product and analytics leads to define and deliver high-impact testing features
+Participate in sprint planning, sprint reviews, and retrospectives to develop team delivery skills
+Contribute to code reviews, architectural design documentation, and engineering process workflows
+Mentorship & Growth:
+Provide peer mentorship through informal code reviews and collaborative debugging
+Share technical insights during team meetings and sprint ceremonies
+Lead knowledge-sharing sessions and create technical documentation
+Encourage inclusive engineering practices and a test-and-learn mindset
+How We Get Things Done…
+This last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.
+Championing Inclusion at WBD
+Warner Bros. Discovery embraces the opportunity to build a workforce that reflects a wide array of perspectives, backgrounds and experiences. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, regardless of sex, gender identity, ethnicity, age, sexual orientation, religion or belief, marital status, pregnancy, parenthood, disability or any other category protected by law.
+If you’re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our accessibility page for instructions to submit your request.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=117&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_86167309&cb=1750149758871&jobListingId=1009775133741&jrtk=5-yul1-0-1itugrvg2m90r800-78dee631dbafc8d4
+  score: 23.29
+----------------------------------------
+Job 9:
+  job-company: Warner Bros. Discovery
+  job-title: Software Engineer I
+  job-description: Welcome to Warner Bros. Discovery… the stuff dreams are made of.
+Who We Are…
+When we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what’s next…
+From brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.
+We are the now and the next. The power behind the people building the future. We are born from the spirit of innovation. We are created from the idea that people around the world want more, need more, deserve more. We are the home of the global digital revolution. We are CNN.
+To see what it’s like to work at CNN, follow @WBDLife on Instagram and X!
+Engineering & Implementation:Contribute to feature development within our CMS platform for editors and product teams to configure, launch, and monitor A/B and multivariate testsAssist in building web-based tools and backend APIs that support content experiments and performance analysisCollaborate on UI components and backend logic that enable editors to create, run, and monitor tests
+Learn to write clean, maintainable code while following team conventions and guidance
+Contribute to testing coverage, QA analysis, and code reviews to ensure production readiness
+Collaboration & Delivery:Partner closely with peer engineers to learn and build experimentation systems, from architectural design to iterative feature development to production releasePartner with product and analytics leads to define and deliver high-impact testing featuresParticipate in sprint planning, sprint reviews, and retrospectives to develop team delivery skillsAsk questions, seek feedback, and contribute to team knowledge-sharing and documentation
+Mentorship & Growth:Receive coaching and technical guidance from experienced engineersPair program and shadow teammates to deepen your understanding of experimentation services and platform-level engineeringEmbrace a growth mindset and take advantage of learning opportunities across CNN and WBD technical teams
+Contribute to a positive, inclusive team culture that values curiosity and collaboration
+How We Get Things Done…
+This last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.
+Championing Inclusion at WBD
+Warner Bros. Discovery embraces the opportunity to build a workforce that reflects a wide array of perspectives, backgrounds and experiences. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, regardless of sex, gender identity, ethnicity, age, sexual orientation, religion or belief, marital status, pregnancy, parenthood, disability or any other category protected by law.
+If you’re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our accessibility page for instructions to submit your request.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=115&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_de94ff62&cb=1750149758871&jobListingId=1009775133766&jrtk=5-yul1-0-1itugrvg2m90r800-615adab1713e60f7
+  score: 22.7
+----------------------------------------
+Job 10:
+  job-company: WEBB Traders BV
+  job-title: Junior/Experienced Software Engineer - Risk
+  job-description: Are you ready to make an impact and shape the future of our trading ecosystem? Apply now!
+Who we are
+WEBB Traders is a fast-growing, global proprietary trading company, driven by data and technology. We act as a market maker, using our own capital to trade on global stock and derivatives exchanges. By leveraging a large network of interdealer brokers and the latest advancements in electronic trading technology, we add liquidity to the financial markets specialized in cash equity and derivatives.
+Since our very first trade in 2009, WEBB’s headquarters have been based in Amsterdam, nowadays supported by a strong presence in Paris. With our 70 employees of over 25 different nationalities, we are united in our great ambition to grow WEBB into a global leader in arbitrage and liquidity.
+Join us to accelerate your career in the unique trading culture of openness, community and boundary-free entrepreneurship!
+ This position can be based in our Amsterdam office
+Your role
+We’re looking for an experienced engineer to help us build our proprietary trading stack, with a focus on systems related to risk. Design high-performance datastores to serve our latency-sensitive trading-strategies, build a world-class data platform to support cutting-edge quantitative research, or create outstanding risk tools to ensure the safety of our operation and unlock deep insights into our business. Challenge yourself, achieve more, and make a lasting impact on our success.
+
+What you bring to WEBB
+Industry experience: 1-5 years of engineering in HPC, large-scale data infrastructure and/or real-time systems as a software or data engineer
+Technical mastery: Strong expertise in Python and/or C++, excellent understanding of relational databases and alternatives, ability to efficiently drill into available data for answers and metrics; web development skills or proficiency in statistics and/or financial theory will significantly boost your chances of success
+Impact mindset: You make decisions with purpose, always considering the broader impact on performance and efficiency
+Business-oriented: You seek to understand what the company needs to succeed and how the trading industry works, ensuring your work always aligns with the interests of the organization
+Endless curiosity: You have a drive to learn, understand, and continuously improve the systems around you
+Keep it simple: You believe in the power of simplicity, creating clean solutions that avoid unnecessary complexity
+Team player: You're eager to share knowledge and collaborate, helping the team achieve success together
+Language skills: You communicate effectively and clearly in English, both written and spoken
+What we offer
+Challenge yourself. Be part of the dynamic work environment and grow along with us.
+Develop yourself. Join internal and external training sessions covering trading software, agile methodologies, and hardware and software management
+Treat yourself. Enjoy delicious meals in our office in Amsterdam or with your personal Swile card in Paris
+Stay fit. Sports facility access
+Keep the spirit up. Fun activities with your teammates on a regular basis
+Team up. A great office vibe in the heart of Amsterdam or Paris
+It’s on us. Benefit from travel reimbursement in Amsterdam
+And finally… A competitive reward package including a bonus scheme
+Application process
+Apply online - Submit your application (in English) through our WEBBsite. We’re excited to hear from you!
+Get to know us - Have an online interview with our recruiter to align on expectations and see if we’re a match
+Show your skills - Tackle our programming challenge and showcase your engineering superpowers
+Dive deeper - Join a technical discussion with our engineers and exchange ideas on building high-performance systems
+Meet us in person - Visit our office for the final round with our Head of IT, and stick around for a drink to get a real feel for our team
+Welcome aboard! - Receive our offer and get ready to start your journey at WEBB!
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=109&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_fee03e48&cb=1750149758870&jobListingId=1009776739878&jrtk=5-yul1-0-1itugrvg2m90r800-56d968513d27e768
+  score: 19.33
+----------------------------------------
+Job 11:
+  job-company: Uber
+  job-title: Senior Software Engineer - Android - Payments Experience
+  job-description: About the Role
+
+
+
+
+Being able to pay on Uber is a prerequisite for using the services we provide. Ensuring that users are able to understand how to pay and manage their payment options as efficiently and frictionlessly as possible is crucial for enabling us to provide the best-in-class user experience and for the success of our business.
+
+
+
+The Payment Selection Capabilities team aims to pre-select and rank payment options for the given context and provides a way to make a quick and informed decision on how they want to pay and allow them to manage their payment options.
+
+
+
+The Payment Selection Experience team aims to enable the user to make a quick and informed decision on how they want to pay and allow them to manage their payment options.
+
+
+
+What the Candidate Will Need / Bonus Points
+- What the Candidate Will Do -
+
+
+
+As part of the Payment Selection team, you will have direct responsibility for vital systems and processes. You will take ownership of key features and initiatives in crafting and building high quality, scalable systems in making paying on our platform reliable and efficient. Your work will directly impact the lives of Uber's users across the globe.
+
+
+Contribute to the Android monorepo on core Uber flows enabling Payment experiences. Write quality code and documentation.
+Take ownership of the critical engineering and business challenges, in collaboration with Product, Design and Data Science, and build the technical capabilities to support them.
+Work closely with backend engineers and cross platform developers to build our users' payment experience.
+Define problems, propose solutions, and drive their execution with a high degree of autonomy.
+Contribute to the development and execution of the strategic vision and roadmap for the Payment Selection team.
+Apply and drive methodologies in code health, testing, and maintainability.
+Good understanding of software experimentation philosophy in the earlier work with understanding of setting up A/B experiments for hypothesis testing.
+Build instrumentation in the experiments, understand and mine insights and investigate these to help product with data driven decisions from experimentation.
+
+- Basic Qualifications -
+
+
+6+ years of full-time Android engineering experience with good understanding of Android SDK, different versions of Android, and how to deal with different screen sizes
+Experience in object oriented programming, multithreading, networking, offline storage, memory management and source control management (git)
+Familiarity with RESTful APIs to connect Android applications to back-end services
+Great understanding of Android UI design principles, patterns, and best practices
+Knowledge of the open-source Android ecosystem and the libraries available for common tasks
+Familiarity with cloud message APIs and push notifications
+A knack for benchmarking and optimization
+Strong focus on high-quality mobile UI experiences. Experience with UI/UX paradigms to build sophisticated user experiences
+Experience working with product and design teams
+Experience analyzing a feature in production using analytics and experiments
+Ability to understand business requirements and translate them into technical requirements
+
+- Preferred Qualifications -
+
+
+Knowledgeable in Reactive programming (RxJava) and Kotlin
+Comfortable working within the coding conventions of a large engineering organization and working in a large and sophisticated code base with many contributors
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=119&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_45d66222&cb=1750149758871&jobListingId=1009775285005&jrtk=5-yul1-0-1itugrvg2m90r800-f99d3f866c3ecdda
+  score: 18.9
+----------------------------------------
+Job 12:
+  job-company: Experiencegift
+  job-title: Senior Software Engineer (PHP)
+  job-description: Ready to join the fastest-growing tech company in the Netherlands?
+
+In 2023 we received the prestigious Oryx Award 2023 by the Dutch Financial Newspaper (FD), for the company with the most exceptional growth performance. We were awarded 1st place by the Deloitte Fast 50 award in 2019 for growth and innovation, 7th place in 2020. We’ve continued our strong growth during and after Covid times, and have ambitious plans for the future. Now, we are looking for a driven and skilled Senior PHP Backend Developer to join our team to further conceptualize and execute our growth ambition.
+
+About Experiencegift
+Experiencegift is home to Hotelgift, Flightgift, Traingift and Activitygift. Our gift cards can be redeemed for over 750,000 hotels, 400 airlines, 50,000 activities worldwide and train journeys all across Europe. We believe in experiences over things. Our mission is to enable our customers to spread joy by giving the gift of experiences that can be redeemed whenever, wherever. As we sell in over 50 countries worldwide, we’ve built a diverse team of over 50 colleagues and more than 15 nationalities. We have subsidiaries in Amsterdam, London, Athens, and New York.
+
+About the Role
+We are seeking a highly skilled Senior Software Engineer with deep experience in Laravel, API architecture, and microservices to join our growing engineering team. You will play a critical role in designing, developing, and maintaining scalable backend systems that power our next-generation applications.
+This is not a cookie-cutter role: you will be expected to demonstrate architectural thinking, excellent coding standards, and an understanding of complex backend patterns including OOP, MVX paradigms, authentication flows, and rate-limiting strategies. You will be part of a highly collaborative team that values clean code, automation, and forward-thinking solutions.
+
+Key Responsibilities
+Architect, build, and maintain scalable and secure backend systems using PHP and Laravel.
+Design and develop RESTful APIs and microservices adhering to best practices in authentication, authorization, and rate limiting.
+Implement robust OOP and MVX design patterns to ensure code maintainability and scalability.
+Containerize applications using Docker for development, testing, and production deployments.
+Collaborate cross-functionally with frontend developers, DevOps engineers, product managers, and QA teams.
+Participate in code reviews, architecture discussions, and technical mentoring for junior developers.
+Optimize application performance and scalability, identifying bottlenecks and implementing long-term solutions.
+Stay updated with emerging backend technologies and propose improvements proactively.
+
+Required Qualifications
+5+ years of professional experience with PHP development, with at least 3+ years using Laravel extensively.
+Strong experience in building and maintaining APIs (REST, OAuth2, JWT, token-based authentication).
+Solid understanding of OOP, design patterns (MVX, MVC, MVVM, etc.), and SOLID principles.
+Proven experience with microservices architecture in production environments.
+Hands-on experience with Docker for local development and deployment pipelines.
+Familiarity with rate-limiting techniques, caching strategies, and API throttling mechanisms.
+Strong database knowledge (MySQL, PostgreSQL, or equivalent).
+Familiarity with cloud services (AWS).
+Excellent teamwork and communication skills, both verbal and written, to guide technical discussions and document solutions
+Fluency in English
+Nice to have
+Experience with API Gateway and rate limiting strategies
+Understanding of WebSockets, real-time applications, and caching strategies
+Experience with Headless CMS, eCommerce platforms, or ERP integrations
+Knowledge of Node.js for backend services.
+Who are you?
+Passionate & curious: You love backend development, and you enjoy learning and experimenting
+Problem-solving: You are not afraid of challenges, and you are able to utilise the proper means to find solutions with a proactive and self-driven attitude
+Collaborative: Ability to work effectively in a team and independently with minimal supervision
+Detail-oriented: You pay attention to the detail, ensuring every design implementation feels just right
+Communication: Excellent teamwork and communication skills, both verbal and written, to guide technical discussions and document solutions
+
+What can you expect from us?
+Opportunity for significant and fast impact
+Freedom to come up with new ideas and initiatives
+Lots of learning and development opportunities
+Salary reflective of skills and experience and performance-based bonus potential
+Pension plan
+High-end new laptop
+Lunch and snacks provided
+After-work and monthly events
+Complimentary ClassPass subscription
+Awesome annual trip abroad with the entire company
+Young, friendly, ambitious, international team in Amsterdam, Athens, Cairo and London
+
+This is a full-time job (40H/week) based in Amsterdam and is available as soon as possible.
+
+At Experiencegift we offer you the opportunity to work in a scale-up culture where everything you do matters. In our company, you will have the freedom to experiment and evolve your own projects. You will be part of an international, driven, award-winning team and will gain experience in a very fast-growing scale-up environment. By providing a creative, dynamic, and innovative environment, we empower our people for unlimited success.
+
+Ready to make a real impact in a thriving company? Apply directly here or visit our career page for more details. We are looking forward to meeting you!
+
+No agencies please, we manage our recruitment processes internally.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_3d28aa46&cb=1750149758870&jobListingId=1009779964852&jrtk=5-yul1-0-1itugrvg2m90r800-b144022d9bc928fd
+  score: 17.93
+----------------------------------------
+Job 13:
+  job-company: bloomon
+  job-title: Senior Software Engineer - Full Stack, Python
+  job-description: Bloomon is turning the flower industry on its head – for the better. How? By disrupting the traditional supply chain! We skip the auction and wholesale, to shorten the journey for our flowers. And we harness technology, brand and innovation to deliver gifts and subscriptions that delight our customers across Europe. We launched in Amsterdam in 2014, and in 2021 joined forces with Bloom & Wild, the UK's fastest growing ecommerce company (according to the Financial Times). Our group is backed by top tier investors and is now home to a family of 3 strong brands, Bloom & Wild, bloomon and Bergamotte. Together, we’ve delivered over 20 million orders (and counting!), making us the largest direct to consumer flower business in Europe. Our vision is to create the destination for making life a little more thoughtful and beautiful. And we won't stop at flowers and plants. Starting with the Bloom & Wild brand, we're expanding our gifting offering to other categories like cakes, candles and cocktails. This is all part of our ambition to build Europe's #1 direct to consumer gifting destination.
+
+We really care about creating a diverse and inclusive team - so we welcome people from all backgrounds, with different perspectives, ideas and experiences to work with us. In our team, everyone has the freedom to give their opinion, grow in their career and be part of a genuinely caring and inclusive team.
+
+️Technology at Bloom & Wild
+
+Here at Bloom & Wild the Product Engineering team is organised into cross functional squads, each responsible for a business and architectural domain. They are supported by Platform and Data Engineering and are part of the wider Technology team.
+
+
+
+You’ll be part of the Production & Procurement squad, a cross-functional squad working within our Ops-Tech team. The primary focus of the squad is our internal systems that facilitate daily operations within our multiple warehouses (for example the production of bouquets and fulfilment of orders). This is one of the most unique and innovative areas of our business, and as our business continues to experience significant organic and inorganic growth, we have ambitious plans to innovate and scale our operations further.
+
+We work with some great technology; our stack consists of a number of Python-based (micro-)services with React frontend, currently running on the Google Cloud Platform (GCP). You’ll work on multiple services used by the people working in our warehouses..
+
+Most of our team is based in the UK or the Netherlands and works in a flexible model, with choice in how often they travel to the office. Our squads meet all in person at least once per quarter in order to maintain connections, collaborate on larger projects and have fun together.
+You can read lots more about our technology stack and our culture over on our tech blog - Code & Wild
+
+
+
+ What you’ll be doing...
+You’ll play an active role in delivering the roadmap for your squad and be a key part of our Engineering team.
+You'll be collaborating with other engineers, designers, product managers and stakeholders as you work together to scope out what to build and how.
+You will own feature development from ideation through to production release and ongoing maintenance, using an iterative approach to validate ideas and learn.
+You will be part of our supportive engineering culture as you learn more, and grow your career, within Bloom & Wild Engineering.
+✅ You’ll love this role if you…
+Have demonstrated experience as a Full-Stack Developer with a track record of successfully developing and deploying web applications.
+Have a minimum of 5 years of relevant experience in full-stack development is required.
+Have Proficiency in Python for server-side development.
+Have Knowledge of React for front-end development and experience with relational databases (e.g., PostgreSQL, MySQL) and writing efficient SQL queries.
+Love to collaborate and are at your best when working cross functionally with other teams.
+Have a positive and optimistic attitude - you overcome setbacks and obstacles, and inspire and motivate those around you too.
+Take a collaborative, data-driven, and experimental approach to solving complex problems, and are able to demonstrate the ability to foster this mindset in your colleagues.
+Are keen to learn and stay up-to-date with the latest technologies and value sharing your knowledge with your peers.
+It would be great if you also have...
+Experience working on an e-commerce site or in a fast-growing (preferably consumer-facing) start-up.
+Knowledge about distributed service architectures, including how best to test and release them, and how to ensure system stability when making changes independent of other services.
+
+These are some of the skills and experience we think will enable success in this role, but please don’t worry if you are missing some of these. We’re committed to building a team made up of different strengths, skills and experiences, so if you’re excited about our values, passionate about what you do and would like to join us in doing things more thoughtfully, we’d love to hear from you.
+ (some of) The good stuff
+To care wildly for our customers, firstly we care wildly for our teams. We work hard to craft a culture of thoughtfulness and care, where there is a strong sense of inclusion and belonging, enabling all of our people to thrive and be successful each day.
+
+ Work that works for you Flexible working : our core hours are 10-4, but outside of these hours you can start or finish your day when works best for youWork Abroad for up to 30 days each year Share in our success with a choice to take equity optionsEnhanced family leave policy and a workplace nursery scheme1 day per year to volunteer on a project that’s close to your heart
+
+ Time off
+25 days’ holiday + your birthday and bank holidays each year
+Summer hours: every Friday afternoon off during July and August (trialling in 2023)
+Flexible bank holidays - trade a bank holiday for another day that fits your beliefs, values and celebration calendar
+Option to buy an extra 5 days’ holiday each year
+
+ Health and wellbeing
+Health cash plan through Simplyhealth
+Company pension scheme
+Mental health support through Open Up, including access to online therapy sessions
+Allies and champions groups
+In person or virtual yoga every week
+Cycle to work scheme
+Our office kitchen is stocked with drinks and snacks to keep you going
+
+ Growth & Development
+A flexible training framework for every stage of your career development through our Bloom & Learn programme
+Mentee and mentor opportunities with our external partners, such as The Women's Association and Mentoring for Growth run by Future Founders
+Internal & external Speaker Sessions on a variety of different inspirational topics
+
+ Moments that matter
+Social & wellbeing monthly calendar
+Summer and End of Year events, team lunches and post-peak celebrations
+Irresistible discounts on our products, blooms & subscriptions!
+
+ Belonging at Bloom & Wild
+We know that we learn through our differences, and building a diverse team has always been central to creating the best experience for our customers. We value all backgrounds, perspectives, ideas and experiences, and encourage everyone to share their opinions openly within our caring and inclusive team. Our champions community actively advances our culture of inclusion and belonging, which is organised around 8 pillars of diversity. These cross-business networks offer additional opportunities for connection, education, support and celebration, and ensure that inclusivity continues to be embedded in our ways of working.
+
+‍ Getting hired
+We’ll do everything we can to make sure your interview experience with us is a good one. It’s a 2-way process, and we’re keen to answer all of the questions you may have, so that you can be sure (and excited!) that we’ll be the right place for you.
+
+Apply below (it takes 2 minutes!). If you are successful you can expect:
+- A chat with Leroy, our Talent Consultant or tech - to discuss our role and learn a bit more about your skills and background and how we might match your career & development goals.An interview with Gastón, the P+P Engineering Manager, to get into more of the details.A chance to show us your technical skills and get to know two of the engineers from the squad and Prove your product mindset in a chat with our Product Managers.Then a call with either our VP of Engineering or our Chief Product & Technology Officer.
+
+We believe in leading change for good, so if there’s anything that we can do to help throughout your application process, or if you have any feedback, please share this with us anonymously here so we can use this to improve your experience.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_00aaccc4&cb=1750149758870&jobListingId=1009779988934&jrtk=5-yul1-0-1itugrvg2m90r800-419fd0bc7cc968d6
+  score: 5.42
+----------------------------------------
+Job 14:
   job-company: Ministerie van Defensie
   job-title: Software Engineer
   job-description: Wat ga je doen?
@@ -348,9 +930,61 @@ Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld.
 Je startsalaris is afhankelijk van je leeftijd, opleidingsniveau en ervaring. Naarmate je kennis en ervaring toenemen, groeit ook je salaris met je mee. Boven op je salaris ontvang je als militair bovendien verschillende structurele en incidentele toelages. In de vermelde salarissen op werkenbijdefensie.nl is de VEB-toelage al opgenomen. Meer info
 Software Engineer Ook interessant voor jou
   job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=130&ao=1110586&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_1536e3d1&cb=1750149758874&jobListingId=1009771699232&cpc=AC285F3A3ECA6BB0&jrtk=5-yul1-0-1itugrvg2m90r800-fa6ea7a33d2845c4---6NYlbfkN0Ammggdl9cK7YBfgqgCxe-0Ko6HlaafmPUm1U0bXvbwhd5gspnGmJABL1R8rd_fGcLMQXjqqE7O-aokVUcAAmJQu-ID1PcCeTcKbwGR2I35d9sfIlILK9B-ozjBtLIMCUmSBqcHWSRiwS9aisRU8LyHxoJ1-0M2B9_S6EhpQ2BkXA3F_XlYGSTJOHvdydnoNP_agYMQYNrz6m6or8NwFIhmdcXfBP5EgZguAi-3z34oxrpaE56F7Wk6xH1QJ_bwweTicUWsY6N8ZCDGtGe8eT-FO4MxF68rDOhhDERVZsPv_34h7ED7JPMeLsHm-k5xtNQeGc7OlcqB4Z3w7ANOaiFzhu00wwpmFiAXDe6AQrML6cWDNiAF8mKBKNCp-TqahA8MPhcDnlOrlc74uBg1Se6n7DDMsRprkLghbImYLD-jp4CR_b6cCTzhoFjnJAcoY0kdkSE8z-CXNmU7Jyvac0S2N7Lttoi8rOA0Df8yP5sQZlm4xO-FMiYlaT-zsHQal8tgTufrAU34Xxt14XJO39eLTwo-RSt4uRpGRX0U2nJ8idgc7E-Jv8Hd6hx3vLCfoR7IJ6k0a2ytI57O2VCWp9ZhZtUE_oBHetlLIY445ppebMq6zw1U6845jGpfPgx_2k4ELgCbYthW5GcbedFP9mwshyfwVeEAT-yYJXVL2fVFY1cFH7GgDlzlqB7naw14ZUV4962GjHoj_NMLgpuV0gFBRwpX7ie01z1BbTCRyjxsJQYSU9tZipQtrNgCVmC-wH937MKhRqHGz5mRvlitSqj6BmQ-wINjFQhFuAPFy4Mv60vjPfr-SvgJC9L-oA7D5AxxmTdhzPqAEJp4x_qNWSmx9aU1NfvLpy-qelyUus2cm_sSdUWipoZT_4ysnLzKZAPJWP5KN7JD9w%3D%3D
-  score: 4.49
+  score: 0
 ----------------------------------------
-Job 5:
+Job 15:
+  job-company: Capgemini Engineering
+  job-title: Junior Embedded Software Engineer
+  job-description: Embedded Engineering
+
+Uren: 40 uur
+Werkplek: Eindhoven, Utrecht, Zwolle, Hengelo
+Ervaring: 0-1 jaar afgestudeerd HBO/Universiteit
+Als grootste Engineering werkgever van Nederland biedt Capgemini Engineering jou de ideale eerste stap in je carrière. Als junior Embedded Software Engineer ga je snel aan de slag op een van de projecten voor onze hightech klanten. Bij Capgemini word je meteen betrokken bij het gehele embedded software ontwikkelproces van hightech equipment voor onze opdrachtgevers. Door middel van trainingen en 'learning on the job' kun je jezelf op een aangename en natuurlijke manier verder ontwikkelen, en voordat je het weet, ben je een professional in OO-technieken, C++, Python en Linux.
+Jouw mogelijkheden als Junior Embedded Software Engineer bij Capgemini Engineering
+Afhankelijk van je interesses en doelen, high level of baremetal SW ontwikkeling, ga je als junior Embedded SW Engineer aan de slag op een van onze projectteams. Je programmeert in C++, C en Python, meestal in grootschalige codebases die op Linux of Windows draaien. Deze teams werken op een van onze kantoren, bij klanten, of een combinatie van beide. Je krijgt vanaf het begin al aanzienlijke verantwoordelijkheden, maar je kunt altijd rekenen op de ondersteuning van je collega's binnen het team. Uiteraard kan je gebruik maken van het enorme trainingsaanbod van Capgemini Engineering!
+Je thuisbasis bij Capgemini Engineering
+Je wordt onderdeel van een van de units in de Practice Embedded Software Engineering. Die Practice bestaat uit 175 SW professionals, van junior tot senior, van expert tot architect, van programmeur tot Product Owner. Dagdagelijks sta jij in contact met het (multidisciplinaire) SCRUM-team waarop je als Junior Embedded SW Engineer bent ingezet. Zodoende kan je je aan je meer ervaren collega’s optrekken. Naast het uitvoeren van jouw opdracht kan je je ook op andere manieren inzetten voor Capgemini, zoals kennisdeling, recruitment en de feestcommissie. Hierin heb jij alle vrijheid en kan jij jezelf verder ontwikkelen in een fijne en bescheiden omgeving op een manier die bij jou past. De onderlinge omgang is vriendelijk en informeel en er is altijd ruimte voor vriendschappen, activiteiten en plezier.
+Benefits
+Direct een vast contract.
+Een salaris van € 3.720,- bruto, inclusief mobiliteitsvergoeding van €750,- & 8% vakantiegeld (op basis van 40 uur).
+Bij goed functioneren kan je daarbij na 11, 19 en 25 maanden een salarisstap maken. Let op: hier kunnen geen rechten aan worden ontleend.
+Onbeperkt trainingen volgen bij onze Academy.
+26 vakantiedagen. Zin in een extra veel vrije tijd? Koop dan dagen bij.
+Capgemini draagt bij aan jouw pensioen. Daarnaast heb je ook de vrijheid om hier zelf nog extra aan bij te dragen.
+Werken waar je maar wilt met onze connectiviteits- en thuiswerkvergoeding.
+Een snelle laptop en een simkaart die je ook privé mag gebruiken.
+Een leaseauto, NS-businesscard of uitbetaling van je reiskostenvergoeding.
+Waarom past deze vacature bij jou?
+Als teamlid ben je open voor het ontdekken van nieuwe technische omgevingen en het samenwerken in professionele projectteams. Je bent van onschatbare waarde bij het begrijpen en vervullen van de wensen van klanten door technische oplossingen te ontwikkelen. Bovendien neem je actief deel aan zowel het ontwerp als de implementatie van software samen met je team. Je brengt een frisse kijk en creativiteit in om bestaande methoden en processen te verbeteren. Kwaliteit van de code staat hoog in je vaandel, en je draagt hieraan bij door middel van geautomatiseerde tests. Dit alles gebeurt in een inclusief en multidisciplinair team binnen een Agile/Scrum omgeving.
+Daarnaast heb je:
+Bachelor- of Masteropleiding in Embedded Systems, Computer Science, ICT Technology of vergelijkbare studie.
+Kennis van Object Oriented methodes, in de programmeertalen C, C++ en Python.
+Ervaring in het gebruik en ontwikkeling van software voor Linux/Unix en Real Time Operating Systems.
+Nieuwe frisse blik op de problemen waar onze klanten mee te maken hebben.
+Je bent aangetrokken tot het werken in een Agile omgeving.
+Goede beheersing van de Nederlandse en Engelse taal. Hiermee bedoelen wij minimaal een B2 niveau en dat je passend met zowel de klant als jouw collega’s in gesprek kan gaan.
+Je hebt een sterke interesse in de High Tech wereld.
+Je bent in bezit van rijbewijs B.
+Werken bij Capgemini Engineering
+Kom je werken bij Capgemini Engineering, dan maak je deel uit van een diverse en dynamische groep wetenschappers, ingenieurs en technologen. Bij ons benut je je vaardigheden optimaal, gesteund door 55.000 collega’s verspreid over de hele wereld en ondersteund door geavanceerde technologieën en de laatste kennis. Binnen een hecht team van gemotiveerde specialisten werk je aan baanbrekende projecten voor internationale klanten. Zo help je de grootste innovators ter wereld bij het ontwikkelen van de producten en diensten van de toekomst.
+Wil jij echt een verschil maken? Sluit je dan bij ons aan. Breng je ambitie en nieuwsgierigheid mee en bouw bij Capgemini aan de toekomst die jij voor ogen hebt.
+Om de veiligheid en integriteit binnen onze organisatie te borgen, maakt een backgroundcheck onderdeel uit van het onboardingsproces.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=125&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_02f589c0&cb=1750149758872&jobListingId=1009773832236&jrtk=5-yul1-0-1itugrvg2m90r800-13a4fcba0878357a
+  score: 0
+----------------------------------------
+Job 16:
+  job-company: Devoteam
+  job-title: Java Software Engineer
+  job-description: Als deze zoekwoorden je aanspreken, dan ga je deze rol geweldig vinden:
+#java #spring #containers #cloud-native #consultancy #AI
+Wat is er beter dan cloud-native als ontbijt, lunch en diner? Ontwerp en bouw samen met ons de toekomst als Java Software Engineer. Je wordt onderdeel van ons multidisciplinaire Creative Tech team, waar DevOps, AWS, Atlassian & Software Engineering experts samenwerken om opmerkelijke oplossingen te creëren op basis van de nieuwste technologieën.
+Deze rol combineert hands-on codering met een adviserende functie. Samen met je team werk je aan projecten zoals het bouwen van cloud-native applicaties, het moderniseren van bedrijfskritische systemen en het omzetten in state-of-the-art, gebruiksvriendelijke apps en ben je verantwoordelijk voor het ontwikkelen van baanbrekende applicaties voor start-ups, scale-ups en nog veel meer. Samen stellen we toonaangevende bedrijven en overheidsinstanties in staat om met behulp van geavanceerde technologie en digitale strategieën, positieve veranderingen in de wereld te realiseren.
+Naast een techneut ben je business-minded en je begrijpt de impact van technologie op bedrijfsdoelen. Complexe technische oplossingen zet je moeiteloos om in heldere taal voor stakeholders. Je bent betrokken bij het gehele software ontwikkelingsproces, van business behoefte tot technische realisatie en je beschikt over de capaciteit om projecten met succes op te zetten en af te ronden.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=124&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_bf0b26ae&cb=1750149758872&jobListingId=1009774205420&jrtk=5-yul1-0-1itugrvg2m90r800-432a01487a83e5c8
+  score: 0
+----------------------------------------
+Job 17:
   job-company: Eminent Groep
   job-title: Software PLC Engineer
   job-description: Functieomschrijving
@@ -393,9 +1027,9 @@ Bedrijfsprofiel
 
 Onze opdrachtgever is een advies- en tekenbureau dat gespecialiseerd is in het begeleiden van technische professionals naar nieuwe carrièremogelijkheden. Met een focus op eerlijk advies en persoonlijke begeleiding, helpen zij kandidaten bij het vinden van passende functies in de technische sector. Door goed te luisteren naar de wensen en behoeften van de kandidaten, en door een grondige inventarisatie van hun vaardigheden en ambities, zorgen zij voor een succesvolle match tussen kandidaat en werkgever. Met een toewijding aan transparantie en effectieve communicatie, streven zij ernaar om elke sollicitant te ondersteunen bij het zetten van de volgende stap in hun loopbaan.
   job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=121&ao=1110586&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_d944a51a&cb=1750149758872&jobListingId=1009775545546&cpc=AC285F3A3ECA6BB0&jrtk=5-yul1-0-1itugrvg2m90r800-6d587140ad2d6cb9---6NYlbfkN0CQJFLW1gcNOsI_J2f2QoL_-6SjNxAfFUgXG6PYnZr5Y7ExAwaNzAqvtb_w99c_csWsbLbRw3hts2fIR2DKJcAlb9HJSVJPuV8SbnvIek-r6hT_BSqFM5OX4aVbQIvAFbmGnFQHL_JEk2SERe2sBR-aRgGnWxWwr6-PxVzP46TPcTd97Z68vIXXr7ppL82s4Syc6DDaRh3wqaGMjDVQuZNbVKfVj2-viPfsfDTPJskUuGcuIPJhDTdCdpvVIooPnRsfwV9e3nI0rAVhd9UWzhSiWMHBAOXunqLD6MCctII0WdlP8G1QYAW41Q-ypOK0c3PrxBFU_Ql_mRO8NCwHBorgw8DsdjxhnHdsfZoUQsEiI_RHg9ZE1UEcRhlqFbywoYDLIBizrL53UHiIIxqdFmoEVa_0MmLK81LRjoYnb1psZqQSF5RbmUJggVt3qkT38FYeUu-p1WGm7er2MaBZmQGu4x9Qf0wF87N14CFEFV6Uu1Q7tIusnw0LRtsCCdFLpbevTc8xv-YE1PjSXhagCWBRVYrUGhUM2ZlFsIVijv3x8FZ4Rh3PCv9byg63AWJFs6haS-pWOghCZA1-4Xo2Cj1KmN3pnMiiH2h2abPiNWWJuW-YUUWm8Ett28nXwHZkzqyDBg75FwaQTkvaX93DzK9fT71i9p07txAMAZvclazWfUC8g_uEqc7Nzk3zsnxNA2zY9ZfKKMBUiFsrj0hIUACjgoSbUbEBRiQqM-m_bRQVMn7o_ijUnoYT0F_7k6niOzXYUwbHv5jaMsi_TqENWyr_8TmyySIbtTXLXYgrVrDp_ZZXDXCxRiQwu1L7ahasP3mSHralcjDvC6MYOKb83TWyYp-IWE9dUx58Hr28dQwKGJTyu2xE-gfH
-  score: 4.05
+  score: 0
 ----------------------------------------
-Job 6:
+Job 18:
   job-company: Profi - Workers
   job-title: Java Software Engineer
   job-description: Ben jij een Java Developer die houdt van autonomie, moderne technologie en échte technische uitdagingen? In Amsterdam krijg je de kans om aan schaalbare systemen te bouwen bij bedrijven waar software de ruggengraat vormt van hun dienstverlening. Geen logge ketens, maar snel schakelen, ownership en invloed. Hier ben jij niet een radertje in de machine, maar een sleutelspeler in het team.
@@ -439,16 +1073,173 @@ Geïnteresseerd?
 Neem dan snel contact op met onze recruiter Valentijn! Je kunt hem hier gelijk een e-mail sturen: valentijn@profi-workers.nl , of stuur hem een bericht op LinkedIn .
 Na je sollicitatie nemen wij binnen 2 werkdagen telefonisch contact met je op om een kennismakingsgesprek in te plannen.
   job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=116&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_e4335529&cb=1750149758872&jobListingId=1009775862637&jrtk=5-yul1-0-1itugrvg2m90r800-6b68c64fd48934dd
-  score: 3.91
+  score: 0
 ----------------------------------------
-Job 7:
-  job-company: Devoteam
-  job-title: Java Software Engineer
-  job-description: Als deze zoekwoorden je aanspreken, dan ga je deze rol geweldig vinden:
-#java #spring #containers #cloud-native #consultancy #AI
-Wat is er beter dan cloud-native als ontbijt, lunch en diner? Ontwerp en bouw samen met ons de toekomst als Java Software Engineer. Je wordt onderdeel van ons multidisciplinaire Creative Tech team, waar DevOps, AWS, Atlassian & Software Engineering experts samenwerken om opmerkelijke oplossingen te creëren op basis van de nieuwste technologieën.
-Deze rol combineert hands-on codering met een adviserende functie. Samen met je team werk je aan projecten zoals het bouwen van cloud-native applicaties, het moderniseren van bedrijfskritische systemen en het omzetten in state-of-the-art, gebruiksvriendelijke apps en ben je verantwoordelijk voor het ontwikkelen van baanbrekende applicaties voor start-ups, scale-ups en nog veel meer. Samen stellen we toonaangevende bedrijven en overheidsinstanties in staat om met behulp van geavanceerde technologie en digitale strategieën, positieve veranderingen in de wereld te realiseren.
-Naast een techneut ben je business-minded en je begrijpt de impact van technologie op bedrijfsdoelen. Complexe technische oplossingen zet je moeiteloos om in heldere taal voor stakeholders. Je bent betrokken bij het gehele software ontwikkelingsproces, van business behoefte tot technische realisatie en je beschikt over de capaciteit om projecten met succes op te zetten en af te ronden.
-  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=124&ao=1136043&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_bf0b26ae&cb=1750149758872&jobListingId=1009774205420&jrtk=5-yul1-0-1itugrvg2m90r800-432a01487a83e5c8
-  score: 3.64
+Job 19:
+  job-company: Haystack People
+  job-title: Senior Software Engineer Amsterdam | Python, Django & Azure | Fundtech Scale-up
+  job-description: Bedrijfsprofiel
+
+Assetcare is een fundtech scale-up uit Amsterdam die in een paar jaar tijd is gegroeid van 4 naar 30 mensen — en klaarstaat om door te groeien naar 100+ in de komende 3 tot 5 jaar. Het team bouwt aan een modern platform voor fondsadministratie, investor reporting en compliance, waarmee institutionele beleggers zoals ASN Bank, Atradius en het Philips Pensioenfonds volledig digitaal kunnen werken.
+Wat Assetcare uniek maakt: alles wordt in-house ontwikkeld, zonder legacy of logge externe leveranciers. De technologie is modern, schaalbaar en volledig herleidbaar. Geen black box-software, maar open architectuur die wérkt.
+De cultuur? Inhoudelijk sterk, no-nonsense en mensgericht. Je werkt vanaf de 19e verdieping van de Mondriaantoren met uitzicht over de Amstel — samen met fund accountants, engineers en productcollega’s die bouwen aan echte oplossingen, niet alleen features.
+
+Functieomschrijving
+
+Als Fullstack Developer bij Assetcare werk je aan de kern van het platform: schaalbare backend-systemen, duidelijke interfaces en veilige koppelingen met banken en fondspartijen. Je bent betrokken bij het ontwerpen, bouwen en optimaliseren van systemen voor onder andere NAV-berekeningen, CDD, transactielogica en investor flows.
+Je werkt in een multidisciplinair team met veel ruimte voor technische inbreng.
+Voorbeelden van je werk:
+
+– Ontwikkelen van Python-backends met o.a. Django of FastAPI
+
+– Bouwen van API’s en integraties met externe databronnen
+
+– Meedenken over datastructuren, authenticatie en permission-layers
+
+– Frontend-ontwikkeling in Vue.js voor dashboards en gebruikersflows
+
+– Optimaliseren van bestaande modules voor schaalbaarheid en performance
+
+– Samenwerken met fund administrators om technische flows af te stemmen op financiële processen
+Security, testbaarheid en datakwaliteit staan hierbij centraal. Je hebt impact op het product en bent medeverantwoordelijk voor hoe het platform zich ontwikkelt.
+
+Ervaring en achtergrond
+
+Je bent een fullstack engineer met stevige backend-ervaring, die ook zijn weg weet in de frontend. Je denkt mee, bouwt zelfstandig en overziet het geheel.
+Must-haves:
+
+– 4+ jaar ervaring als software engineer
+
+– Sterke Python-kennis (FastAPI of Django)
+
+– Frontend-ervaring met Vue.js, React of vergelijkbaar
+
+– Ervaring met werken in een cloudomgeving (bij voorkeur Azure)
+
+– Begrip van API-design, testbaarheid en softwarearchitectuur
+
+– Nuchtere, pragmatische instelling met gevoel voor eigenaarschap
+Nice to haves:
+
+– Ervaring met Docker, CI/CD en Terraform
+
+– Affiniteit met finance of data-heavy omgevingen
+
+– Interesse in security, auditbaarheid en schaalbare architectuur
+Je hoeft niet alle hokjes aan te vinken, zolang je nieuwsgierig, leergierig en technisch scherp bent.
+
+Wat wij bieden
+Een aantrekkelijk basissalaris van tenminste € 5.500 per maand op basis van 40 uur (hoger salaris mogelijk afhankelijk van ervaring en profiel);
+Vakantietoeslag van 8% per jaar over het salaris;
+Deelname aan ons bonussysteem: maximale bonus van 2 maandsalarissen, waarvan 1 op basis van je eigen prestaties en 1 op basis van een omzetdoel op bedrijfsniveau;
+Mogelijkheid om je competenties en kennis verder te ontwikkelen met een trainingsbudget van € 2.000 per jaar;
+Betaalde lunch op kantoor;
+25 vakantiedagen op basis van een 40-urige werkweek;
+Pensioenregeling die voor tweederde voor rekening van werkgever is;
+Maximale reiskostenvergoeding op basis van tweede klas openbaar vervoer;
+Een unieke mogelijkheid om in het hart van de financiële sector te werken aan innovatieve producten;
+Een snelgroeiende organisatie waar je veel eigen verantwoordelijkheid krijgt en de ruimte om je ideeën te delen en uit te werken;
+Een open werkcultuur met een platte organisatiestructuur;
+Een jaarlijks bedrijfsuitje naar het buitenland.
+Solliciteren?
+
+Deze rol is alleen beschikbaar voor kandidaten die al in Nederland wonen. Visumsponsoring is niet mogelijk.
+Stuur je CV naar Desley Gontha via d.gontha@haystackpeople.nl of bel direct via +31 6 28965652. We vertellen je graag meer over het team, de werkwijze en de impact die je hier kunt maken.
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=112&ao=1110586&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_74dbdbc0&cb=1750149758871&jobListingId=1009776602620&cpc=F41FEAB56D215062&jrtk=5-yul1-0-1itugrvg2m90r800-0b439c6857d23765---6NYlbfkN0BO2noXIfST3-_-JoxQtt8U3JMypg5kFLixO-ytpxQ7SMQ0MlGSpC_6N2KgJV9IGa18wJtHoaX1K0vGOAwFqq_usKIcccwWqH7Mr9AjZ3yFjI4cxiWatYtv2xNweKAHZt2nxO-r2jrsVdH7EmzbZr-BPu3XmXxoCfGvyFWt3Mw8BomFAVNgXdMaWFfBW14W6Y_C7Wga18NPQUfFnjjMNh1HtnYW3bA8pGpiy0HfvoeqF0u8WnjVWG0LTjXEmTun6D4gEjqUUyjmIyj0j3VXvg3IkIXWNw93gWmD4tiBfmv_gnETH28N6c2A_9yttSugzAir2Oomn3HcJ25tlwPsqodkBHDGMLHAWq2X0XbOOZkrCaJButi0gWmPbluuEET8JrMapO6tHdFbe6kHAQ562NuVA4Xse7aN522fJAsBi4LmDwWo2wMASDiaMZokeYiYt-v6fvOPgY5d6HlhfvfSnoSWbAw2IfXRPtPLWfoSwkYX9V6TJ0JIsPXm9FK87p0B7J5tuDwqW0dW6wFkeVtq_gVb1NlNQii2hdEl1emwF9EBxdGVyzqoGtNNcHPxFIv76VgZK_CMb8rW_vRPfItpAPKLI9keI5BRfE7g2hFWMVQ_8vuIogeaGF_1Jrt1rGS10Lin4qU4YyGLWxNju2gBSdKd3odSRQ_W_isSP8wyfojUplKNMQMmQpOqpmVFN6XzVoLFi29fJjRCKQGLy4XA3h0-9H4wSSc5l3tTr5fstns2Tqt1WZ-hyQbif4LY8qkQWSpWevDbqLEJErQrtIZEklJJrnfFG_uZ0o9NUHxI5pO9OUPy6PsN26SJdfj2x1zbRcj9gfZTtQh48YrHAtMsCwus8d9UOKrzSrY%3D
+  score: 0
+----------------------------------------
+Job 20:
+  job-company: Yacht
+  job-title: Junior PLC Software Engineer bij Yunex Traffic
+  job-description: Bedrijfsomschrijving
+
+Yunex Traffic is een toonaangevende technologische onderneming met ruim 230 medewerkers in Nederland en wereldwijd zo’n 3000 collega’s. Wij zijn gespecialiseerd in het ontwikkelen, realiseren en onderhouden van IT-platformen, automatiseringsoplossingen en systemen voor de aansturing van infrastructurele objecten zoals tunnels, bruggen, sluizen en (water)wegen.
+
+
+
+Onze oplossingen dragen bij aan een veiligere, duurzamere en efficiëntere infrastructuur. Samen met opdrachtgevers zorgen wij voor succesvolle projecten door oog te hebben voor elkaars belangen en door innovatie centraal te stellen in alles wat we doen.
+
+Functieomschrijving
+
+Als Junior PLC Software Engineer bij Yunex Traffic werk je aan toonaangevende infrastructurele projecten zoals tunnels, bruggen en sluizen. Denk aan projecten zoals de Verkeerscentrale Amsterdam, de Stockholm Bypass of de renovatie van bruggen en sluizen in Noord-Brabant. Binnen multidisciplinaire projectteams ben jij medeverantwoordelijk voor de realisatie van complexe automatiseringsoplossingen in de mobiliteitssector.
+Je bent betrokken bij het volledige traject: van ontwerp tot implementatie bij de klant. Je werkt aan het ontwerpen, ontwikkelen en testen van PLC-, SCADA- en/of simulatiesoftware, en denkt mee over de bijbehorende hardwarecomponenten. Ook ondersteun je bij de inbedrijfstelling op locatie en bied je nazorg.
+Je rapporteert aan de Solutions Manager Engineering en werkt nauw samen met collega’s binnen het engineeringsteam.
+
+Functie-eisen
+
+
+Afgeronde hbo- of wo-opleiding in Elektrotechniek, Industriële Automatisering of een vergelijkbare richting;
+0 tot 2 jaar relevante werkervaring binnen technische automatisering;
+Ervaring met Siemens PLC’s (TIA Portal of Step7);
+Basiskennis van machineveiligheid; CMSE-certificaat of bereidheid dit te behalen;
+Affiniteit met hardware- en netwerkcomponenten zoals Windows Server of VMware;
+Bekendheid met bedienings- en besturingssystemen, veiligheids-PLC’s en netwerken is een pré;
+Beheersing van de Nederlandse en Engelse taal.
+
+
+
+Arbeidsvoorwaarden
+
+Primaire arbeidsvoorwaarden:
+
+
+
+Marktconform salaris afgestemd op jouw kennis en ervaring;
+
+
+
+13e maand (naar rato);
+
+
+
+8,33% vakantiegeld over 12 maandsalarissen.
+
+
+
+Secundaire arbeidsvoorwaarden:
+
+
+
+Pensioenregeling via Pensioen Plus;
+
+
+
+5% ploegentoeslag (indien van toepassing);
+
+
+
+€750 netto om je thuiswerkplek in te richten;
+
+
+
+25 vakantiedagen (o.b.v. fulltime dienstverband);
+
+
+
+Reiskostenvergoeding;
+
+
+
+Internet- en thuiswerkvergoeding;
+
+
+
+Verhuisvergoeding voor kandidaten van buiten Nederland.
+
+
+
+Dienstverband:
+
+Je wordt voor de duur van één jaar gedetacheerd via Yacht, met uitzicht op een vast dienstverband bij Yunex Traffic (onderdeel van Siemens).
+Contactgegevens
+
+Chi Kay Liang
+
+
+
+Telefoon: 06-16044843
+
+Email: chi.kay.liang@yacht.nl
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=110&ao=1110586&s=58&guid=000001977d0dfd4fb7524bea6d820598&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_2ec27ca1&cb=1750149758870&jobListingId=1009776675611&cpc=32EE424DE2B657EB&jrtk=5-yul1-0-1itugrvg2m90r800-be4f60937d352621---6NYlbfkN0BF6JzrkiMWFKgL0sh2r8oPxEcj7Kb6HaEAzPqIiqiJ--yo49DvurOlxlb9xwI2QMeZ7dTKJKdp7kaK5RStIu9Y0VBZ-kIdkdhW8ULAtvkTtdZF7APdAWnFVOi5N5g6RcP0Kj3aHRpl1XpsoQEhNUUfseEJhjrTNbISvHXMxpOSQ5nieAVRLNOKzCRu7nW2V-lSp3Sr1AtFfTaVXdjJXmY5ryNJCfKoGSKDHryUR8TimrT5Egu0CXptf5lU7ef1jx4LRp3hIdlZnpKGB__sRFchiZGZMNBb4akRNDNtcrVxjIN6-HvBVy-ix8AmaQYb--ZLMJXvqvl2-02GzvMgvk9J6YSCCpUlhMNAh-QNV_XUIIKIlNA5cr-0FY7s3WBiF85muSNY6Ouk6YJl-DeHNOdCgTY6ZCkOrhddElfdv1DBniRZ0p7CNe87PItsisdRJFJcUF9krCTAKl8Pt3Za4fGAwF8vpBkjLRxIGwab7VW1C8RQcpiRkfLsyptIyaQU6cFVv3HBW0yah35HccMncJHhWJ1NDUHSaNXzPCVWo2rcBdoCE3GJ8Szgiunx2Z4Yn1TSEITDSzrUtafvVa1Ah-6V50a2Slkh48_SCDc9KenoKp0M_zZyUIWzMtmwl02ourceDSPQlcwIyLWYDCg-2ByvSjvUTGfOIuCi3Lj-wkc9k-yTgSsNfGVOSm4pldJgXSSGifjx9n22-sZGjX3tH-nca2wl-v4luclBl9X3MqWgTEMNA4jDKmo1kBuzKllxXmst3DY70pzSlZDV5QqARbYc3BsfbIVG3mcFMn8QLf4Z2LWRxhOMfw6R
+  score: 0
 ----------------------------------------

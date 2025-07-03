@@ -1,0 +1,2245 @@
+Job 1:
+  job-company: AstraZeneca
+  job-title: Machine Learning/AI Operations Engineer - Evinova
+  job-description: Introduction to role:
+
+Are you ready to be part of the future of healthcare? Can you think big, be bold, and harness the power of digital and AI to tackle longstanding life sciences challenges? Then Evinova, a new healthtech business within the AstraZeneca Group, might be for you! Transform billions of patients’ lives through technology, data, and cutting-edge ways of working. You’re disruptive, decisive, and transformative—someone who’s excited to use technology to improve patients’ health. We’re building Evinova, a fully-owned subsidiary of AstraZeneca Group, to deliver market-leading digital health solutions that are science-based, evidence-led, and human experience-driven. Smart risks and quick decisions come together to accelerate innovation across the life sciences sector. Be part of a diverse team that pushes the boundaries of science by digitally empowering a deeper understanding of the patients we’re helping. Launch game-changing digital solutions that improve the patient experience and deliver better health outcomes. Together, we have the opportunity to combine deep scientific expertise with digital and artificial intelligence to serve the wider healthcare community and create new standards across the sector.
+Accountabilities:
+
+The Machine Learning and Artificial Intelligence Operations team (ML/AI Ops) is newly formed to spearhead the design, creation, and operational excellence of our entire ML/AI data and computational AWS ecosystem to catalyze and accelerate science-led innovations.
+This team is responsible for the design, implementation, deployment, health, and performance of all algorithms, models, ML/AI operations (MLOps, AIOps, and LLMOps), and Data Science Platform. We manage ML/AI and broader cloud resources, automating operations through infrastructure-as-code and CI/CD pipelines, ensuring best-in-class operations—striving to push beyond mere compliance with industry standards such as Good Clinical Practices (GCP) and Good Machine Learning Practice (GMLP).
+As a ML/AI Operations Engineer for clinical trial design, planning, and operational optimization on our team, you will lead the development and management of MLOps systems for our trial management and optimization SaaS product. You will collaborate closely with data scientists to transition projects from embryonic research into production-grade AI capabilities, utilizing advanced tools and frameworks to optimize model deployment, governance, and infrastructure performance. This position requires a deep understanding of cloud-native ML/AI Ops methodologies and technologies, AWS infrastructure, and the unique demands of regulated industries, making it a cornerstone of our success in delivering impactful solutions to the pharmaceutical industry.
+Role & Team Key Responsibilities:
+
+Operational Excellence
+Lead by example in creating high-performance, mission-focused and interdisciplinary teams/culture founded on trust, mutual respect, growth mindsets, and an obsession for building extraordinary products with extraordinary people.
+Drive the creation of proactive capability and process enhancements that ensures enduring value creation and analytic compounding interest.
+Design and implement resilient cloud ML/AI operational capabilities to maximize our system A-bilities (Learnability, Flexibility, Extendibility, Interoperability, Scalability).
+Drive precision and systemic cost efficiency, optimized system performance, and risk mitigation with a data-driven strategy, comprehensive analytics, and predictive capabilities at the tree-and-forest level of our ML/AI systems, workloads and processes.
+
+ML/AI Cloud Operations and Engineering
+Develop and manage MLOps/AIOps/LLMOps systems for clinical trial design, planning and operational optimization.
+Partner closely with data scientists to shepherd projects from embryonic research stages into production-grade ML/AI capabilities.
+Leverage and teach modern tools, libraries, frameworks and best practices to design, validate, deploy and monitor data pipelines and models in production (examples include, but are not limited to AWS Sagemaker, MLflow, CML, Airflow, DVC, Weights and Biases, FastAPI, Litserve, Deepchecks, Evidently, Fiddler, Manifold).
+Establish systems and protocols for entire model development lifecycle across a diverse set of algorithms, conventional statistical models, ML and AI/GenAI models to ensure best-in-class Machine Learning Practice (MLP).
+Enhance system scalability, reliability, and performance through effective infrastructure and process management.
+Ensure that any prediction we make is backed by deep exploratory data analysis and evidence, interpretable, explainable, safe, and actionable.
+Personal Attributes:
+Customer-obsessed and passionate about building products that solve real-world problems.
+Highly organized and detail-oriented, with the ability to manage multiple initiatives and deadlines.
+Collaborative and inclusive, fostering a positive team culture where creativity and innovation thrive.
+Essential Skills/Experience:
+
+Deep understanding of the Data Science Lifecycle (DSLC) and the ability to shepherd data science projects from inception to production within the platform architecture.Expert in MLflow, SageMaker, Kubeflow or Argo, DVC, Weights and Biases, and other relevant platforms.Strong software engineering abilities in Python/JavaScript/TypeScript.Expert in AWS services and containerization technologies like Docker and Kubernetes.Experience with LLMOps frameworks such as LlamaIndex and LangChain.Ability to collaborate effectively with engineering, design, product, and science teams.Strong written and verbal communication skills for reporting and documentation.Minimum of 4 years in ML/AI operations engineering roles.Proven track record of deploying algorithms and machine learning models into production environments.Demonstrated ability to work closely with cross-functional teams, particularly data scientists.
+When we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That's why we work, on average, a minimum of three days per week from the office. But that doesn't mean we're not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.
+AstraZeneca is where creativity meets critical thinking! We embrace technology to reimagine healthcare's future by predicting, preventing, and treating conditions more effectively. Our inclusive approach fosters collaboration internally and externally to share diverse perspectives. We empower our teams with trust and space to explore innovative solutions that redefine patient experiences across their journey. Join us as we drive change that benefits both business and patients.
+Ready to make an impact? Apply now to join our journey towards transforming healthcare!Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=130&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_70d14732&cb=1751525842156&jobListingId=1009795683385&jrtk=5-yul1-0-1iv7h6mvk2gdn000-640f4f7f0b78e8ab
+----------------------------------------
+Job 2:
+  job-company: G2i Inc.
+  job-title: AI Software Engineer, Python
+  job-description: Software Engineer, AI — Code Evaluation & Training (Remote)
+List of accepted countries and locations
+Help train large-language models (LLMs) to write production-grade code across a wide range of programming languages:
+Compare & rank multiple code snippets, explaining which is best and why.
+Repair & refactor AI-generated code for correctness, efficiency, and style.
+Inject feedback (ratings, edits, test results) into the RLHF pipeline and keep it running smoothly.
+
+End result: the model learns to propose, critique, and improve code the way you do.
+RLHF in one line
+
+Generate code ➜ expert engineers rank, edit, and justify ➜ convert that feedback into reward signals ➜ reinforcement learning tunes the model toward code you’d actually ship.
+What You’ll Need
+4+ years of professional software engineering experience in Python
+
+(Constraint programming experience is a bonus, but not required)
+Strong code-review instincts—you can spot logic errors, performance traps, and security issues quickly.
+Extreme attention to detail and excellent written communication skills.
+
+Much of this role involves explaining why one approach is better than another. This cannot be overstated.
+You enjoy reading documentation and language specs and thrive in an asynchronous, low-oversight environment.
+What You Don’t Need
+No prior RLHF (Reinforcement Learning with Human Feedback) or AI training experience.
+No deep machine learning knowledge. If you can review and critique code clearly, we’ll teach you the rest.
+Tech Stack
+We are looking for engineers with a strong command of Python.
+Logistics
+Location: Fully remote — work from anywhere
+Compensation: From $30/hr to $70/hr, depending on location and seniority
+Hours: Minimum 15 hrs/week, up to 40 hrs/week available
+Engagement: 1099 contract
+Straightforward impact, zero fluff. If this sounds like a fit, apply here!Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=129&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_1895f9f3&cb=1751525842156&jobListingId=1009795003655&jrtk=5-yul1-0-1iv7h6mvk2gdn000-7caecb9ce76d47ac
+----------------------------------------
+Job 3:
+  job-company: ADP
+  job-title: Data Science Manager
+  job-description: ADP is hiring a Data Science Manager - Barcelona (Hybrid)
+Does the thought of working with one of the most comprehensive employment data sets excite you?
+Are you empathetic to client needs and inspired by transformation and impacting the lives of millions of people every day?Are you looking to join a dynamic, inclusive team environment with a culture of collaboration and belonging?
+Well, this may be the role for you. Ready to design what's next?
+In this role, you will lead and mentor a team of data scientists who develop and apply machine learning to digitally transform our business processes and the client experience of ADP's products and solutions. You will partner with machine learning engineers, software engineers and product stakeholders in solving real-world business challenges using advanced machine learning techniques. You'll be accountable for something significant: products that impact people's lives.
+
+
+
+No two days are the same. Everyday projects range from research & development to algorithm development, natural language processing to deployment of ML models to productions.
+
+
+
+To thrive in this career as a Data Science Manager for the OneAI team, you bring strong technical expertise and leadership skills. You will lead the development and guide the team members to design and implement Machine Learning systems using languages, frameworks, and tooling such as Python, AWS and Databricks. You have experience building models in the areas such as natural language processing, deep learning, classification algorithms or recommender systems. Also, you have people manager experience leading a team of Data Scientists building AI/ML features and releasing these in production environments.
+You'll need to have some formal education in Computer Science or a related quantitative field and know design patterns and data structures. You have the skills to leverage existing models or create new models using the technologies above. But given the scale of our data sets and the complex problems we give you to solve, you will stay challenged and engaged with years of exciting projects ahead—all while growing your skills and progressing in a rewarding career.
+
+
+
+Like what you see? Apply now!
+
+
+
+TO SUCCEED IN THIS ROLE:
+
+Education. You have a bachelor’s degree (OR equivalent) in Computer Science, Engineering, Math, or a related field.
+Experience. You have 6-8 years of experience in data science roles, including 2-3 years in people leadership role.
+Communication. You are an advanced English language speaker.
+Technical skills. You have fluency in Python—including popular data science packages (pandas, sklearn, etc.), a strong knowledge of data structures, algorithms, and methods used for data science and machine learning, and familiarity with natural language processing.
+NICE TO HAVE (OPTIONAL):
+
+Master’s degree in computer science, engineering, math, or a related fieldKnowledge of generative and embedding models as well as deep learning frameworks such as PytorchExperience with non-relational databases such as NoSQL and Vector databasesExposure to Databricks platform, MLflow, and/or Jupyter notebooksUnderstanding of data products (recommender systems, classifiers, chatbots, etc.)Experience with AWS cloud solutions (S3, Glue, Lambda, Step, SageMaker) and CI/CD tools such as Jenkins.
+YOU'LL LOVE WORKING HERE BECAUSE YOU CAN:
+Team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to net out the best solution.Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with a focus on client happiness and productivity.Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.Act like an owner & doer. Mission-driven and committed to navigating change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.Join a company committed to equality and equity. Our goal is to impact lasting change through our actions.
+What are you waiting for? Apply today!
+
+
+
+Find out why people come to ADP and why they stay: https://youtu.be/ODb8lxBrxrY (ADA version: https://youtu.be/IQjUCA8SOoA )
+A little about ADP: We are a comprehensive global provider of cloud-based human capital management (HCM) solutions that unite HR, payroll, talent, time, tax and benefits administration and a leader in business outsourcing services, analytics, and compliance expertise. We believe our people make all the difference in cultivating a down-to-earth culture that embraces our core values, welcomes ideas, encourages innovation, and values belonging. We've received recognition for our work by many esteemed organizations, learn more at ADP Awards and Recognition.
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=128&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_cc119a32&cb=1751525842155&jobListingId=1009796580485&jrtk=5-yul1-0-1iv7h6mvk2gdn000-5692a69cc08d9b42
+----------------------------------------
+Job 4:
+  job-company: Criteo
+  job-title: Senior Software Engineer
+  job-description: What You'll Do:
+The Global Automation team develops and runs a wide range of first-class solutions that empower Criteo’s commercial and operations teams to maximize their business impact.
+We build scalable, reliable, and interoperable systems, that constantly need to adapt to business priorities and evolutions. And we build the applications, APIs and UIs to supply first-class service to our users.
+As a Senior Software Engineer, you will be a key contributor in crafting high-impact solutions, working within a cross-functional team of skilled engineers. Your work will involve designing and developing APIs, ETL pipelines, and frameworks that give commercial stakeholders secure, reliable, and performant access to data and insights.
+You will own the development of frontend features while contributing to backend functionality when needed. You’ll collaborate closely with Product Managers, UX Designers, and fellow engineers to build end-to-end solutions with a clear focus on usability, performance, and maintainability.
+Key responsibilities
+Own frontend development tasks from concept through delivery, using modern frameworks (Angular preferred).
+Contribute to backend development by building or integrating APIs, data flows, and server-side logic.
+Participate in architecture discussions and contribute to the technical roadmap.
+Ensure code quality and reliability through comprehensive testing, code reviews, and best practices.
+Collaborate with Product Managers, UX Designers, and internal stakeholders to deliver user-centric, high-value features.
+Mentor junior developers and share knowledge to uplift team capabilities.
+Who You Are:
+BS in Software Engineering or related field, with 5+ years of professional experience in software development, with a strong focus on frontend technologies.
+Thrive in a collaborative team environment, and actively mentor and support your peers, sharing knowledge and helping others overcome technical challenges.
+Bring a collaborative mindset, communicating effectively with both technical and non-technical stakeholders.
+Have a strong grasp of software engineering principles, system design, and algorithms, and you write clean, maintainable, and well-tested code.
+Have a solid grasp of backend concepts and are comfortable working with APIs, databases, and server-side development, preferably in Python.
+Have expertise in modern frontend frameworks such as Angular (preferred), React, or Vue.js and solid understanding of core web technologies, including HTML, CSS, and JavaScript.
+We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!
+We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!
+Who We Are:
+Criteo is the global commerce media company that enables marketers and media owners to deliver richer consumer experiences and drive better commerce outcomes through its industry leading Commerce Media Platform.
+At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 3,600 Criteos collaborates to develop an open and inclusive environment. We seek to ensure that all of our workers are treated equally, and we do not tolerate discrimination based on race, gender identity, gender, sexual orientation, color, national origin, religion, age, disability, political opinion, pregnancy, migrant status, ethnicity, marital or family status, or other protected characteristics at all stages of the employment lifecycle including how we attract and recruit, through promotions, pay decisions, benefits, career progression and development. We aim to ensure employment decisions and actions are based solely on business-related considerations and not on protected characteristics. As outlined in our Code of Business Conduct and Ethics, we strictly forbid any kind of discrimination, harassment, mistreatment or bullying towards colleagues, clients, suppliers, stakeholders, shareholders, or any visitors of Criteo. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising encouraging discovery, innovation and choice in an open internet.
+Why Join Us:
+At Criteo, we take pride in being a caring culture and are committed to providing our employees with valuable benefits that support their physical, emotional and financial wellbeing, their interests and the important life events. We aim to create a place where people can grow and learn from each other while having a meaningful impact. We want to set you up for success in your job, and an important part of that includes comprehensive perks & benefits. Benefits may vary depending on the country where you work and the nature of your employment with Criteo. When determining compensation, we carefully consider a wide range of job-related factors, including experience, knowledge, skills, education, and location. These factors can cause your compensation to vary.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=127&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_020d15e2&cb=1751525842155&jobListingId=1009795582166&jrtk=5-yul1-0-1iv7h6mvk2gdn000-d8b690d4999574f5
+----------------------------------------
+Job 5:
+  job-company: Hewlett Packard
+  job-title: Graduate AI Engineer
+  job-description: At HP Industrial Print, we are building a unified and intelligent conversational insights platform powered by agentic AI workflows. This platform, developed on our PrintOS software ecosystem, will empower customers to interact naturally with end-to-end print workflow and device data.
+This strategic initiative, led by the AI Center of Excellence, involves cross-functional collaboration across multiple business units. As part of this effort, we are partnering with the Graphics Experience Center (GEC) in Sant Cugat to showcase early prototypes in a dedicated AI innovation showroom.
+We are looking for a Graduate-level AI Engineer who is passionate about applied machine learning and eager to contribute to the development of cutting-edge AI solutions. This role offers the opportunity to work on real-world challenges, influence product direction, and grow into a key contributor within our AI team.
+Responsibilities:
+Design, develop, and deploy AI-driven features for the conversational insights platform.
+Collaborate with cross-functional teams to integrate AI models into production workflows.
+Analyze print workflow and device data to extract actionable insights.
+Contribute to the evolution of our AI showroom at the GEC, including live demos and customer-facing prototypes.
+Engage with stakeholders to understand business needs and translate them into technical solutions.
+Required Qualifications:
+Recent graduate (or final-year student) in Data Science, Computer Science, AI, or a related field.
+Strong programming skills in Python and SQL.
+Solid understanding of machine learning and AI concepts.
+Excellent communication skills in English and Spanish.
+Proactive, self-driven, and eager to learn in a fast-paced environment.
+Experience our benefits:
+Being part of HP means access to an international community with lots of growth opportunities within the company, professional development resources, networking opportunities, while enjoying in a great atmosphere making an impact.
+You will be able to choose to either work office-based or hybrid work style.
+Flexibility to keep a good work life balance.
+Health & Life insurance.
+Meal Subside.
+HP product discounts.
+Flex optimization program: Kindergarten tickets, public transportation tickets.
+Diverse, continued internal growth and career opportunities. Including HP’s own learning platform and LinkedIn Learning.
+Women, Pride, Young employees, Multicultural, Sustainability and Disability! Just a few of our fantastic global business networks you can get involved with locally.
+We also dedicate time and resources to contribute with our community through Corporate Volunteering activities, including our onsite HP Charity day
+Our HP Barcelona campus’ in Sant Cugat del Vallès is an inspiring diverse and inclusive venue to meet, engage and co-create with your colleagues from all over the world: flexible work, collaborative spaces, sports and leisure areas (gym, tennis court, ping-pong, soccer field or a basketball court).
+Legal entity: Sales & ServicesMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=126&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_105ca567&cb=1751525842155&jobListingId=1009795470187&jrtk=5-yul1-0-1iv7h6mvk2gdn000-48c4ded048a37086
+----------------------------------------
+Job 6:
+  job-company: AstraZeneca
+  job-title: Technical Test Lead
+  job-description: Are you a technically skilled test automation expert ready to lead quality initiatives at the cutting edge of healthcare technology? Can you combine deep technical expertise with strategic leadership to ensure our platform delivers exceptional experiences for patients and healthcare providers? Then Evinova, a health tech business within the AstraZeneca Group, is looking for you!
+At Evinova Platform, we're building the foundation for digital health solutions that are science-based, evidence-led, and human experience-driven. Our platform team delivers the core capabilities, APIs, and infrastructure that power patient-facing clinical trial applications used worldwide. We need a hands-on Technical Test Lead who can drive quality through automation while leading our testing strategy.
+The Platform Engineering organization consists of several self-organized cross-functional teams delivering innovative digital infrastructure and services. Working with agile methodology, we release new software components quarterly through our program increments, ensuring continuous improvement of our platform capabilities.
+We are proud to have one of the best software development teams you can find, with deep technical and business skills. This is a place where you can grow your technical leadership while delivering software with purpose - improving clinical trials and ultimately patient outcomes.
+About the role
+We are seeking an experienced and technically proficient Test Lead to spearhead the testing efforts for the Evinova Platform team. The ideal candidate will combine hands-on technical expertise with leadership skills, driving both test automation excellence and overall quality strategy for our platform components, APIs, and services that power patient-facing clinical trial solutions.
+Key Responsibilities
+Lead the overall testing efforts for the Evinova Platform delivery, working closely with cross-functional teams while maintaining hands-on involvement in technical implementation
+Develop and maintain robust automated test frameworks using e.g., Playwright for frontend testing and SuperTest or similar tools for backend/API validation
+Design and execute end-to-end automated tests across web applications and services, covering both UI and API layers
+Ensure all test activities follow GxP standards, emphasizing traceability, reproducibility, and proper documentation
+Integrate automated tests into CI/CD pipelines (e.g., GitHub Actions, GitLab CI, Jenkins)
+Collaborate with developers, DevOps, and product teams to define test strategies and embed quality across the SDLC
+Provide technical mentorship to test engineers, fostering a culture of automation and continuous improvement
+Support validation testing, exploratory testing, and release readiness efforts
+Maintain comprehensive test documentation and contribute to audit readiness
+
+Required Skills and Experience
+Bachelor of Science or Master of Science degree in Computer Science / Information Technology, or related field
+5+ years of experience in software testing or quality engineering, with a strong focus on both frontend and backend test automation
+Advanced proficiency in JavaScript/TypeScript and experience with:
+Playwright for end-to-end UI automation
+SuperTest, Postman, or equivalent tools for API testing
+Deep understanding of HTTP protocols, RESTful APIs, OAuth2, JWT, and JSON
+Strong experience with Git, CI/CD pipelines, and Agile/Scrum practices
+Excellent analytical, debugging, and communication skills
+Proven leadership experience in testing efforts for complex technical projects
+
+Preferred Qualifications
+Healthcare industry experience and regulatory knowledge (i.e. GxP/SaMD validation)
+Knowledge of performance/load testing tools (e.g., k6, Artillery, Locust)
+Familiarity with contract testing (e.g., Pact) and mocking strategies
+Experience with cloud platforms (AWS, Azure, GCP) and container technologies (Docker, Kubernetes)
+Experience with test reporting and quality dashboards
+
+Join us in transforming billions of patients' lives through technology, data, and cutting-edge ways of working. Together, we have the opportunity to combine deep scientific expertise with digital and artificial intelligence to serve the wider healthcare community and create new standards across the sector.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=125&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_2120cac8&cb=1751525842155&jobListingId=1009798221094&jrtk=5-yul1-0-1iv7h6mvk2gdn000-cbb24ae454a6f9fa
+----------------------------------------
+Job 7:
+  job-company: Aizon
+  job-title: Customer Support Tier 1 - NAM (3 pm - 12 am)
+  job-description: Who we are
+
+Aizon is a software-as-a-service provider that transforms manufacturing operations in life science industries using advanced analytics and artificial intelligence.
+
+Following our recent Series C round of growth funding, we are looking for ambitious new team members motivated to directly impact our future growth and success as we launch what we consider “Aizon 3.0”. Aizon is helping pharma manufacturers and CDMOs make better decisions in GMP operations.
+
+What makes us different from other manufacturing platforms? We help operations leaders and engineers avoid endless cycles of chasing data in disparate and heavy-handed systems and rapidly understand how to run their manufacturing processes better.
+
+We’re solving multiple problems in GMP operations that cost manufacturers millions yearly while accelerating their digital maturity journey. One of our unique capabilities is the ability to operationalize the use of predictive AI models in real-time without a big data science staff.
+
+We’re backed by both industry and software investor firms like NewVale Capital, Atlantic Bridge, Danaher, Honeywell, CrossLink, and UnCork, with solid industry and technology expertise.
+
+Our mission is to improve global health by optimizing how medicines are manufactured so that pharma and biotech companies can provide patients worldwide with the right medicine at the right time and price.
+
+Join us if you are motivated to directly impact our company's success and growth path forward and, more importantly, by positively contributing to the life science industry and deserving patients worldwide.
+
+The position
+
+The Tier 1 Support Agent at Aizonat Aizon is the first point of contact for customers, providing high-quality, white-glove support to ensure the best possible customer experience.
+
+The team operates 24x7 including Public Holidays. This role involves responding to inquiries and troubleshooting technical issues, all while maintaining a focus on achieving top-tier customer satisfaction. The agent will also document interactions, contribute to our user manual and internal documentation, and escalate more complex issues as needed. The ideal candidate has a strong customer service background, technical aptitude, and a dedication to continuous learning. This position may require participation in an on-call rotation to cover night shifts as needed.
+
+Rotation Shift
+
+The shift runs from 3:00 PM to 12:00 AM and follows a rotating schedule:Week 1: Tuesday, Wednesday, Thursday, and Friday (4 days)Week 2: Monday, Wednesday, Thursday, Friday, Saturday, and Sunday (6 days)
+
+
+
+Responsibilities
+Respond to customer inquiries via email in a timely and professional manner.
+Provide troubleshooting and technical assistance to resolve common issues related to our software.
+Ensure that all customer interactions and ticket resolutions meet Aizon’s Service Level Agreements (SLAs).
+Go above and beyond in assisting customers, ensuring that their issues are resolved thoroughly and that they feel valued and supported.
+Strive to obtain the best possible customer satisfaction scores by focusing on delivering a white glove support experience.
+Escalate complex issues to Tier 2 or specialized teams when necessary.
+Log and document customer interactions and issues in our ticketing system.
+Ensure accurate categorization and prioritization of support tickets.
+Identify common customer issues and contribute to the development and updating of our user manual and suggest improvements to internal documentation based on customer feedback.
+Gather and document customer feedback regarding the software’s performance, features, and user experience, sharing the feedback with our product and development teams to help drive improvements.
+Monitor system alerts and proactively reach out to customers who might be affected by known issues or outages.
+Support quality control efforts by contributing to regression and exploratory testing to help identify issues before releases.
+Collaborate with customers to create and refine recipes that align with their specific use cases and production needs.
+Ensure customers are informed about maintenance schedules and software updates.
+Knowledge and experience
+3+ years of experience in a technical support environment.
+Experience working with ticketing systems and managing workflows to meet critical SLAs.
+Experience working in a team-oriented environment, with the ability to escalate and collaborate with higher-tier support teams.
+Basic understanding of software applications, cloud technologies, and SaaS platforms.
+Familiarity with common operating systems (Windows, macOS, Linux) and web browsers.
+Ability to troubleshoot common connectivity, performance, and configuration issues.
+Experience supporting technical users or enterprise customers, ideally in regulated environments (e.g., pharma, manufacturing).
+Familiarity with ITIL processes or structured support methodologies.
+Previous experience with tools such as Jira Service Management, Zendesk, or ServiceNow.
+Experience reading and interpreting technical documentation, logs, or simple API responses (e.g., JSON).
+Contributions to knowledge bases or internal documentation are a plus.
+Skills
+Proficient in English (C-level), both written and verbal.
+Strong communication skills, with the ability to explain technical concepts to non-technical users.
+Skilled at diagnosing and troubleshooting basic technical issues, with a clear understanding of common customer-facing software problems and how to resolve them.
+Capable of managing multiple customer requests simultaneously while prioritizing tasks effectively.
+Quick to learn and adapt to new software tools and internal systems.
+Active contributor in team discussions and collaborative problem-solving.
+Motivated to stay informed on product updates, new features, and relevant industry trends.
+Receptive to continuous training and professional development.
+
+What We Offer
+
+\uD83D\uDCBC Unique opportunity to join our company as it scales with great market traction and huge potential to continue growing
+\uD83D\uDCB0 Competitive salary in the sector and scheduled performance/salary reviews
+\uD83D\uDCC8 Stock Options
+\uD83C\uDFE5 Private Medical & Dental Insurance
+\uD83C\uDF93 Internal Training & Certifications
+\uD83D\uDE80 Professional development and collaborative environmentFlexible schedule & Intensive Fridays
+\uD83D\uDE97 Flexible Remuneration Options
+\uD83D\uDDE3️ Language Training Courses
+\uD83D\uDCBB Top-notch "tech pack" – We are Mac lovers!
+\uD83C\uDF89 Monthly Team Building Activities
+
+We are committed to providing an inclusive environment where all employees feel mutual respect and are contributing to the good of society. We are a group of creators with diverse backgrounds (over 27 different citizenships in our company) and are proud to be an equal opportunity workplace. All employment is decided based on qualifications, merit, and business needs. If you need assistance or accommodation due to a disability, you may contact us at jobs@aizon.aiMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=124&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_46a7789d&cb=1751525842156&jobListingId=1009798223399&jrtk=5-yul1-0-1iv7h6mvk2gdn000-eb20c03931891419
+----------------------------------------
+Job 8:
+  job-company: Johnson Controls
+  job-title: Design Engineer II - Manufacturing
+  job-description: Design Engineer II - Manufacturing
+At Hitachi, we are dedicated to enhancing well-being through innovative cooling and heating technologies. With over 90 years of expertise in HVAC, we offer reliable, high-quality solutions that improve air quality and ensure energy efficiency.
+Since the creation of the Johnson Controls - Hitachi joint venture in 2015, we have delivered much more than just products. We have stayed true to our vision of combining tradition and innovation to enhance the essence of life through air.
+Our commitment, "air is Life", reflects our dedication to transforming lives with our reliable Cooling and Heating solutions that create perfect indoor environments, ensuring clean and healthy air enhancing comfort and well-being globally.
+What You Will Do
+As a Design Engineer at JCI, you will play a pivotal role in New Product Developments, collaborating within the Design team to manage and meet the design requirements for innovative products. You will engage with internal teams and coordinate with overseas engineering teams when necessary. Your responsibilities will include preparing comprehensive development design briefs, proactively identifying potential risks and impacts, and crafting effective design solutions that align with our product goals.
+Location: Vacarisses Plant, Barcelona
+How You Will Do It
+Lead design engineering initiatives for new product developments, ensuring alignment with project goals and timelines.
+Conduct thorough analyses and propose innovative design solutions that enhance product functionality and manufacturability.
+Define and manage schedules, action plans, and project documentation to align with development requirements.
+Act as the primary contact for cross-departmental communications, addressing improvement suggestions and requirements from other teams.
+Support the quality assurance of newly created materials, including 3D and 2D drawings, BOM information, and operational documentation.
+Participate actively in the sourcing and evaluation of new components, assessing potential suppliers and alternative part solutions for application in design.
+Work closely with manufacturing teams to ensure designs are optimized for production processes, enhancing manufacturability and reducing costs.
+Implement Design for Manufacturing (DfM) principles to streamline production and improve product assembly efficiency.
+Conduct regular reviews and updates to design specifications to reflect manufacturing capabilities and compliance with industry standards.
+Facilitate collaboration between design engineers and production staff to troubleshoot and resolve any fabrication issues that arise during manufacturing.
+What We Are Looking For
+Bachelor's degree in Mechanical or Industrial Engineering.
+Minimum 3 years of experience in a similar role, preferably within a manufacturing environment.
+Proficient in CAD software, MATLAB will be a plus.
+Exceptional creativity and problem-solving skills, with a drive for innovation.
+Excellent time management and organizational skills to manage multiple projects effectively.
+Keen attention to detail and a commitment to quality.
+Strong verbal communication skills
+Knowledge of SAP is highly desirable.
+What we offer
+Johnson Control offers an interesting compensation package according to your qualification and experience. In addition to our salary policy, job stability, training, the possibility of professional development, and an excellent work environment, are part of our employee benefits package.
+Working with us you will be part of a global company that welcomes diversity, rewards work well done and inspires people to achieve their best. In an environment that is constantly evolving, we will put the pillars so that you can develop a professional path that is as unique as you. As a member of our team, you will have the opportunity to make a difference. The world is waiting for you, and so are we.
+Who we are
+At Johnson Controls, we transform the environments where people live, work, learn and play. From optimizing building performance to improving safety and enhancing comfort, we drive the outcomes that matter most. Dedicated to protecting the environment, we deliver our promise in industries such as healthcare, education, data centers, and manufacturing. With a global team of 105,000 experts in more than 150 countries and over 130 years of innovation, we are the power behind our customers’ mission.
+Johnson Controls HITACHI, a company committed to equality and conciliation, guarantees equal opportunities to all candidates in the recruitment and selection process of this offer, without distinction of race, color, religion, sex, national origin, age, sexual orientation, gender identity or any other characteristic protected by law.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=123&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_8f3790b2&cb=1751525842154&jobListingId=1009797271664&jrtk=5-yul1-0-1iv7h6mvk2gdn000-14c30816467fa2e8
+----------------------------------------
+Job 9:
+  job-company: DerbySoft
+  job-title: System Engineer
+  job-description: What is DerbySoft?
+
+ F
+ ounded in 2002, DerbySoft is a technology company whose mission is to make the travel business easier through industry leading technology that empowers travel industry services. The company supports technology for Connectivity Services at the CRS and PMS levels, Marketing Services which uses machine learning and rich data to drive high-performing marketing campaigns and a Content platform that collects, manages and distributes quality hotel content. DerbySoft’s technology empowers the travel industry around the globe. Headquartered in Dallas, Texas, USA and with offices in Barcelona, Tokyo and Shanghai, DerbySoft serves partners in 197 countries around the world.
+
+ 
+
+What will you do?
+
+ Support the efficient, innovative, sustainable and cost-effective IT infrastructure functions and services. In addition to Linux servers/network, this also includes database support, cloud infrastructure and hosted systems support and maintenance,
+ including limited laptop/helpdesk support in the local Barcelona office.
+ The role ensures the IT Infrastructure functions and services are resilient, secure, well-designed, and accessible, and are adaptable to support DerbySoft’s business changing needs. A client-focused service excellence culture is essential to ensure business requirements are delivered to high standards, agreed costs and on time.
+
+ 
+
+What do we need?
+
+
+ Responsible for Linux platform related services such as operation and maintenance.
+
+
+
+ Deploy the production runtime environment.
+
+
+
+ Responsible for analysis and eradication of system and database failures and application and network errors.
+
+
+
+ Cooperate with software developers and business to solve problems during product launch, testing and operation lifecycles.
+
+
+
+ Proactively participates in discussions and provides suggestions to optimize application performance and data backups.
+
+
+
+ Conduct test and optimization of Linux systems, application services and database management.
+
+
+
+ Cooperate with department managers to define and improve technical standards and working processes.
+
+
+
+ Completes tasks assigned by the department manager in a timely manner.
+
+
+
+ Troubleshoot simple hardware (laptops), software, or network issues.
+
+ 
+
+What do you have to bring to the table?
+
+
+ Bachelor’s degree or above in network engineering or computer related area.
+
+
+
+ At least 5 years working experience.
+
+
+
+ E
+
+ xcellent command of English.
+
+
+
+ Good presentation and communication skills, have the ability of independent thinking and solving technical problems, and have a good team cooperation consciousness.
+
+
+
+ Proficient in the Linux application maintenance, performance optimization, failure diagnosis, and configuration and maintenance for common applications.
+
+
+
+ Familiar with network principles, configuration and usage of various types of network servers under a Linux environment.
+
+
+
+ Skilled in using one of the scripting languages of Linux Shell/Perl/python/PHP.
+
+
+
+ Familiar with load balancing, double machine hot spare, automatic management and deployment.
+
+
+
+ Familiar with operational work of Cloud computing platform based on Amazon AWS/Ali cloud.
+
+
+
+ Familiar with Amazon AWS services, such as AWS Config, CloudWatch, CloudTrail, GuardDuty, EKS.
+
+
+
+ Familiar with Infrastructure as code software tools, such as Terraform or AWS CloudFormation.
+
+
+
+ Familiar with MySQL database maintenance and performance optimization solution, load balancing and hot spare solution.
+
+
+
+ Familiar with WIN OS installations on Laptops with basic setup and configuration.
+
+
+
+ Familiar with performance optimization and failure localization of any major big data component:
+
+ Hadoop/Hbase/Hive/Kafka/Elasticsearch/Zookeeper/Spark.
+
+
+
+ Excellent written and verbal English skills required.
+
+
+
+ Proven ability to interface with a diverse group of people within a global setting.
+
+
+ Able to work periodically outside of normal business hours as business needs dictate.
+
+
+ AWS Certifications such as Solutions Architect or SysOps Administrator are preferred.
+
+ 
+
+Why work with Derbysoft?
+
+ We offer competitive salary based on experience, annual bonuses and referral bonuses
+
+
+
+ Peer recognition programs
+
+
+
+ Health benefits
+
+
+
+ Free coffee! (To recharge your batteries)
+
+
+
+ Pension plan
+
+
+
+ Transport and restaurant tickets
+
+
+
+ Working from home
+
+
+
+ Casual work environment where teamwork is key
+
+
+
+ Nice and comfy office at the city center (Diagonal)!
+
+
+
+ Work with passionate experts who will share their knowledge and help you develop and grow!
+
+ 
+
+
+
+Please send CV’s in ENGLISH!
+
+ Please Note:
+
+ *No agency or contractor resumes accepted
+
+ *No Visa Sponsorships for this position
+
+ *No relocation assistanceMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=122&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_645c0e1d&cb=1751525842154&jobListingId=1009798311889&jrtk=5-yul1-0-1iv7h6mvk2gdn000-d60cf2537306b62c
+----------------------------------------
+Job 10:
+  job-company: DerbySoft
+  job-title: QA Engineer
+  job-description: What is DerbySoft?
+
+ 
+
+Founded in 2002, DerbySoft is a technology company whose mission is to make the travel business easier
+ through industry leading technology that empowers travel industry services. The company supports
+ technology for Connectivity Services at the CRS and PMS levels, Marketing Services which uses machine
+ learning and rich data to drive high-performing marketing campaigns and a Content platform that collects,
+ manages and distributes quality hotel content. DerbySoft’s technology empowers the travel industry around
+ the globe. Headquartered in Dallas, Texas, USA and with offices in Barcelona, Tokyo and Shanghai, DerbySoft serves partners in 197 countries around the world.
+
+ 
+
+DerbySoft
+ has this opportunity and more with our online travel and hospitality industry software that we support around the world! This position is in a new team that will deliver cutting-edge Java solutions and will be responsible for the technical components for development, optimization, and user testing for our connectivity platform.
+
+ 
+
+What will you do?
+
+ 
+
+DerbySoft is looking for a passionate QA Engineer eager to jump into a fast-paced R&D team and tackle compelling projects. We are a highly technical organization focused on software development, creativity, and on building meaningful features/functionality. This position is in a team that delivers cutting-edge Java solutions and is responsible for expanding the product’s features and functionality. The focus of this role includes maintaining the test repositories, mentoring other team members, managing the team workflow, and maintaining sprint metrics.
+
+
+
+
+ Prepare test plans and design test cases
+
+
+
+ Set up the whole test environment independently, including new added components
+
+
+
+ Use database and write SQL statements for add, delete, query and update statements
+
+
+
+ Execute other types of tests (security, performance, interface, etc.)
+
+
+
+ Assign testing tasks and guide T1-2 to complete testing work
+
+ 
+
+What do we need?
+
+
+
+
+ B.S. in Computer Science or related discipline, or commensurate industry experience.
+
+
+
+ QA certifications from ASQ or ISTQB a plus
+
+
+
+ Minimum 5 years of experience in software QA with a strong understanding and demonstrated use of best QA practices and methodologies
+
+
+
+ Ability to fully understand requirements and give feedback from a QA perspective. Can design test cases for multi-system interactions. Can review use cases and give suggestions for improvement.
+
+
+
+ Be able to analyze the main system problems and their root causes based on test results and help the development team to improve.
+
+
+
+ Be able to design performance test plans, complete performance tests and collect basic performance test metrics based on test requirements. Be able to analyze basic performance test metrics and complete performance test reports.
+
+
+
+ Ability to complete automation script development according to testing requirements to ensure effective improvement of test execution efficiency and save human capital.
+
+ 
+
+What do you have to bring to the table?
+
+
+
+
+ Excellent verbal and written English required
+
+
+
+ Have a full understanding of the product or project system which you are responsible for Familiar with basic computer theory knowledge.
+
+
+
+ Master software testing theory and methods and be able to apply them to the work
+
+
+
+ Master REST protocol and mocking tools & techniques.
+
+
+
+ Master Linux operating system and related operations
+
+
+
+ Master the use of test management tools
+
+
+
+ Master three or more test case design methods
+
+
+
+ Familiar with at least one common automated testing framework, such as robotframwork or in-house developed framework, etc.
+
+
+
+ Familiar with common performance testing tools, such as JMeter, Tsung, LoadRunner, etc.
+
+
+
+ Execute performance tests according to test requirements and complete test reports
+
+
+
+ Master at least one security testing tool, and can execute according to security test cases
+
+ 
+
+Why work with Derbysoft?
+
+ 
+
+We offer competitive salary based on experience, annual bonuses and referral bonuses
+
+
+
+ Peer recognition programs
+
+
+
+ Health benefits
+
+
+
+ Pension plan
+
+
+
+ Transport and restaurant tickets
+
+
+
+ Free coffee! (To recharge your batteries)
+
+
+
+ Working from home
+
+
+
+ Casual work environment where teamwork is key
+
+
+
+ Nice and comfy office at the city center (Diagonal)!
+
+
+
+ Work with passionate experts who will share their knowledge and help you develop and grow!
+
+ 
+
+Please send CV’s in ENGLISH!
+
+ Please Note:
+
+ *No agency or contractor resumes accepted
+
+ *No Visa Sponsorships for this position
+
+ *No relocation assistanceMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=121&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_200416e9&cb=1751525842154&jobListingId=1009568926819&jrtk=5-yul1-0-1iv7h6mvk2gdn000-39a895e842053b4b
+----------------------------------------
+Job 11:
+  job-company: Thermo Fisher Scientific
+  job-title: Field Service Engineer
+  job-description: Work Schedule
+Standard (Mon-Fri)
+Environmental Conditions
+Some degree of PPE (Personal Protective Equipment) required (safety glasses, gowning, gloves, lab coat, ear plugs etc.)
+Job Description
+Thermo Fisher Scientific Inc. is the world leader in serving science, with annual revenue exceeding 25billion. Our Mission is to enable our customers to make the world healthier, cleaner, and safer and with over 25billion.1 billion invested annually in R&D, we empower our teams to put science into meaningful action and give our R&D colleagues the autonomy, resources, and tools they need to take science a step beyond.
+
+Responsible to deliver all Service activities (which might include: Installation including related customer introduction, Repairs, Maintenance Services, Validation Services, Depot Repair, Hot Lines, etc.) on MOLECULAR products for achieving:
+Satisfied customers becoming committed customers
+The highest first time fix rates / the lowest mean time to repair
+Lowest repeated call rates
+Supplies to the overall Service Targets regarding Bookings, Revenues, Service Profit, and Overhead Cost while following all internal rules, processes, and practices (as they are described).
+Main Activities / Responsibilities:
+Performs the activities mentioned above in line with internal rules and customer regulations
+Assure responsive telephone support and diagnostic as well as on-site Services to exceed the customer’s expectation and making them successful by using TMO instruments. Actively promote our contract products. (80%)
+Always ensure the highest professional relationship with our customer base to achieve customer dedication and raise issues if vital to address critical tasks in the fastest way possible. Follow our ethical business conduct mentorship.
+Is responsible to handle the company’s assets provided, such as Car Stock/Inventory of Parts, Computer, Telephone, general Tools, Software, Company Car, Manuals etc..
+Optimize the own work schedule by coordinating with all the vital partners for service planning/scheduling (Dispatching function, Team Leader, others).
+Assures alignment of all activities at the customer site with the rest of TMO and advises other part of TMO of important information with respect to our customers (e.g. information about new purchases to sales/lead generation)
+Minimum Requirements/Qualifications:
+Professional background in Electronics/Chemistry/Engineering or related subjects
+Minimum 2-5 years experience servicing analytical equipment or equivalent applications specialist experience.
+Strong problem solving skills
+Good verbal and written communication skills, ability to work across all levels, functions and regions
+Shown the ability to handle multiple tasks with different priorities
+The above statements are intended to describe the general nature and level of the work being performed by people assigned to this job. They are not an extensive list of all of the duties and responsibilities associated with it.
+Non-Negotiable Hiring Criteria:
+Driving License
+Willingness to travel (50%) mainly within the appointed region but frequently as well through Europe/European Territory. For training or special calls, international traveling including all EMEA Territory and the US is required.
+Good English skillsMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=120&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_68bd11d2&cb=1751525842154&jobListingId=1009797614435&jrtk=5-yul1-0-1iv7h6mvk2gdn000-a8966d1afde3bd0e
+----------------------------------------
+Job 12:
+  job-company: DerbySoft
+  job-title: Sr. Software Engineer - Backend
+  job-description: What is DerbySoft?
+
+ 
+
+Founded in 2002, DerbySoft is a technology company whose mission is to make the travel business easier through industry leading technology that empowers travel industry services. The company supports technology for Connectivity Services at the CRS and PMS levels, Marketing Services which uses machine learning and rich data to drive high-performing marketing campaigns and a Content platform that collects, manages and distributes quality hotel content. DerbySoft’s technology empowers the travel industry around the globe. Headquartered in Dallas, Texas, USA and with offices in Barcelona, Tokyo and Shanghai, DerbySoft serves partners in 197 countries around the world.
+
+ 
+
+DerbySoft
+ has this opportunity and more with our online travel and hospitality industry software that we support around the world! This position is in a new team that will deliver cutting-edge Java solutions and will be responsible for the technical components for development, optimization, and user testing for our connectivity platform.
+
+ 
+
+What will you do?
+
+ Own the team features design and implementation.
+
+ Features requirement discussion, review and ETA.
+
+ Code review for team members.
+
+ Ensure features quality.
+
+ Own the responsible features measurement.
+
+ Grow team members to be more productive and skilled.
+
+ Good coordination and communication skills, basic high performance and security skill sets
+
+ 
+
+What do we need?
+
+ More than 5 years Core Java development experience.
+
+ Proficient in Java fundamentals, familiar with Java multithreading, high concurrency, IO/NIO, network communication, etc.
+
+ Familiar with common design patterns, have design and development experience of distributed, high concurrency, high load, high availability systems.
+
+ Master all kinds of common server technology, can optimize the service response and data query, ensure the quality of service, solve the problem of high concurrency and high availability.
+
+ Familiar with Spring/Spring Boot/Spring Cloud.
+
+ Familiar with Agile methodologies, particularly SCRUM.
+
+ Familiar with common data persistence frameworks and solutions, such as Mybatis/Hibernate/JPA.
+
+ Familiar SQL and No-SQL databases.
+
+ Familiar with HTTP, TCP/IP protocols and REST specifications.
+
+ Familiar with hexagonal architecture, clean code y good development practices.
+
+ Master Gradle/Maven and other build tools.
+
+ Experience in version control software (Git).
+
+ Familiar with JSON & XML.
+
+ 
+
+What do you have to bring to the table?
+
+
+
+
+ Have a high sense of responsibility, work carefully
+
+
+
+ Have good learning ability and communication and cooperation ability
+
+
+
+ Good coordination and communication skills to solve complex technical problems
+
+ 
+
+Why work with Derbysoft?
+
+ 
+
+We offer competitive salary based on experience
+
+
+
+ Peer recognition programs
+
+
+
+ Free coffee! (To recharge your batteries)
+
+
+
+ Working from home
+
+
+
+ Casual work environment where teamwork is key
+
+
+
+ Nice and comfy office at the city center (Diagonal)!
+
+
+
+ Work with passionate experts who will share their knowledge and help you develop and grow!
+
+
+
+ Lunch and public transport tickets
+
+
+
+ Pension plan
+
+
+
+ Annual and performance bonus
+
+ 
+
+Please send CV’s in ENGLISH!
+
+ Please Note:
+
+ *No agency or contractor resumes accepted
+
+ *No Visa Sponsorships for this position
+
+ *No relocation assistanceMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=119&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_200bc350&cb=1751525842154&jobListingId=1009568926817&jrtk=5-yul1-0-1iv7h6mvk2gdn000-cfc5a025eff67411
+----------------------------------------
+Job 13:
+  job-company: Diabolocom
+  job-title: Senior Backend Software Engineer (Java/Kotlin)
+  job-description: About Diabolocom
+Diabolocom enables organizations worldwide to build brand loyalty and drive sales growth. Our innovative, cloud-based contact center solution leverages AI-driven technologies to optimize the customer experience. We empower Customer Service and Sales teams to handle inbound and outbound interactions seamlessly across multiple channels, ensuring premium voice quality, real-time analytics, and robust global scalability.
+
+
+
+Our platform integrates with leading CRMs and offers a wide range of APIs and services in multiple languages. With offices in Europe, the USA, Brazil, and the UAE, and 350+ clients operating in 60+ countries, we are constantly evolving and seeking talented individuals to join our team.
+
+
+
+In the context of our exponential growth, we are strengthening our internal engineering team and opening a Senior Backend Software Engineer position in our Core Squad.
+
+About the Core Squad
+The Core Squad is responsible for the design and development of all key entities of our product, ensuring proper interaction between other squads and services. We also realize the isolation of entities within our application to achieve the convenience of large customers.
+
+As part of the Core Squad, you will: Design, build, and optimize back-end services for data gathering, processing, and delivery. Ensure high-quality engineering practices with thorough test coverage, robust metrics, alerts, and clear documentation. Define and maintain service contracts to ensure seamless communication between systems. Work closely with the product team to align technical solutions with customer needs.
+
+Technical Stack: Languages: Java, Kotlin Framework: Spring Boot Database: PostgreSQL Message Broker: RabbitMQ Caching: Redis Containerization: Docker
+
+Our team currently consists of: 3 QA engineers 2 backend developers 2 frontend engineers (shared between two teams) 1 team lead
+
+What We’re Looking For:10+ years in software development within product-focused companies, with at least 5+ years working extensively in Kotlin (preferred) or Java.Experience working with relational databases (PostgreSQL preferred).Experience in designing and implementing effective distributed systems. Ability to make architectural decisions and evaluate their impact on system performance, scalability, and reliability.Strong autonomy and leadership potential, with a willingness to grow into a lead role.Comfortable working with and improving an existing codebase.Strong engineering culture, attention to the details, business-centric mindset.
+
+What We Offer: A collaborative and innovative team environment. The opportunity to work on cutting-edge distributed communication systems. Career growth opportunities within a fast-growing global company. Flexible work arrangements and remote work options.
+
+Recruitment Process:Technical challenge on HackerRank platformIntro call with a Talent Acquisition ManagerLive coding challengeDesign interview through screen sharing with our Lead Software EngineerFinal interview with Alexander, our Head of Software Engineering
+At Diabolocom, diversity and inclusion are in our DNA. All qualified applicants will receive equal consideration for employment without regard to color, language, religion, sex, sexual orientation, gender identity, national or social origin, opinion disability, age.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=118&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_4304fe9e&cb=1751525842155&jobListingId=1009798362201&jrtk=5-yul1-0-1iv7h6mvk2gdn000-d77b2a2ba8618b05
+----------------------------------------
+Job 14:
+  job-company: Okta
+  job-title: Software Engineer - AI Authentication (Auth for GenAI)
+  job-description: Get to know Okta
+
+
+
+Okta is The World's Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.
+
+
+
+At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we're looking for lifelong learners and people who can make us better with their unique experiences.
+
+
+
+Join our team! We're building a world where Identity belongs to you.
+At Okta, we're building the next generation of authentication for the GenAI era. We're looking for an Engineer II to join our AI Authentication team – a group of product-minded, deeply technical engineers delivering features to define what identity and access mean in a world increasingly powered by artificial intelligence.
+
+This is a great opportunity for an engineer with 3+ years of professional experience who thrives in collaborative environments, is eager to grow their technical depth, and wants to build scalable systems that solve real-world security problems.
+
+Auth0 Emerging Tech is the Engineering organization where we take care of the hottest technology out there: we ship fast, we don't break things. We are a dynamic and collaborative distributed and diverse team. We value ownership, learning and innovation.
+
+
+
+We launched our Auth for GenAI offering and we are looking for an Engineer II to join us to lead the team taking care of the Identity Protocols parts of the game.
+
+
+
+Auth0 works with NodeJS ( Javascript or Typescript), a hint of Go and MongoDB or PostgreSQL databases.
+
+
+
+What will you do:
+
+
+
+Gain expertise in identity and security while building innovative features and standards that will secure the Agentic AI world
+Build and maintain scalable services using TypeScript, NodeJS, and PostgreSQL/MongoDB.
+Collaborate with other product managers, designers, and senior engineers to deliver features that improve identity and access for GenAI applications.
+Write clean, testable, and maintainable code, and participate in code reviews and system design discussions.
+Contribute to observability and alerting systems to ensure reliability and performance of our services.
+Continuously learn and grow by working alongside experienced engineers on complex distributed systems.
+
+
+
+Qualifications and requirements
+
+What you'll bring to the role:
+
+3+ years of engineering experience.
+Solid programming experience with JavaScript/TypeScript and familiarity with NodeJS runtime environments.
+Practical experience with SQL and NoSQL databases (preferably Postgres and MongoDB).
+The ability to write well-tested, good quality code.
+A technical background, capable of helping a team evaluate trade-offs during development.
+An enjoyment of working in an iterative development environment.
+The ability to work well with technical and non-technical people to deliver high-value results.
+Excellence when working autonomously, knowing when to seek help from team members.
+A systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.
+Experience and understanding of architecture principles across infrastructure platforms, security, data, integration, and application layers.
+
+
+
+Bonus points for:
+
+Understanding of IAM Concepts
+Experience with using AI Agents, to better understand the problem space we operate in
+Experience creating and maintaining public and secure APIs.
+Curiosity about AI and and its intersection with identity and security.
+Experience working on Identity and Access Management software and concepts
+Knowledge of observability tools like Datadog, Prometheus, or OpenTelemetry.
+
+#LI-Remote
+What you can look forward to as a Full-Time Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Developing Talent and Fostering Connection + Community at Okta
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https://www.okta.com/company/careers/.
+
+
+
+Some roles may require travel to one of our office locations for in-person onboarding.
+
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.
+
+
+
+
+If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation.
+
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https://www.okta.com/privacy-policy/.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=117&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_26770325&cb=1751525842155&jobListingId=1009797852380&jrtk=5-yul1-0-1iv7h6mvk2gdn000-dbf064179953ab97
+----------------------------------------
+Job 15:
+  job-company: ailylabs
+  job-title: Junior QA Engineer - Barcelona / Madrid / Munich/ Cluj
+  job-description: Mission
+Still doing manual testing without seeing the bigger picture?
+
+
+
+Want to shape how AI-powered products are tested and launched at scale?
+
+
+
+Join one of Europe’s top AI tech hubs, based in Spain, Munich, or Cluj.
+
+
+
+Help build the future of intelligent software with quality at its core.
+At Aily Labs, we’re not just looking for testers, we’re growing the next generation of AI-aware QA Engineers who understand both product and automation. You'll work closely with cross-functional teams to ensure excellence in every release.
+ As a junior, you'll be supported by experienced mentors and have a clear path for growth, from hands-on learning to long-term development.
+If you have a passion for data and technology and want to join a crew of sharp, analytical minds, then this may be the right opportunity for you.
+Your profile
+As a Junior QA Engineer, you will participate in the following tasks:
+
+
+Assist in developing and implementing testing strategies and processes to ensure high-quality software products.
+Work closely with team members and mentors to understand business objectives and translate them into practical quality requirements.
+Identify, document, and track quality issues and collaborate with cross-functional teams to resolve them.
+Support the creation and maintenance of test plans to ensure comprehensive test coverage.
+Perform acceptance testing to ensure seamless product delivery across front-end applications and API integrations.
+Participate in the design, development, and maintenance of automated test scripts.
+Assist in monitoring and analyzing software quality metrics to identify areas for improvement.
+Communicate effectively within the team to align QA objectives with overall business goals.
+Identify risks under supervision and help develop strategies to mitigate quality issues.
+Continuously evaluate and suggest improvements for the testing process.
+
+
+Qualifications / Experience
+
+
+1-2 years of experience in Manual and Automated testing of data-driven applications.
+Basic knowledge of automation frameworks such as Playwright or Appium.
+Basic coding experience in Python.
+Familiarity with testing web applications (ReactJS) and mobile applications (React Native).
+Some experience with testing API endpoints.
+Basic knowledge of SQL databases.
+Interest and basic understanding in end-to-end data testing or data analysis methodologies.
+Good problem-solving skills and eagerness to learn root cause analysis techniques, including debugging and log analysis.
+Interest in performance and load testing.
+Who are we?
+Aily Labs, founded in 2020, is an exciting and rapidly growing startup based in Munich, Barcelona, Madrid, Cluj and New York. With a team consisting of over 350 passionate and skilled ML Engineers, Data Scientists, Developers, and Business Leads we are dedicated to our ambitious objective of democratizing AI.
+
+
+
+We have harnessed cutting-edge technology to develop an exceptional AI mobile app that goes beyond conventional solutions. By seamlessly providing immediate business insights, we are poised to revolutionize the corporate landscape.
+What sets us apart?
+We are an internationally diverse team that supports one another.
+We develop high-quality software and thus create sustainable added value for our customers.
+We live in a feedback culture so that we can constantly reflect and improve.
+We offer flexible hybrid work with free time management within the projects.
+We enjoy new technologies and love to learn new things and grow with them.
+We give freedom for further training because lifelong learning is important to us.
+About us
+LEARN MOREMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=116&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_234ac85d&cb=1751525842154&jobListingId=1009798303573&jrtk=5-yul1-0-1iv7h6mvk2gdn000-1541abe0a3cf0268
+----------------------------------------
+Job 16:
+  job-company: Barcelona Supercomputing Center (BSC)
+  job-title: Junior Research Engineer Biomolecular Simulations (MDDB/BioExcel) (RE1)
+  job-description: Job Reference
+25_25_LS_INBCN2_RE1
+Position
+Junior Research Engineer Biomolecular Simulations (MDDB/BioExcel) (RE1)
+Closing Date
+Sunday, 10 August, 2025
+Reference: 25_25_LS_INBCN2_RE1
+Job title: Junior Research Engineer Biomolecular Simulations (MDDB/BioExcel) (RE1)
+
+
+About BSC
+The Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS) is the leading supercomputing center in Spain. It houses MareNostrum, one of the most powerful supercomputers in Europe, was a founding and hosting member of the former European HPC infrastructure PRACE (Partnership for Advanced Computing in Europe), and is now hosting entity for EuroHPC JU, the Joint Undertaking that leads large-scale investments and HPC provision in Europe. The mission of BSC is to research, develop and manage information technologies in order to facilitate scientific progress. BSC combines HPC service provision and R&D into both computer and computational science (life, earth and engineering sciences) under one roof, and currently has over 1000 staff from 60 countries.
+
+
+
+Look at the BSC experience:
+
+BSC-CNS YouTube Channel
+
+Let's stay connected with BSC Folks!
+
+
+
+We are particularly interested for this role in the strengths and lived experiences of women and underrepresented groups to help us avoid perpetuating biases and oversights in science and IT research. In instances of equal merit, the incorporation of the under-represented sex will be favoured.
+
+
+
+We promote Equity, Diversity and Inclusion, fostering an environment where each and every one of us is appreciated for who we are, regardless of our differences.
+
+
+
+If you consider that you do not meet all the requirements, we encourage you to continue applying for the job offer. We value diversity of experiences and skills, and you could bring unique perspectives to our team.
+Context And Mission
+Our group at the Life Sciences Department is developing a research line centred on the development and maintenance of research infrastructures to serve large-scale projects in the Life Sciences domain. In this context, on one hand BioExcel Center of Excellence (https://bioexcel.eu) is a project seeking to establish a stable infrastructure for software management in the field of Biomolecular simulations; on the other hand the MDDB project (https://mddbr.eu) is developing the initial establishment of a large scale federated repository for biomolecular simulations. The candidate is expected to have a strong involvement in the development of the core technical infrastructure for MDDB and the provision of advanced tools for simulation study including both traditional and AI based strategies.
+Key Duties
+Contribute to the development of software components related to biomolecular simulations, docking and chemoinformatics
+Manage the deployment of tools in a variety of computational infrastructures
+Contribute to the development of software related to large scale database infrastructures
+Participate in project meetings and reporting.
+
+Requirements
+Education
+High degree in a informatics/bioinformatics related field
+Or a Higher vocational education (FPII)
+Essential Knowledge and Professional Experience
+Knowledge of scripting languages (python preferred), software library development, and its integration in software repositories (PyPi, Conda, etc.)
+Knowledge of data and database management (NoSQL)
+Additional Knowledge and Professional Experience
+Knowledge of software quality practices
+Knowledge of biomolecular simulation (MD) and structural bioinformatics
+Knowledge of AI technologies including machine and deep learning.
+Fluency in both written and spoken English
+Competences
+The ability to understand scientific literature, and software documentation
+Ability to communicate scientific results
+Ability to work independently
+Ability to represent the team in international project meetings
+Conditions
+The position will be located at BSC within the Life Sciences Department
+We offer a full-time contract (37.5h/week), a good working environment, a highly stimulating environment with state-of-the-art infrastructure, flexible working hours, extensive training plan, restaurant tickets, private health insurance, support to the relocation procedures
+Duration: Open-ended contract due to technical and scientific activities linked to the project and budget duration
+Holidays: 23 paid vacation days plus 24th and 31st of December per our collective agreement
+Salary: we offer a competitive salary commensurate with the qualifications and experience of the candidate and according to the cost of living in Barcelona
+Starting date: asap
+
+Applications procedure and process
+
+All applications must be submitted via the BSC website and contain:
+A full CV in English, including contact details.
+A cover/motivation letter with a statement of interest in English, clearly specifying for which specific area and topics the applicant wishes to be considered. Additionally, two references for further contacts must be included. Applications without this document will not be considered.
+
+
+Development of the recruitment process
+The selection will be carried out through a competitive examination system ("Concurso-Oposición"). The recruitment process consists of two phases:
+Curriculum Analysis: Evaluation of previous experience and/or scientific history, degree, training, and other professional information relevant to the position. - 40 points
+Interview phase: The highest-rated candidates at the curriculum level will be invited to the interview phase, conducted by the corresponding department and Human Resources. In this phase, technical competencies, knowledge, skills, and professional experience related to the position, as well as the required personal competencies, will be evaluated. - 60 points. A minimum of 30 points out of 60 must be obtained to be eligible for the position.
+
+The recruitment panel will be composed of at least three people, ensuring at least 25% representation of women.
+In accordance with OTM-R principles, a gender-balanced recruitment panel is formed for each vacancy at the beginning of the process. After reviewing the content of the applications, the panel will begin the interviews, with at least one technical and one administrative interview. At a minimum, a personality questionnaire as well as a technical exercise will be conducted during the process.
+The panel will make a final decision, and all individuals who participated in the interview phase will receive feedback with details on the acceptance or rejection of their profile.
+
+
+At BSC, we seek continuous improvement in our recruitment processes. For any suggestions or comments/complaints about our recruitment processes, please contact recruitment [at] bsc [dot] es.
+For more information, please follow this link.
+
+
+Deadline
+The vacancy will remain open until a suitable candidate has been hired. Applications will be regularly reviewed and potential candidates will be contacted.
+
+OTM-R principles for selection processes
+BSC-CNS is committed to the principles of the Code of Conduct for the Recruitment of Researchers of the European Commission and the Open, Transparent and Merit-based Recruitment principles (OTM-R). This is applied for any potential candidate in all our processes, for example by creating gender-balanced recruitment panels and recognizing career breaks etc.
+
+BSC-CNS is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or any other basis protected by applicable state or local law.
+
+For more information follow this link
+
+This position is reserved for candidates who meet the requirements and have the legal status of disabled persons with a degree of disability equal to or greater than 33%. In case there are no applicants with disabilities that meet the requirements, the rest of the candidates without declared disability will be evaluated.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=115&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_f6e5f1b0&cb=1751525842153&jobListingId=1009596981205&jrtk=5-yul1-0-1iv7h6mvk2gdn000-65f878864f7bb126
+----------------------------------------
+Job 17:
+  job-company: SAP
+  job-title: Digital Customer Success Manager (D-CSM) - Cross Business Suite MEE - Barcelona, English speaker
+  job-description: We help the world run better
+At SAP, we enable you to bring out your best. Our company culture is focused on collaboration and a shared passion to help the world run better. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose-driven and future-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from.
+This job posting contains multiples job opportunities available.
+
+Company descirption
+SAP started in 1972 as a team of five colleagues with a desire to do something new. Together, they changed enterprise software and reinvented how business was done. Today, as a market leader in enterprise application software, we remain true to our roots. That’s why we engineer solutions to fuel innovation, foster equality and spread opportunity for our employees and customers across borders and cultures.
+SAP values the entrepreneurial spirit, fostering creativity and building lasting relationships with our employees. We know that a diverse and inclusive workforce keeps us competitive and provides opportunities for all. We believe that together we can transform industries, grow economies, lift-up societies, and sustain our environment. Because it’s the best-run businesses that make the world run better and improve people’s lives.
+
+About the Role
+The SAP Customer Success Management organization aims to create an industry-leading virtual digital customer engagement experience that provides an easy-to-use digital entry point with on-demand access to self-help and guidance from SAP (via our Digital Customer Success Managers) to our customers. D-CSMs will use a low touch / digital engagement approach in order to provide excellent customer experience across a large portfolio of customers (80-100).
+The objective of this function will be to optimize the customer onboarding and adoption processes, improve renewal rates, increase customer satisfaction, and champion customer success through a consistent, efficient, scalable methodology across different SAP cloud lines of business.
+
+Further responsibilities:
+Onboard New customers
+Conduct virtual onboarding sessions and regular check-ins during the implementation phase
+Share important SAP resources with customers such as webinars, trainings, events, or relevant best practices
+Assist customers in case of showstoppers and roadblocks
+Drive customer adoption and respond to risk scenarios
+Engage 1:1 with priority customers as well as execute 1: many initiatives to drive customer outcomes at scale
+Pursue high standards of customer engagement and satisfaction with a focus on customer loyalty by sharing tools, processes & resources
+Identify customers at risk and take appropriate actions by involving Cross-Functional Teams or sharing relevant best practices
+Encourage and assist customers on topics related to AI adoption
+Act as trusted advisor and be first point of contact for non-technical inquiries
+Drive opportunities to further expand the Digital Customer base (Up & Cross-selling)
+Build and leverage a network of key internal stakeholders from different functions that can support customer success
+Analyze and interpreting customer data to prioritize customer engagements, contribute to improve overall customer satisfaction & accelerate SAP’s reference pipeline
+
+Requirements:
+Location: Barcelona
+3+ years of experience in a customer-facing role, managing complex customer relationships in the Software industry
+Previous experience working with SAP cloud SaaS solutions like S/4HANA Cloud, Supply Chain Management, Human Capital Management, Customer Experience, or Procurement would be a plus
+Experience managing high volume of customer engagements
+Proven experience working with diverse, cross functional teams, both virtually and globally
+Motivation and flexibility to work in a dynamic organization, with the ability to learn quickly and adapt to a fast-changing environment
+Strong orientation towards teamwork and collaboration
+Strong interpersonal skills which aid in building relationships externally and internally
+Creative problem solving under pressure when working through customer issues
+Excellent listening, written and oral communication skills
+Fluency in business English is essential, German and / or other Central and Eastern Europe (CEE) region language(s) is a plus
+Bring out your best
+SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world.
+
+SAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com
+
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+EOE AA M/F/Vet/Disability:
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.
+
+Successful candidates might be required to undergo a background verification with an external vendor.
+Requisition ID: 430362 | Work Area: Consulting and Professional Services | Expected Travel: 0 - 10% | Career Status: Professional | Employment Type: Regular Full Time | Additional Locations: #LI-Hybrid.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=114&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_fb1c7c1d&cb=1751525842153&jobListingId=1009799335737&jrtk=5-yul1-0-1iv7h6mvk2gdn000-2fa608e71e80f53e
+----------------------------------------
+Job 18:
+  job-company: Yokoy
+  job-title: Senior DevOps Engineer
+  job-description: At Yokoy, our vision is simple: empower companies to save money on every dollar they spend. We’re shaping a future where businesses handle their finances efficiently, securely, and compliantly - minimizing manual effort through the power of AI and automation. Backed by world-class investors, trusted by hundreds of global customers, and driven by a team of over 250 exceptional minds, we’re on a mission to revolutionize the way companies manage their spending. But that’s not everything: recently, Yokoy has been acquired by TravelPerk, the hypergrowth global business travel platform, bringing together two best-in-class platforms that are transforming the way companies operate.
+
+Are you excited about working in a fast-paced environment alongside a passionate and ambitious team? Join us on our mission to revolutionize the travel and spend management industry! We’re looking for a Senior DevOps Engineer to help us reach our goals.
+
+
+
+As a Senior DevOps Engineer at Yokoy, you will work on maintaining and further developing the Yokoy software (SaaS) by building and testing new features, advancing the technology for scalability and ensuring reliability with a specific focus on security. Yokoy is based on the newest technology available on the market, which makes your work extremely exciting. The Engineer role is a crucial position for us as Yokoy is growing fast on a global scale, which requires a product that can keep up with the speed without compromising on quality.
+\uD83E\uDDD1\uD83C\uDFFD‍\uD83D\uDCBB What you’ll do:
+With the understanding of the needs of stakeholders within an Agile DevOps framework, you build and set up new development tools and infrastructure with emphasis on security
+You work on ways to automate and improve development and release processes using industry standard tools for Containerised Environments.
+You test and examine infrastructure and code to ensure high levels of security & low levels of risk
+You ensure that systems are scaled correctly (right-sizing) and automated
+You proactively identify technical problems and develop software and infrastructure updates and ‘fixes’
+You work closely with software developers and software engineers to ensure that development follows established processes and works as intended within a secure and scalable framework
+You will be involved in project management decisions and plan out your own projects
+You will assist and mentor junior members within the team️ What you’ll need:
+A bachelor’s or master’s degree (University/University of Applied Sciences) in an IT security or engineering discipline (Computer Science, IT Security, Cyber Security, Math or Physics) or equivalent experience.
+You have at least 4 years of infrastructure experience.
+You are experienced with cloud infrastructure (GCP preferred; Azure/AWS additional is a plus).
+You are knowledgeable in programming or scripting languages and/or IaaS & CI/CD tooling.
+You enjoy working in a team and communicating with others.
+You are able to take ownership of risk evaluation, and you have a pragmatic approach to risk mitigation.
+You have strong problem-solving skills and an attention to detail (Application behaviour, Networking, Security, Identity and Access Management).
+You are aware of DevOps and Agile principles and methodologies of overcoming security weaknesses within these frameworks.
+Ideally, you have experience within Finance/Highly Regulated environments.
+You are fluent in English. German and other languages are a plus.
+\uD83D\uDE80 What you’ll get:
+Ownership & Impact: From day one, you’ll have the autonomy to own your work and make a real difference.
+Flat Hierarchies: Collaborate closely with our leadership team in an open and approachable environment.
+Dynamic Environment: Work in a fast-paced setting where you can quickly see and learn from the impact of your contributions.
+Flexibility: We focus on outcomes, not hours – work when you’re most productive.
+Hybrid Work Model: We value in-person collaboration and meet in the office three days a week.
+Competitive Package: Enjoy a flexible and attractive compensation package, with the potential to share in our success.
+Remote Work: Work from anywhere for up to 20 days per year.
+Wellbeing: Choose between private healthcare or a gym allowance (location-dependent), plus access to therapy and coaching support.
+Giving Back: Take 16 paid hours annually to volunteer for a cause that matters to you.
+Language Learning: Join in-person English or Spanish classes at our Barcelona office.
+Parental Leave: Benefit from 12 to 16 weeks of paid leave, depending on your location and eligibility.
+We are keen to get to know you. Apply with your CV and/or LinkedIn profile and a few words on why you would like to join Yokoy. We look forward to your application!
+
+What’s going to happen next: we aim to get back to you regarding your application within 8 business days. Our interview process tends to take around 4 weeks to complete. If you need more flexibility or are on a tighter schedule, don’t be afraid to let us know.
+If after reading our job ad you figure that this isn’t the right fit for you, feel free to share it with a friend or colleague who might be interested.
+
+This is important to us: Yokoy is an equal opportunity employer, and we value diversity. We welcome people from all backgrounds who are looking to make the future simple with us. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability.
+
+Yokoy provides a leading all-in-one solution to automate spend management for midsize and enterprise companies through artificial intelligence (AI). We bring together expense management, invoice processing and the administration of intelligence corporate cards on a single, intuitive platform. As TravelPerk acquired Yokoy recently, the offering will be extended to an end-to-end platform for travel and expenses.
+
+Established in 2019 in Zurich, Switzerland, Yokoy is trusted by leaders at over 700 of the world’s most forward-thinking companies to help them transform how they spend, by transforming how their people spend their time. Designed to sit at the heart of the modern finance tech stack, Yokoy connects with the leading ERP systems, invoicing platforms, travel booking tools, and other enterprise finance tools to power end-to-end automation and provide complete visibility across the enterprise. Yokoy is backed by leading investors including California-based Sequoia Capital, New York-based Left Lane Capital and London-based Balderton Capital. Currently, Yokoy counts more than 250 employees based in seven locations globally. Yokoy is ISO 9001, ISO 14001 and ISO 27001 certified. Yokoy will be integrated into TravelPerk in the coming months, resulting in a new service offering including an end-to-end Travel and Spend Management platform.
+
+https://yokoy.io/Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=113&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_e7a7bbc5&cb=1751525842153&jobListingId=1009799011610&jrtk=5-yul1-0-1iv7h6mvk2gdn000-9a505f7c336234f8
+----------------------------------------
+Job 19:
+  job-company: Autodesk
+  job-title: Software Development Engineer
+  job-description: Job Requisition ID #
+25WD89722
+As we transition from a world of files to that of products powered by cloud data services, we’re building our core underlying cloud fabric and kernel that is comprised of massively scalable, always-on, globally-deployed cloud services that underpin our customer facing systems. In order to provide a seamless cloud data experience for our customers we’re building a platform that bridges existing products and solutions with our cloud data platform.
+We are seeking a highly proficient principal software engineer to help in building our client-side data platform. The successful candidate should have a strong sense of ownership and be able to drive projects through completion. They should be well versed in building highly optimised SDKs and components that can be used in cross-platform environments.
+Responsibilities
+Work on a scrum team of about 7 – 10 team members
+Demonstrate impact and influence across teams outside of the direct organization
+Contribute significantly to large-scale, intricate projects involving multiple engineers and cross-functional teams
+Spearhead solutions for uncertain milestones, from requirement clarification and scope planning to ensuring delivery
+Influence cross-functional teams and contribute to large-scale projects
+Be a role model for working in the production codebase for Autodesk Platform Services (C# / .Net Framework & Core) to deliver high-quality, secure, and stable code
+Develop, troubleshoot, test, and debug C# .Net components
+Engage directly with customers to provide technical support for complex issues
+Be a technical leader who influences technical decisions across multiple teams
+Write technical design documents, participate in design and code reviews within the team, across teams, develop estimates for tasks, and document code
+Work with an extended team of software developers, QAs, and Product Managers and Architects in the US and other worldwide engineering sites
+Participate in Agile ceremonies such as sprint planning, daily scrum meetings, backlog grooming, sprint reviews, and sprint retrospectives
+Act as a Product owner for the team; balancing requirements from different sources like PM, Architectural roadmap, and service/component improvement
+Lead team initiatives and drive key business outcomes
+Navigate uncertain milestones from concept to successful delivery
+Lead technical discussions and incident resolutions
+Mentor team members and foster a culture of knowledge-sharing
+Act as a Subject Matter Expert, make significant contributions to design
+Utilize expertise in .Net and C#, along with a strong grasp of key design principles
+Design solutions with a focus on performance, scalability, resiliency, and cost
+Minimum Qualifications
+Proven experience as a software engineer, with a focus on .Net and C# in Windows Desktop environment
+Excellent knowledge of software and application design and architecture.
+Experience in code review following all best practices
+Knowledge of test-driven development.
+Mastery in software engineering tools, including Git/GitHub & Jenkins & experience with build and deployment processes.
+#LI-MM1
+Learn More
+About Autodesk
+Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
+We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
+When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
+Salary transparency
+Salary is one part of Autodesk’s competitive compensation package. Offers are based on the candidate’s experience and geographic location. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package.
+Diversity & Belonging
+
+We take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/diversity-and-belonging
+Are you an existing contractor or consultant with Autodesk?
+Please search for open jobs and apply internally (not on this external site).Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=112&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_208f13b4&cb=1751525842152&jobListingId=1009799249742&jrtk=5-yul1-0-1iv7h6mvk2gdn000-bdf8ae3351ecd726
+----------------------------------------
+Job 20:
+  job-company: Utopia
+  job-title: Site Manager / Project Supervisor / Construction Project Manager
+  job-description: We are seeking a dynamic and experienced Local Site Manager to take the lead on an exciting high-end luxury villa construction project in Barcelona (Pedralbes) (relocation needed if not already living there). In this role, you will be at the heart of transforming designs into reality. Your mission is to ensure the successful delivery of a luxury villa that fulfills our client's expectations and high standards and within time and cost constraints.
+Key Role Outcomes
+Ensure that project plans and specifications are followed on-site.
+Monitor construction work to ensure it meets quality standards and complies with relevant codes and regulations.
+Construction cost and schedule compliance.
+Conduct safety inspections and report any potential hazards.
+Communicate project status and issues to the Head of Construction and stakeholders.
+Propose solutions and make recommendations to keep the project on track.
+Serve as a liaison between the office and the construction site.
+Strive to meet or exceed client expectations for project quality and performance.
+High level of seniority to deputize for the Head of Construction when required. With the possibility of traveling to Middle East and Africa to oversee construction progress of other sites (only if needed).
+Responsibilites
+Site Mastery: You will oversee all on-site activities, ensuring strict adherence to local building codes, safety regulations, and environmental standards.
+Strategic Planning: Collaborate closely with the project manager and Head of Construction to execute what it is stated on the construction plans. This involves meticulous scheduling, resource allocation, and the strategic procurement of materials.
+Quality Excellence: Maintain unwavering commitment to quality control, scrutinizing all work to ensure it mirrors the intricacy of architectural designs, consistently meeting luxury standards.
+Budget Stewardship: Demonstrate financial acumen by effectively managing project expenses while adhering to the approved budget. Seek innovative yet cost-effective construction methods without compromising quality.
+Team Leadership: Leverage your leadership skills to coordinate subcontractors, skilled laborers, and on-site staff for optimal workflow. Proactively address challenges and foster a collaborative work environment.
+Thorough Documentation: Keep meticulous records of daily activities, progress reports, and site conditions, providing transparent and accountable reporting. Regularly communicate project status updates to our management team.
+Requirements
+Academic Background:
+Bachelor’s degree on civil engineering / architecture (Required).
+Post-graduate studies on construction management or related fields (Preferred).
+Professional Experience:
+A minimum of 10 years of experience on construction site roles (Inspector, project engineer, field engineer, site supervisor, assistant project manager, construction manager, superintendent).
+A minimum of 6 years of experience as a field engineer working on luxury villa or high-end residential construction or high-end hospitality projects.
+Must have completed at least three full project from start to finish in Spain (touristic regions preferred).
+Strong track record in luxury villa or high-end residential construction.
+Technical Skills: Proficiency in construction software and tools such as AutoCAD, Revit, MS Project, and other relevant applications.
+Local Expertise: Demonstrated knowledge of the local building codes, regulations, and construction practices, essential for successful project execution.
+Language Proficiency: Fluency in English and native Spanish is crucial for effective communication with our London-based management team and colleagues.
+Problem-Solving Prowess: Provide concrete examples of your ability to identify and resolve technical or logistical challenges that may arise during construction projects.
+Benefits
+Salary and benefits are competitive and based on candidates experience.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=111&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_23964774&cb=1751525842152&jobListingId=1009799348944&jrtk=5-yul1-0-1iv7h6mvk2gdn000-b07c7e3f8e313606
+----------------------------------------
+Job 21:
+  job-company: Autodesk
+  job-title: Customer Success Manager for Construction
+  job-description: Job Requisition ID #
+25WD89604
+Position Overview
+As a Customer Success Manager within our Customer Success organisation for Enterprise business, retaining and expanding our enterprise customers in the construction domain is one of our most important tasks and we understand that enabling continuous adoption of our cloud solutions and fulfilling our customers’ desired business outcomes is critical to building lasting trusted relationships with our customers and ultimately driving revenue for Autodesk.
+
+
+
+Reporting to the EMEA Manager of Customer Success, the Customer Success Manager for Construction is a strategic and trusted partner to your assigned customers, ensuring their desired business outcomes are being achieved. You will be the main driver for solution adoption, expanding your network within the customer to identify and build repeatable adoption plays by collecting product data, customer feedback and analyzing patterns of successful customers. Utilizing these plays, you will drive the success of your customers and align on objectives and progress in Business Reviews. Additionally, you will act as a voice of the customer towards the strategic vision for our construction business. With your German language skills you will be supporting the DACH regions.
+Responsibilities
+You are familiar with the direction and strategy of Autodesk to become the leading construction platform company
+You enjoy discussing and driving digitization and digitalization of our customers and the AEC industry as a whole
+ Onboard new construction customers with a focus on accelerating their time to value and helping them achieve their positive business outcomes
+In order to achieve those positive business outcomes, you will seek areas to expand solution adoption, as well as recommend best practices to optimize their post-purchase utilization
+You are comfortable exceeding target goals by maintaining a high customer retention rate, coordinating with ACS sales to ensure on-time renewals, and identifying expansion opportunities
+ Hold regular check-in calls, executive business reviews, webinars, and mentoring sessions with customers
+Track account health to identify churn risk and work proactively to eliminate that risk
+Drive product usage and adoption of the Autodesk Construction Cloud (ACC)
+Develop a trusted advisor relationship with your customers and serve as an advocate for customer needs within the Autodesk Construction Solutions (ACS) team
+You are comfortable proposing and building processes that will allow our organization to scale, and collaborate with numerous stakeholders and teams, both internally and externally.
+Act as an ACS evangelist while identifying industry positive business outcomes, required capabilities, and finding relevant forums to increase awareness of ACS services
+
+Minimum Qualifications
+French and English fluency to support the France region
+Previous Experience in the Construction Industry - (i.e. Project Manager, VDC Manager, Superintendent, Project Engineer, Foreman)
+At least 3 years' experience in a customer-facing, B2B role
+Experience in Customer Success, Account Management or a client facing role
+Intellectual curiosity with the horsepower to understand one of the largest, most complex industries out there (construction)
+Excellent written and verbal communication skills
+Ability to prioritize, and manage time effectively and efficiently
+Process-driven and organized by nature
+Willingness to be adaptable and help problem solve
+Hard working, having a record of accomplishment, and demonstrated drive for achievement
+Ability to travel up to 30%
+
+Preferred Qualifications
+Previous' experience in a customer-facing, B2B role
+Experience in Customer Success, Account Management or a client facing role
+Hugely beneficial would be a detailed understanding of our ACS Solutions (BIM 360, Plangrid, Assemble, ACC) or similar CDE and Construction/Project Management solutions
+#LI-SH1
+Learn More
+About Autodesk
+Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
+We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
+When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
+Salary transparency
+Salary is one part of Autodesk’s competitive compensation package. Offers are based on the candidate’s experience and geographic location. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package.
+Sales Careers
+Working in sales at Autodesk allows you to build meaningful relationships with customers while growing your career. Join us and help make a better, more sustainable world. Learn more here: https://www.autodesk.com/careers/sales
+Diversity & Belonging
+
+We take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/diversity-and-belonging
+Are you an existing contractor or consultant with Autodesk?
+Please search for open jobs and apply internally (not on this external site).Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=110&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_e3f21d12&cb=1751525842151&jobListingId=1009799552663&jrtk=5-yul1-0-1iv7h6mvk2gdn000-418a1c015967f3e0
+----------------------------------------
+Job 22:
+  job-company: Modus Create
+  job-title: Senior DevOps Engineer (GitHub Migration)
+  job-description: Join Our DevOps Engineering Team at Modus Create!
+
+We are seeking a Senior DevOps Engineer with extensive experience with enterprise GitHub and GitLab (and extra points for Perforce (P4)), to collaborate with cross-functional teams and drive strategic consulting and full lifecycle product development. You will play a pivotal role in designing, executing, and supporting complex migration projects, ensuring seamless transition and adoption of GitHub at scale.
+
+About You
+
+Experience: Senior with 7+ years of experience as a DevOps Engineer with a proven track record in designing, deploying, and maintaining cloud-based infrastructure in AWS or Azure.
+Enterprise-Scale GitHub Migration:Demonstrated experience leading or executing large-scale migrations from GitLab and Perforce (P4) to GitHub.Deep understanding of migration planning, tooling, risk mitigation, and post-migration support.
+Version Control: Extensive experience using Git and GitHub for source control and development workflows.
+CI/CD: Strong experience with CI/CD pipelines and automation of software delivery processes.
+GitHub Migration: Experience in GitHub migration processes and a GitHub certification is highly desirable.
+Strong skills and experience in cloud infrastructure, including:
+Infrastructure-as-Code (IaC)
+Virtualization and containerization
+Monitoring and automation
+Strong communication skills to collaborate effectively with various teams and explain technical concepts to non-technical stakeholders.
+Excellent problem-solving abilities to tackle complex issues and think strategically.
+Adaptability to learn new tools and methodologies in the ever-evolving tech landscape.
+Collaboration and teamwork skills for working smoothly with development, operations, and IT teams.
+Attention to detail to ensure system stability and high-quality deliverables by identifying potential issues early.
+Independent Work and Ownership: Manage multiple tasks with minimal direction, continually improving processes. Mentor others inside Modus and our clients team.
+Project familiarity: GitHub experience especially on projects that tackled migrations. Extensive experience using Git and GitHub for source control and development is to be expected.
+Bonus Points For:
+GitHub certification.
+AWS/Azure certification.
+GitHub migration experience.
+You'll Love:
+Mentoring and coaching both clients and Modus teammates from the comfort of home.
+Deep diving into customer needs and translating them into actionable requirements.
+Exploring new tech and continuously learning—because software is always evolving!
+Sharing your knowledge and participating actively in the community.
+Team Collaboration:
+Overlap with some EST hours daily is expected.
+Reliable high-speed internet is a must!
+Team Culture:
+
+At Modus, a fast-growing, remote-first company, you'll experience various exciting projects! Here's a taste of what you might do:
+
+Giving back: Be an active participant through opportunities such as blog posts, open source contributions, and event speaking.
+Travel & connections: Meet fantastic people during our remote meet-ups! It's all about collaboration and fun! Global environment and diversity at its best.
+Teaching and learning: Work in active teams on internal and external projects, staying up-to-date with the latest technologies.
+Being a self starter: Autonomy and proactivity are the key to succeed at Modus.
+Client interaction: Represent Modus and our values while connecting directly with our clients, some of the world's biggest brands.
+Growth: Enjoy comprehensive learning benefits, with access to over 12,000 courses. Your growth is our priority!
+About us:
+
+Founded in 2011, Modus is a global, fully remote team of world-class technologists who thrive in a collaborative, innovative environment. We were fully remote before it was cool! We support organizations on their digital transformation journey through strategic consulting and full lifecycle product development, partnering with industry leaders including Atlassian, GitHub and AWS. Recognized as one of the Inc. 5000 Fastest Growing Private Companies for nine years and a top remote work company by FlexJobs, we have helped some of the world's largest brands deliver powerful digital experiences.
+
+We combine boutique expertise with enterprise-scale capabilities. As a GitHub partner with a world-class team, we help organizations innovate and solve complex challenges for Fortune 500 companies and beyond, we want to hear from you.
+
+Perks of working with us:
+Remote work with flexible working hours.
+Modus Global Office Program: for when you want to get out of your home, we offer on-demand access to private offices, meeting rooms, co-working spaces and business lounges in locations in over 120 countries.
+Employee Referral Program.
+Client Referral Program.
+Travel according to client or team needs.
+The chance to work side-by-side with thought leaders in emerging tech.
+Access to more than 12,000 courses with a licensed Coursera account.
+Possibility to obtain paid certification/courses if they align with company goals and are relevant to the employee's role.
+
+Additional benefits might apply contingent on your location.
+
+
+
+By joining our team, you'll be part of a winning squad that plays to each other's strengths and celebrates every success together. Apply now and show us you've got what it takes to take your consulting skills to the next level with Modus Create!Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=109&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_66c47fcf&cb=1751525842150&jobListingId=1009799417452&jrtk=5-yul1-0-1iv7h6mvk2gdn000-703bd8750088a1a2
+----------------------------------------
+Job 23:
+  job-company: AECOM
+  job-title: Senior HVAC Engineer
+  job-description: Job Description
+AECOM Spain Building Services Engineering team is a highly qualified group of professionals experts in offering the best solutions to international client’s needs all around the world.
+Our building services engineers are at the forefront of their discipline for the design of the mechanical, electrical and public health (MEP) systems required for the safe, comfortable and environmentally friendly operation of buildings.
+As part of the continued growth of our business, we are looking to hire an experienced Senior HVAC Engineering Designer to lead and delivering upstanding mechanical engineering projects.These projects span a diverse range of construction sectors including among others, Industrial, Healthcare, Education, Leisure, Aviation, Commercial and Defense.
+As a Senior HVAC Engineer , you will be expected to:
+Guide and lead technical design throughout the project lifecycle.
+
+Coordinate mechanical system design with electrical engineers, architects, and other design professionals.
+
+Design HVAC, Controls and Plumbing facilities.
+
+Perform HVAC calculations and analysis using standard industry programs (i.e. Carrier HAP);
+
+Perform calculations, conduct design drawing reviews, and field investigations;
+
+Perform studies to evaluate the cost-effectiveness of design alternatives, and recommend alternatives for implementation.
+
+Develop technical specifications, plans, elevations, section and details.
+
+Ensure compliance with applicable codes and engineering standards / practices.
+
+Go to site visits, and construction inspections as needed.
+
+Engaging regularly with the Client and different stakeholders to build and maintain positive collaborative relationships.
+
+Qualifications
+BS in Mechanical Engineering or similar field will be essential.
+Strong technical background, minimum 10 years of related HVAC / Mechanical Design Engineering experience for different kind of buildings.
+
+Good knowledge in international regulations and standards (AHSRAE, IMC, BS, CIBSE, etc).
+
+Proficiency in engineering calculation software such as HAP, Cype, Lider, Calener and/or any other similar software. Knowledge in IES will be a plus.
+
+Fluent in English and Spanish (verbal and written).
+
+Plumbing and Fire Protection systems design experience is a plus
+
+Experience with Revit will be an asset.
+
+Excellent communication skills
+
+Leadership skills will be essential for this role.
+
+Ability to concisely express complex system solutions in very early design phases.
+
+We celebrate diversity, including neurodiversity, and believe it enriches our team. We welcome applications from all backgrounds and abilities. If you are an applicant with a disability that requires reasonable accommodation to complete the application process, please contact us at ReasonableAdjustments@aecom.com. At AECOM, we value everyone's unique contributions and perspectives.
+If you meet some of the requirements above or have transferable skills you believe would benefit us, we would be delighted to hear from you!
+Additional Information
+Interested in the role or curious about life at AECOM? Follow us on LinkedIn, Facebook, Instagram, and YouTube to explore our AECOM voices, employee stories, latest projects, and much more!
+About AECOM
+AECOM is the world’s trusted infrastructure consulting firm, delivering professional services throughout the project lifecycle – from advisory, planning, design and engineering to program and construction management. On projects spanning transportation, buildings, water, new energy and the environment, our public- and private-sector clients trust us to solve their most complex challenges. Our teams are driven by a common purpose to deliver a better world through our unrivaled technical and digital expertise, a culture of equity, diversity and inclusion, and a commitment to environmental, social and governance priorities. AECOM is a Fortune 500 firm and its Professional Services business had revenue of $14.4 billion in fiscal year 2023. See how we are delivering sustainable legacies for generations to come at aecom.com and @AECOM.
+Freedom to Grow in a World of Opportunity
+You will have the flexibility you need to do your best work with hybrid work options. Whether you’re working from an AECOM office, remote location or at a client site, you will be working in a dynamic environment where your integrity, entrepreneurial spirit and pioneering mindset are championed.
+You will help us foster a safe and respectful workplace, where we invite everyone to bring their whole selves to work using their unique talents, backgrounds and expertise to create transformational outcomes for our clients.
+AECOM provides a wide array of compensation, benefits and well-being programs to meet the diverse needs of our employees and their families. We’re the world’s trusted global infrastructure firm, and we’re in this together – your growth and success are ours too.
+Join us, and you’ll get all the benefits of being a part of a global, publicly traded firm – access to industry-leading technology and thinking and transformational work with big impact and work flexibility. As an Equal Opportunity Employer, we believe in each person’s potential, and we’ll help you reach yours.
+All your information will be kept confidential according to EEO guidelines.
+ReqID: J10122678
+Business Line: B&P - Buildings & Places
+Business Group: DCS
+Strategic Business Unit: Europe & India
+Career Area: Engineering
+Work Location Model: Hybrid
+Legal Entity: AECOM SPAIN DCS S.L.U.Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=108&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_59367f51&cb=1751525842148&jobListingId=1009799614034&jrtk=5-yul1-0-1iv7h6mvk2gdn000-4e73b9598556cc18
+----------------------------------------
+Job 24:
+  job-company: Barcelona Supercomputing Center (BSC)
+  job-title: Research Engineer for CSSH Program, AI Factory (RE2)
+  job-description: Job Reference
+467_25_DIR_CSSH_RE2
+Position
+Research Engineer for CSSH Program, AI Factory (RE2)
+Closing Date
+Saturday, 02 August, 2025
+Reference: 467_25_DIR_CSSH_RE2
+Job title: Research Engineer for CSSH Program, AI Factory (RE2)
+
+
+
+About BSC
+
+
+
+The Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS) is the leading supercomputing center in Spain. It houses MareNostrum, one of the most powerful supercomputers in Europe, was a founding and hosting member of the former European HPC infrastructure PRACE (Partnership for Advanced Computing in Europe), and is now hosting entity for EuroHPC JU, the Joint Undertaking that leads large-scale investments and HPC provision in Europe. The mission of BSC is to research, develop and manage information technologies in order to facilitate scientific progress. BSC combines HPC service provision and R&D into both computer and computational science (life, earth and engineering sciences) under one roof, and currently has over 1000 staff from 60 countries.
+
+
+
+Look at the BSC experience:
+
+BSC-CNS YouTube Channel
+
+Let's stay connected with BSC Folks!
+
+
+
+We are particularly interested for this role in the strengths and lived experiences of women and underrepresented groups to help us avoid perpetuating biases and oversights in science and IT research. In instances of equal merit, the incorporation of the under-represented sex will be favoured.
+
+
+
+We promote Equity, Diversity and Inclusion, fostering an environment where each and every one of us is appreciated for who we are, regardless of our differences.
+
+
+
+
+If you consider that you do not meet all the requirements, we encourage you to continue applying for the job offer. We value diversity of experiences and skills, and you could bring unique perspectives to our team.
+
+
+
+Context And Mission
+
+
+
+The Barcelona Supercomputing Center (BSC) is seeking a Research Engineer to join our Computational Social Science and Humanities Laboratory as part of the AI Factory initiative. The AI Factory is a European project accelerating AI adoption across industry sectors, particularly supporting SMEs and startups while strengthening the European innovation ecosystem.
+
+
+
+The AI Factory, which utilizes MareNostrum5's specialized AI partition, relies on the secure and efficient management, sharing, and analysis of diverse and often sensitive datasets, including public administration and health data. This role will contribute to designing and implementing the necessary data infrastructure for the AI Factory ecosystem. This includes developing components such as a Data Broker for managing data access in adherence to GDPR, ensuring secure storage, transmission, and monitoring of sensitive data.
+
+
+
+
+While Trusted Research Environments (TREs) will manage secure access for highly sensitive data, such as in healthcare and genomics, this position will primarily focus on building the broader, interconnected data infrastructure that supports all AI Factory initiatives. A key responsibility will involve implementing data curation practices and adhering to FAIR principles (Findable, Accessible, Interoperable, and Reusable) to facilitate data management and dataset coordination for AI Factory users.
+
+
+
+
+This position provides an opportunity to contribute to AI readiness strategies, combining technical skills with effective data stewardship, and bridging computational innovation with practical AI implementation across European public and private sectors.
+
+
+
+Key Duties
+
+
+
+Design and implement data infrastructure components for the AI Factory initiative, including a Data Broker to manage access to diverse datasets while ensuring adherence to GDPR and other legal requirements.
+Establish and maintain mechanisms for secure storage, transmission, and monitoring of sensitive data (such as public administration and health data) within the AI Factory ecosystem.
+Implement data curation practices and uphold FAIR principles (Findable, Accessible, Interoperable, and Reusable) to facilitate data management and dataset coordination for AI Factory users.
+Provide technical support for data analysis, including AI/ML models and advanced statistical models, relevant to the development and validation of the data infrastructure
+Develop essential research tools, such as computational workflows or software add-ons, to support the creation and optimization of the AI Factory's data infrastructure
+Contribute to documenting methodologies, processes, and best practices related to the data infrastructure and sensitive data handling within the AI Factory ecosystem
+
+
+
+Requirements
+
+
+
+Education
+MSc in Data Science, AI or similar
+Essential Knowledge and Professional Experience
+Hands-on experience with python, R, and C (at least one of them)
+Experience with data analysis, such as using Python ML libraries or R statistical libraries.
+Additional Knowledge and Professional Experience
+Experience applying data analysis to social science and/or humanities research.
+Experience with data processing, data cleaning or preparing data for analysis.
+Good fluency in both spoken and written English
+Experience in AI models for science is a plus
+Experience using HPC
+Competences
+Competency in Python or R
+Knowledge of HPC and Distributed Computing
+Good communication skills for effective collaboration
+Ability to work both independently and within a team
+Hard-working and highly organized
+
+
+
+Conditions
+
+
+
+The position will be located at BSC within the Directors Department
+We offer a full-time contract (37.5h/week), a good working environment, a highly stimulating environment with state-of-the-art infrastructure, flexible working hours, extensive training plan, restaurant tickets, private health insurance, support to the relocation procedures
+Duration: Open-ended contract due to technical and scientific activities linked to the project and budget duration
+Holidays: 23 paid vacation days plus 24th and 31st of December per our collective agreement
+Salary: we offer a competitive salary commensurate with the qualifications and experience of the candidate and according to the cost of living in Barcelona
+Starting date: 16/07/2025
+
+
+
+Applications procedure and process
+
+
+
+All applications must be submitted via the BSC website and contain:
+
+
+
+A full CV in English including contact details
+A cover/motivation letter with a statement of interest in English, clearly specifying for which specific area and topics the applicant wishes to be considered. Additionally, two references for further contacts must be included. Applications without this document will not be considered.
+
+
+Development of the recruitment process
+
+The selection will be carried out through a competitive examination system ("Concurso-Oposición"). The recruitment process consists of two phases:
+
+
+
+Curriculum Analysis: Evaluation of previous experience and/or scientific history, degree, training, and other professional information relevant to the position. - 40 points
+Interview phase: The highest-rated candidates at the curriculum level will be invited to the interview phase, conducted by the corresponding department and Human Resources. In this phase, technical competencies, knowledge, skills, and professional experience related to the position, as well as the required personal competencies, will be evaluated. - 60 points. A minimum of 30 points out of 60 must be obtained to be eligible for the position.
+
+The recruitment panel will be composed of at least three people, ensuring at least 25% representation of women.
+
+In accordance with OTM-R principles, a gender-balanced recruitment panel is formed for each vacancy at the beginning of the process. After reviewing the content of the applications, the panel will begin the interviews, with at least one technical and one administrative interview. At a minimum, a personality questionnaire as well as a technical exercise will be conducted during the process.
+
+The panel will make a final decision, and all individuals who participated in the interview phase will receive feedback with details on the acceptance or rejection of their profile.
+
+
+
+
+
+At BSC, we seek continuous improvement in our recruitment processes. For any suggestions or comments/complaints about our recruitment processes, please contact recruitment [at] bsc [dot] es.
+
+For more information, please follow this link.
+
+
+
+Deadline
+
+
+
+The vacancy will remain open until a suitable candidate has been hired. Applications will be regularly reviewed and potential candidates will be contacted.
+
+
+
+OTM-R principles for selection processes
+
+
+
+BSC-CNS is committed to the principles of the Code of Conduct for the Recruitment of Researchers of the European Commission and the Open, Transparent and Merit-based Recruitment principles (OTM-R). This is applied for any potential candidate in all our processes, for example by creating gender-balanced recruitment panels and recognizing career breaks etc.
+
+BSC-CNS is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or any other basis protected by applicable state or local law.
+
+For more information follow this linkMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=107&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_53f2af88&cb=1751525842149&jobListingId=1009799672906&jrtk=5-yul1-0-1iv7h6mvk2gdn000-dc13ad754c02664d
+----------------------------------------
+Job 25:
+  job-company: Barcelona Supercomputing Center (BSC)
+  job-title: Research Engineer, Data Scientist, CSSH Program, AI Factory (RE2)
+  job-description: Job Reference
+468_25_DIR_CSSH_RE2
+Position
+Research Engineer, Data Scientist, CSSH Program, AI Factory (RE2)
+Closing Date
+Saturday, 02 August, 2025
+Reference: 468_25_DIR_CSSH_RE2
+Job title: Research Engineer, Data Scientist, CSSH Program, AI Factory (RE2)
+
+
+
+About BSC
+
+
+
+The Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS) is the leading supercomputing center in Spain. It houses MareNostrum, one of the most powerful supercomputers in Europe, was a founding and hosting member of the former European HPC infrastructure PRACE (Partnership for Advanced Computing in Europe), and is now hosting entity for EuroHPC JU, the Joint Undertaking that leads large-scale investments and HPC provision in Europe. The mission of BSC is to research, develop and manage information technologies in order to facilitate scientific progress. BSC combines HPC service provision and R&D into both computer and computational science (life, earth and engineering sciences) under one roof, and currently has over 1000 staff from 60 countries.
+
+
+
+Look at the BSC experience:
+
+BSC-CNS YouTube Channel
+
+Let's stay connected with BSC Folks!
+
+
+
+We are particularly interested for this role in the strengths and lived experiences of women and underrepresented groups to help us avoid perpetuating biases and oversights in science and IT research. In instances of equal merit, the incorporation of the under-represented sex will be favoured.
+
+
+
+We promote Equity, Diversity and Inclusion, fostering an environment where each and every one of us is appreciated for who we are, regardless of our differences.
+
+
+
+
+If you consider that you do not meet all the requirements, we encourage you to continue applying for the job offer. We value diversity of experiences and skills, and you could bring unique perspectives to our team.
+
+
+
+Context And Mission
+
+
+
+The Barcelona Supercomputing Center (BSC) is seeking a Research Engineer to
+
+join our Computational Social Science and Humanities Laboratory as part of the AI
+
+Factory initiative. The AI Factory is a European project accelerating AI adoption
+
+across industry sectors, particularly supporting SMEs and startups while
+
+strengthening the European innovation ecosystem.
+
+
+
+The AI Factory leverages the MareNostrum5 supercomputer's specialized AI
+
+partition to provide comprehensive AI services and support. The selected
+
+candidate will work within a collaborative team supporting AI readiness
+
+initiatives, contributing to organizational capability assessments and framework
+
+development for AI adoption across participating institutions and public
+
+administration entities.
+
+
+
+Key responsibilities include implementing data curation practices and FAIR principles
+
+(Findable, Accessible, Interoperable, and Reusable). Working alongside senior
+
+researchers, the candidate will support dataset coordination, preparation, and publication.This includes assisting in coordinating dataset availability for AI Factory use cases, contributing to establishing data governance frameworks, and supporting the creation of strategic roadmaps that help AI Factory organizations effectively manage and utilize data assets for AI implementation.
+
+
+
+
+This position offers the opportunity to contribute to AI readiness strategies that
+
+combine technical capabilities with data stewardship excellence, working within a
+
+dynamic team environment that bridges computational innovation with practical
+
+AI implementation across European public and private sectors.
+
+
+
+Key Duties
+
+
+
+Support the development and implementation of AI ready data assessment
+
+methodologies for organizations and public administration entities
+
+Implement data curation practices following FAIR principles (Findable,
+
+Accessible, Interoperable, and Reusable), with community metadata standards, and coordinate dataset availability for AI Factory users
+
+Provide support with data analysis, including AI/ML models and advanced
+
+statistical models for AI readiness evaluations
+
+Develop research tools (e.g., computational workflows, software add-ons) to
+
+facilitate AI readiness assessments
+Work closely with BSC department and Operations
+
+department to bridge technical and research functions within the AI Factory
+
+initiative
+Document methodologies, processes, and best practices while contributing to
+
+training materials and knowledge sharing within the AI Factory
+
+
+
+Requirements
+
+
+
+Education
+MSc in Data Science, AI or similar
+
+Essential Knowledge and Professional Experience
+2 to 4 years of experience curating, managing and/or analyzing large datasets for research purposes
+Hands-on experience with python, and R(at least one of them)
+Experience with data analysis, such as using Python ML libraries or R statistical libraries
+Experience with data processing, data cleaning or preparing data for analysis
+Additional Knowledge and Professional Experience
+Experience with DDI metadata schema, data architecture, and data governance
+Experience applying data analysis to social science research
+Good fluency in both spoken and written English
+Experience using HPC
+Competences
+Competency in Python or R
+Good communication skills for effective collaboration
+Ability to work both independently and within a team
+Hard-working and highly organized
+
+
+
+Conditions
+
+
+
+The position will be located at BSC within the Earth Sciences Department
+We offer a full-time contract (37.5h/week), a good working environment, a highly stimulating environment with state-of-the-art infrastructure, flexible working hours, extensive training plan, restaurant tickets, private health insurance, support to the relocation procedures
+Duration: Open-ended contract due to technical and scientific activities linked to the project and budget duration
+Holidays: 23 paid vacation days plus 24th and 31st of December per our collective agreement
+Salary: we offer a competitive salary commensurate with the qualifications and experience of the candidate and according to the cost of living in Barcelona
+Starting date: 16/07/2025
+
+
+
+Applications procedure and process
+
+
+
+All applications must be submitted via the BSC website and contain:
+
+
+
+A full CV in English including contact details
+A cover/motivation letter with a statement of interest in English, clearly specifying for which specific area and topics the applicant wishes to be considered. Additionally, two references for further contacts must be included. Applications without this document will not be considered.
+
+
+Development of the recruitment process
+
+The selection will be carried out through a competitive examination system ("Concurso-Oposición"). The recruitment process consists of two phases:
+
+
+
+Curriculum Analysis: Evaluation of previous experience and/or scientific history, degree, training, and other professional information relevant to the position. - 40 points
+Interview phase: The highest-rated candidates at the curriculum level will be invited to the interview phase, conducted by the corresponding department and Human Resources. In this phase, technical competencies, knowledge, skills, and professional experience related to the position, as well as the required personal competencies, will be evaluated. - 60 points. A minimum of 30 points out of 60 must be obtained to be eligible for the position.
+
+The recruitment panel will be composed of at least three people, ensuring at least 25% representation of women.
+
+In accordance with OTM-R principles, a gender-balanced recruitment panel is formed for each vacancy at the beginning of the process. After reviewing the content of the applications, the panel will begin the interviews, with at least one technical and one administrative interview. At a minimum, a personality questionnaire as well as a technical exercise will be conducted during the process.
+
+The panel will make a final decision, and all individuals who participated in the interview phase will receive feedback with details on the acceptance or rejection of their profile.
+
+
+
+
+
+At BSC, we seek continuous improvement in our recruitment processes. For any suggestions or comments/complaints about our recruitment processes, please contact recruitment [at] bsc [dot] es.
+
+For more information, please follow this link.
+
+
+
+Deadline
+
+
+
+The vacancy will remain open until a suitable candidate has been hired. Applications will be regularly reviewed and potential candidates will be contacted.
+
+
+
+OTM-R principles for selection processes
+
+
+
+BSC-CNS is committed to the principles of the Code of Conduct for the Recruitment of Researchers of the European Commission and the Open, Transparent and Merit-based Recruitment principles (OTM-R). This is applied for any potential candidate in all our processes, for example by creating gender-balanced recruitment panels and recognizing career breaks etc.
+
+BSC-CNS is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or any other basis protected by applicable state or local law.
+
+For more information follow this linkMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=106&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_9103b019&cb=1751525842146&jobListingId=1009799672687&jrtk=5-yul1-0-1iv7h6mvk2gdn000-ea2acc783def30e2
+----------------------------------------
+Job 26:
+  job-company: AstraZeneca
+  job-title: Backend Software Enginee
+  job-description: Evinova is currently looking for a Software Engineer to join our Product Engineering team. This role requires someone that codes daily, is self-motivated, and has a passion for development. We’ll rely on you to bring your technical acumen to help the team continue to deliver world class solutions.
+In this role, you will be a Software Engineer in our product – Unified Trial Solutions (UTS). Unified Trial Solutions (UTS) is a new, strategic product at AZ, designed to unify and streamline clinical trial execution across the enterprise. This role will be based in Barcelona, ES, and you will be a part of our global product engineering team.
+Our team is a high performing team in a fast-paced environment, and you will often be working with team members across multiple locations. You will be collaborating with cross functional teams – like design, product, and platform. You will be given requirements that you are expected to understand, plan, develop, and thoroughly test before considering the work completed. Deployments are also handled by our team, and you will be working with team members in deploying your code. You are expected to collaborate with your team members and escalate appropriately to your lead in case of issues. You will also be coordinating with different teams as needed for integrations.
+We are looking for individuals with a proven understanding of back-end development space and have a desire to learn new technologies as needed. We are looking for individuals who have knowledge in the core technologies like Java, Node.js, Java, JS, SQL, and NoSQL, while additional skills are appreciated. It is not vital that you have expertise in all the following, but here are a few skills we are looking for in a person for this roleJava with Spring bootJUnit and Cucumber (Gherkin)MongoDB and Atlas CloudDockerAWS
+o CDK
+o EKS
+o CognitoElasticSearch and KibanaGrafana and PrometheusKafka streamsOpenAPI (swagger)GitHub actions
+Additional skills will be valuable:NodeJS with Typescript
+o NestJS
+o TypeORMPostgreSQL or MySQLBrowserStack
+
+Education Requirements:Bachelor’s degree in computer engineering, Electrical Engineering, Math, Computer Science, Information Science, or equivalent degree is preferred.
+Experience Requirements:
+— Long history of enjoying problem solving and building things
+— 2+ years of hands-on software development experience
+— A keen interest in new technologies, such as genAI
+About Evinova
+Evinova is a health-tech business, accelerating the delivery of better health outcomes by propelling the life sciences sector forward in digital health, from the inside. Through our application of science-based expertise, evidence-led rigor, and human experience-driven insight, our digital solutions are deliberately designed so that everyone can reach better health outcomes together. Evinova is a health-tech business within the AstraZeneca Group.
+Digital Health is the convergence of healthcare with technology, data, and analytics to transform the healthcare industry and improve human health.
+At AstraZeneca, our goal is to improve patient experience and outcomes. We’ve been working hard to make this a reality, and our accumulated years of experience enable us to embed digital health at scale in our business and lead with our digital patient solutions.
+AstraZeneca has Digital Health as one of the top strategic priorities for the company.
+Why Evinova (AstraZeneca)?
+Evinova draws on AstraZeneca’s deep experience developing novel therapeutics, informed by insights from thousands of patients and clinical researchers. Together, we can accelerate the delivery of life-changing medicines, improve the design and delivery of clinical trials for better patient experiences and outcomes, and think more holistically about patient care before, during, and after treatment. We know that regulators, healthcare professionals, and care teams at clinical trial sites do not want a fragmented approach. They do not want a future where every pharmaceutical company provides its own, different digital solutions. They want solutions that work across the sector, simplify their workload, and benefit patients broadly. By bringing our solutions to the wider healthcare community, we can help build more unified approaches to how we all develop and deploy digital technologies, better serving our teams,
+physicians, and ultimately patients. Evinova represents a unique opportunity to deliver meaningful outcomes with digital and AI to serve the wider healthcare community and create new standards for the sector. Join us on our journey of building a new kind of health-tech business to reset expectations of what a bio-pharmaceutical company can be. This means we’re opening new ways to work, pioneering cutting-edge methods, and bringing unexpected teams together. Interested? Come and join our journey.
+So, what’s next!
+Are you already imagining yourself joining our team? Good, because we can’t wait to hear from you.
+Where can I find out more? Our Social Media, Follow AstraZeneca on LinkedIn https://www.linkedin.com/company/1603/ Follow AstraZeneca on Facebook https://www.facebook.com/astrazenecacareers/ Follow AstraZeneca on Instagram https://www.instagram.com/astrazeneca_careers/?hl=enMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=105&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_1ec57ea7&cb=1751525842145&jobListingId=1009799624434&jrtk=5-yul1-0-1iv7h6mvk2gdn000-aa7af751c84e8819
+----------------------------------------
+Job 27:
+  job-company: DoiT
+  job-title: Sr. Software Engineer (GenAI-focused)
+  job-description: Location
+
+Our Senior Software Engineer will be an integral part of our Engineering teams in EMEA.
+
+This role is based remotely as a full-time employee in the UK, Ireland, Estonia, the Netherlands, Sweden, and Spain. We are also open to contractors in Eastern Europe and Portugal.
+
+
+
+Who We Are
+
+DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state, from planning to production.
+
+
+Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.
+
+With decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide.
+
+
+
+The Opportunity
+
+As a Senior Software Engineer, you will be working on improving the DoiT Cloud Intelligence product and implementing new features. You'll be collaborating with product managers, DevOps, and developers from other teams, and actively participating in product-making decisions.
+
+In this role, you will focus on building and optimizing solutions using AI and cloud technologies, with a strong emphasis on cost optimization and performance at scale. You'll be working on enhancing Ava, our AI Assistant, as well as a feature known as Diagram, which helps customers — primarily startups and tech companies — visualize and streamline their cloud infrastructure.
+
+You will play a key role in solving complex technical challenges, such as building scalable AI-based systems and integrating cloud intelligence into our platform
+
+
+
+Responsibilities
+
+Implementing features. From the proposal through spec and implementation to maintenance. You're expected to propose things that you think can be an excellent addition to the products
+Reviewing code. We believe in code reviews. And you will soon start reviewing pull requests as well!
+Improving the health of the codebase. We're mindful of accumulating technical debt. We dedicate one day per week to housekeeping
+Providing feedback. The team plans and discusses the upcoming work. We provide feedback to each other, trying to find challenges and unknowns as early as possible
+
+Qualifications
+
+5+ years of software development experience as a Full Stack Engineer
+A solid understanding of programming languages, ideally knowledge of TypeScript and Go, but if you don't, you will be willing to learn and fully embrace these languages
+Experience with Google Cloud or AWS in a production environment
+Experience in system design
+Embraces continuous development and learning
+Knowledge of software engineering practices
+Experience with Git/GitHub
+Excellent communication skills in English, both written and verbal
+Self-organized, Goal-oriented, self-motivated individual who is confident, thorough, and tenacious
+Ability to effectively operate with flexibility in a fast-paced, constantly evolving team environment
+A great sense of humor and enjoys having fun at work
+
+Bonus Points
+
+BA/BS degree or equivalent practical experience
+Experience with AI, embeddings, LangChain, LangGraph, agents, and MCP
+Experience with a vector database
+Experience with IaC (Terraform/Pulumi)
+
+
+
+Are you a Do'er?
+
+Be your truest self. Work on your terms. Make a difference.
+
+We are home to a global team of incredible talent who work remotely and have the flexibility to have a schedule that balances your work and home life. We embrace and support leveling up your skills professionally and personally.
+
+
+What does being a Do'er mean? We're all about being entrepreneurial, pursuing knowledge, and having fun! Click here to learn more about our core values.
+
+
+Sounds too good to be true? Check out our Glassdoor Page.
+
+We thought so too, but we're here and happy we hit that 'apply' button.
+
+
+Unlimited Vacation
+Flexible Working Options
+Health Insurance
+Parental Leave
+Employee Stock Option Plan
+Home Office Allowance
+Professional Development Stipend
+Peer Recognition Program
+
+
+
+Many Do'ers, One Team
+
+DoiT unites as Many Do'ers, One Team, where diversity is more than a goal—it's our strength. We actively cultivate an inclusive, equitable workplace, recognizing that each unique perspective enhances our innovation. By celebrating differences, we create an environment where every individual feels valued, contributing to our collective success.
+
+#LI-RemoteMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=104&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_e8f792a0&cb=1751525842146&jobListingId=1009799417601&jrtk=5-yul1-0-1iv7h6mvk2gdn000-f15258047610e449
+----------------------------------------
+Job 28:
+  job-company: eDreams ODIGEO
+  job-title: Frontend Developer – Accommodation (Hybrid)
+  job-description: Job Description
+
+As you contemplate your future, you might be asking yourself, what’s the next step? Start your journey with us!
+We’re seeking an experienced Frontend Developer to join our Accommodation Team in Barcelona (Hybrid), where you will work in a team of skilled software engineers. In this area, you will offer the most convenient hotel for our customers, working with machine learning capabilities. If you’re ready to soar, we’re ready to take you there.
+Why eDreams ODIGEO
+
+Join the world’s leading travel subscription platform and one of the largest e-commerce businesses in Europe.
+Millions of customers every year across 44 markets – 5 brands – 7M members in Prime
+
+More than 100 million searches per day – Up to 6 billion daily AI predictions[e1]
+
+Over 1,700 employees – More than 60 different nationalities from all continents – 99% permanent contracts – 36 average age
+We’re the world’s leading travel subscription platform and one of the largest e-commerce businesses in Europe. We are a tech company revolutionising the travel booking experience through our consumer insight, innovative technology, market leadership, and Prime, the world’s first travel subscription program.
+What you will do:
+
+The Role’s Key Responsibilities and Tasks
+As an eDOer, you will have clear objectives, great challenges and a clear overview of how your work contributes to the global company project and its customers. As a Frontend Developer in the Accommodation Team, you will be in charge of:
+Work with a top-notch tech stack such as ES6 code, Javascript libraries like ReactJS, Graphql, Testing frameworks and libraries like Mocha, Chai, and Jest, React Testing library (Selenium + Cucumber + Nodejs), Style Sheet preprocessors like SASS, CSS-in-JS and styled-components, Packages and task runners like webpack, babel, grunt, npm
+Work with a distributed, scalable micro-services environment, where software gets deployed daily, with high quality, clean code, SOLID principles and TDD
+Be part of a high-performing cross-functional team of 7-10 developers, POs, UXers, QAs, data scientists etc, all sharing the same values and focus on the customer
+Develop powerful and advanced algorithms that are at the forefront of innovation in travel tech
+Leverage your technical excellence mindset to code solutions with the highest quality through good design, attention to detail and test quality, as well as challenge decisions to help all teams improve technical excellence
+Actively participate in the product definition and ideation processes
+Work in a fully agile organisation, using Kanban practices to deliver business value continuously
+Continuously learn and participate in workshops, hackathons and other events as we consider it key to be active within the IT community
+Own and monitor the performance of product and technical OKRs
+Having a technical mindset is vital for us, which is why we promote:
+Microservices platform and modular FE
+Powerful monitoring techniques using Data dog, BigQuery and Graphana
+Version-control systems like Git & bitbucket
+Story book using Design system made with emotion and styled system
+Clean code
+SOLID principles and TDD
+What you need to succeed:
+
+Good to have
+Bring your unique perspective, speak up, and offer disruptive solutions. You’ll have the opportunity to learn and grow while making a real impact on our team. Here’s what you need to succeed:
+Strong mastery of Javascript
+Strong knowledge of engineering fundamentals (data structures, concurrency, design patterns, algorithms)
+Great technical mindset to work in an environment where we promote the use of microservices platforms, clean code, SOLID principles and TDD
+Ability to code with the highest quality through good design, attention to detail and test quality
+Knowledge of Cloud and of Continuous Delivery environments to help you deliver value quickly
+Strong data driven capabilities and design pattern skills that will allow you to face our business challenges
+Be part of the product definition, identify improvement options, challenge decisions constructively and provide creative solutions to complex problems, focusing on the outcome and not on the tasks
+Fluent English level required, with strong written and oral communication skills
+Be a team player, with good communication and mentoring skills
+Eager to push technical excellence, sense of ownership and proactivity
+Preferred Qualifications
+Experience with Applied AI Tools: Demonstrated comfort using practical AI tools such as GitHub Copilot, ChatGPT, or other AI-powered coding assistants.
+Experimentation Mindset: Curiosity and eagerness to explore, experiment with, and integrate emerging AI-driven solutions into software development workflows.
+AI-Enhanced Problem Solving: Ability to effectively leverage AI tools to debug code, streamline development processes, and enhance productivity.
+Adaptability and Learning Agility: Enthusiastic about continuously learning and quickly adapting to new AI features and capabilities.
+Collaboration with AI: Experience or interest in collaborating closely with AI tools as “pair programmers” to complement traditional software development practices.
+What’s in it for you?
+The best talent deserves the best benefits
+At eDO, we want you to be a part of our success story and great culture.
+Here’s what we offer:
+A rewarding Compensation package! Prime Plus membership, competitive salary and benefits package, including flexible benefits, performance-based bonuses, birthday day off, discounts and partnerships, relocation support and the possibility of choosing your equipment and, even better, keeping it for free after 3 years.
+Continuous learning to fuel your growth and explore new horizons! Learn and grow with free Coursera access, soft skills workshops, tech training, leadership development, and more. Plus, enjoy a great onboarding program.
+Grow opportunities to empower your career, and unleash your potential! Personalised career paths and the eVOLVE Program will help you discover, grow, and thrive. Internal mobility opportunities let you pursue horizontal career changes and promotions.
+Your Well-being is our priority. Embrace Freedom and Flexibility! At eDO, we value flexibility, employee care, and transparency. We offer a hybrid home-office model focused on outcome, not time-in-seat. You’ll be able to find the right work-personal life balance that suits you best.
+Work hard, party hard! We believe in having fun and connecting with colleagues! Join eDO for after-work events, padel tournaments, parties, and more. Create communities based on your passions, like sports and music. Come to work as you are, with no dress code, and enjoy free fruit, coffee, and tea at our offices.
+Enjoy a dynamic and healthy environment! Be innovative, take risks, and share your ideas. Our diverse and open-minded teams support high performance, learning, and growth. You’ll work in an Agile mindset environment with recognition at our core.
+Wanna take a peek into what it’s like to work at eDO? Follow us on LinkedIn and discover more about life at eDO!
+If you are ready for a career opportunity with unmatched benefits, continuous learning, and a supportive work-life balance, look no further! Take your career to new destinations by applying now and help our diverse, inclusive, and passionate team shape the future of travel.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status. Our people are the key to our success. Each one of them is unique in their own way and the respect for their uniqueness is and will always be a passion and motivation. Don’t meet every requirement? If you’re excited about this role but do not feel your experience aligns perfectly with all the requirements we strongly encourage you to apply nevertheless.
+Job Summary
+Barcelona Location
+Permanent Job TypeMostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_ffd3b5c3&cb=1751525842145&jobListingId=1009800025348&jrtk=5-yul1-0-1iv7h6mvk2gdn000-f5499689964cb5ad
+----------------------------------------
+Job 29:
+  job-company: Merck Group
+  job-title: Senior DevOps Engineer
+  job-description: Work Your Magic with us!
+
+Ready to explore, break barriers, and discover more? We know you’ve got big plans – so do we! Our colleagues across the globe love innovating with science and technology to enrich people’s lives with our solutions in Healthcare, Life Science, and Electronics. Together, we dream big and are passionate about caring for our rich mix of people, customers, patients, and planet. That's why we are always looking for curious minds that see themselves imagining the unimaginable with us.
+
+United As One for Patients, our purpose in Healthcare is to help create, improve and prolong lives. We develop medicines, intelligent devices and innovative technologies in therapeutic areas such as Oncology, Neurology and Fertility. Our teams work together across 6 continents with passion and relentless curiosity in order to help patients at every stage of life. Joining our Healthcare team is becoming part of a diverse, inclusive and flexible working culture, presenting great opportunities for personal development and career advancement across the globe.
+
+Your Role: As a Senior DevOps Engineer with a strong background in Azure, you will join the Data & AI Solutions - Engineering team in our Healthcare R&D business. Your expertise will enhance cloud-based platforms in our D&A Landscape using AWS Cloud Services and Azure AD, supporting our R&D efforts in drug discovery and development.
+
+You will bridge software development, quality assurance, and IT operations, ensuring our platform is reliable, scalable, and automated. Your expertise will contribute to accelerate deployment cycles and minimize downtime. Key responsibilities include deploying new releases, maintaining Azure AD for identity management, and collaborating with cross-functional teams to advocate for DevOps best practices and guide architectural decisions.
+
+Join a multicultural team working in agile methodologies with high autonomy. The role requires office presence at our Spain location.
+
+Who You Are:
+University degree in Computer Science, Engineering, or a related field
+5+ years of experience applying DevOps in solution development & delivery
+Proficiency in Azure DevOps incl. project configurations, repositories, pipelines, and environments
+Proficiency in Azure AD incl. apps registration, and authentication flows (OBO, Client Credentials)
+Good understanding of AWS services and cloud system design
+Strong experience in observability practices, including logging, monitoring, and tracing using tools like Prometheus, Grafana, ELK Stack, or AWS-native solutions.
+Proficiency in Infrastructure as Code (IaC) using Terraform and AWS CloudFormation for automated and repeatable cloud infrastructure deployments.
+Experience with configuration management tools such as Ansible for automating service provisioning, configuration and management.
+Knowledge of security best practices in DevOps, including secrets management, role-based access control (RBAC), and compliance frameworks
+Strong scripting and automation skills using Python for developing of automations and integration workflows
+Willingness to work in a multinational environment and cross-functional teams distributed between US, Europe (mostly, Germany) and India
+Sense of accountability and ownership, fast learner
+Fluency in English & excellent communication skills for technical and non-technical stakeholders
+
+If you are curious and ambitious to take up this challenge, apply today and be in the driver seat implementing our Data and Analytics landscape. Your contribution will make a lasting impact on our customers and our organization and elevating Data & Analytics to the next level!
+
+What we offer: We are curious minds that come from a broad range of backgrounds, perspectives, and life experiences. We celebrate all dimensions of diversity and believe that it drives excellence and innovation, strengthening our ability to lead in science and technology. We are committed to creating access and opportunities for all to develop and grow at your own pace. Join us in building a culture of inclusion and belonging that impacts millions and empowers everyone to work their magic and champion human progress!
+
+
+
+Apply now and become a part of our diverse team!Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&cs=1_7ed036e9&cb=1751525842145&jobListingId=1009800033346&jrtk=5-yul1-0-1iv7h6mvk2gdn000-83951ea11ed8e1e4
+----------------------------------------
+Job 30:
+  job-company: G2i Inc.
+  job-title: Software Engineer, AI (Java)
+  job-description: Software Engineer, AI — Code Evaluation & Training (Remote)
+List of accepted countries and locations
+Help train large-language models (LLMs) to write production-grade code across a wide range of programming languages:
+Compare & rank multiple code snippets, explaining which is best and why.
+Repair & refactor AI-generated code for correctness, efficiency, and style.
+Inject feedback (ratings, edits, test results) into the RLHF pipeline and keep it running smoothly.
+
+End result: the model learns to propose, critique, and improve code the way you do.
+RLHF in one line
+
+Generate code ➜ expert engineers rank, edit, and justify ➜ convert that feedback into reward signals ➜ reinforcement learning tunes the model toward code you’d actually ship.
+What You’ll Need
+4+ years of professional software engineering experience in Java
+
+(Constraint programming experience is a bonus, but not required)
+Strong code-review instincts—you can spot logic errors, performance traps, and security issues quickly.
+Extreme attention to detail and excellent written communication skills.
+
+Much of this role involves explaining why one approach is better than another. This cannot be overstated.
+You enjoy reading documentation and language specs and thrive in an asynchronous, low-oversight environment.
+What You Don’t Need
+No prior RLHF (Reinforcement Learning with Human Feedback) or AI training experience.
+No deep machine learning knowledge. If you can review and critique code clearly, we’ll teach you the rest.
+Tech Stack
+We are looking for engineers with a strong command of Java.
+Logistics
+Location: Fully remote — work from anywhere
+Compensation: From $30/hr to $70/hr, depending on location and seniority
+Hours: Minimum 15 hrs/week, up to 40 hrs/week available
+Engagement: 1099 contract
+Straightforward impact, zero fluff. If this sounds like a fit, apply here!Mostra di più
+  job-link-href: https://www.glassdoor.it/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=00000197cf135bad8b6903d24deb6dfb&src=GD_JOB_AD&t=SR&vt=w&uido=A52B4CBE06EF9AD1DA2B1D27B20443B9&ea=1&cs=1_40dbbdee&cb=1751525842145&jobListingId=1009800234141&jrtk=5-yul1-0-1iv7h6mvk2gdn000-0f8819ee656fce79
+----------------------------------------

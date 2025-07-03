@@ -2,6 +2,8 @@ from typing import List, Dict
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
 
 def score_jobs_tfidf(resume_text: str, jobs: List[Dict], desc_key: str = 'job-description') -> List[Dict]:
@@ -16,16 +18,26 @@ def score_jobs_tfidf(resume_text: str, jobs: List[Dict], desc_key: str = 'job-de
     job_vecs = tfidf_matrix[1:]
     similarities = cosine_similarity(resume_vec, job_vecs)[0]
     for job, sim in zip(jobs, similarities):
-        job['score'] = round(sim * 100, 2)
+        job['score'] = round(float(sim) * 100, 2)
     return jobs
 
 
 def score_jobs_embedding(resume_text: str, jobs: List[Dict], desc_key: str = 'job-description') -> List[Dict]:
     """
-    Stub for future: Scores each job using advanced embedding-based similarity (e.g., Sentence Transformers, OpenAI, etc).
+    Scores each job using SentenceTransformer embeddings (all-MiniLM-L6-v2) and cosine similarity.
     Adds a 'score' key (0-100) to each job dict and returns the updated list.
     """
-    raise NotImplementedError("Embedding-based scoring not implemented yet.")
+    # Load model (do this once per run)
+    model = SentenceTransformer('all-MiniLM-L6-v2')
+    # Prepare texts
+    texts = [resume_text] + [job[desc_key] for job in jobs]
+    embeddings = model.encode(texts, convert_to_numpy=True, show_progress_bar=False)
+    resume_emb = embeddings[0].reshape(1, -1)
+    job_embs = embeddings[1:]
+    similarities = cosine_similarity(resume_emb, job_embs)[0]
+    for job, sim in zip(jobs, similarities):
+        job['score'] = round(float(sim) * 100, 2)
+    return jobs
 
 
 def write_debug_scored_jobs(jobs: List[Dict], filename: str = "scored_jobs_debug.txt"):
